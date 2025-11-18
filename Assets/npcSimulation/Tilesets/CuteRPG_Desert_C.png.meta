@@ -1,0 +1,2230 @@
+fileFormatVersion: 2
+guid: cca15d43e292f89459712ef142e889f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8896809990864866323
+    second: CuteRPG_Desert_C_0
+  - first:
+      213: 2235134394576624367
+    second: CuteRPG_Desert_C_1
+  - first:
+      213: -7045700698234198586
+    second: CuteRPG_Desert_C_2
+  - first:
+      213: -1617343316865337150
+    second: CuteRPG_Desert_C_3
+  - first:
+      213: 7144817580410980242
+    second: CuteRPG_Desert_C_4
+  - first:
+      213: -4458852853522878480
+    second: CuteRPG_Desert_C_5
+  - first:
+      213: -356541906098071135
+    second: CuteRPG_Desert_C_6
+  - first:
+      213: 8478718286696874362
+    second: CuteRPG_Desert_C_7
+  - first:
+      213: 4239326520607902028
+    second: CuteRPG_Desert_C_8
+  - first:
+      213: -8675387365946103656
+    second: CuteRPG_Desert_C_9
+  - first:
+      213: -7042778247971877484
+    second: CuteRPG_Desert_C_10
+  - first:
+      213: 2647922996873232043
+    second: CuteRPG_Desert_C_11
+  - first:
+      213: -1424295635252524124
+    second: CuteRPG_Desert_C_12
+  - first:
+      213: -1968292282336593846
+    second: CuteRPG_Desert_C_13
+  - first:
+      213: -3343191690133093254
+    second: CuteRPG_Desert_C_14
+  - first:
+      213: 4525018985775557322
+    second: CuteRPG_Desert_C_15
+  - first:
+      213: -3100309949239705623
+    second: CuteRPG_Desert_C_16
+  - first:
+      213: -2447924940427660595
+    second: CuteRPG_Desert_C_17
+  - first:
+      213: 8132386289702520882
+    second: CuteRPG_Desert_C_18
+  - first:
+      213: -923189336737093113
+    second: CuteRPG_Desert_C_19
+  - first:
+      213: 3074548637723530042
+    second: CuteRPG_Desert_C_20
+  - first:
+      213: -1421602106037315292
+    second: CuteRPG_Desert_C_21
+  - first:
+      213: -4899707933471832083
+    second: CuteRPG_Desert_C_22
+  - first:
+      213: -3690075662522152502
+    second: CuteRPG_Desert_C_23
+  - first:
+      213: -6322405090806358656
+    second: CuteRPG_Desert_C_24
+  - first:
+      213: -7728120026717557609
+    second: CuteRPG_Desert_C_25
+  - first:
+      213: 2064850406765660696
+    second: CuteRPG_Desert_C_26
+  - first:
+      213: 8798418147743838430
+    second: CuteRPG_Desert_C_27
+  - first:
+      213: 1644188983884607789
+    second: CuteRPG_Desert_C_28
+  - first:
+      213: -107243422460892379
+    second: CuteRPG_Desert_C_29
+  - first:
+      213: 1268354363527332144
+    second: CuteRPG_Desert_C_30
+  - first:
+      213: 2550508664456254023
+    second: CuteRPG_Desert_C_31
+  - first:
+      213: 5600716953475861373
+    second: CuteRPG_Desert_C_32
+  - first:
+      213: -877302869945705065
+    second: CuteRPG_Desert_C_33
+  - first:
+      213: -1425757454395451208
+    second: CuteRPG_Desert_C_34
+  - first:
+      213: 7416496672783214110
+    second: CuteRPG_Desert_C_35
+  - first:
+      213: -8416648830370433278
+    second: CuteRPG_Desert_C_36
+  - first:
+      213: -5167411805687354515
+    second: CuteRPG_Desert_C_37
+  - first:
+      213: 435287449717452561
+    second: CuteRPG_Desert_C_38
+  - first:
+      213: 6768777296784243899
+    second: CuteRPG_Desert_C_39
+  - first:
+      213: -3570926910603041384
+    second: CuteRPG_Desert_C_40
+  - first:
+      213: 1291691199903834124
+    second: CuteRPG_Desert_C_41
+  - first:
+      213: -8592635513724200531
+    second: CuteRPG_Desert_C_42
+  - first:
+      213: 7255049041125093452
+    second: CuteRPG_Desert_C_43
+  - first:
+      213: 2732077698125803679
+    second: CuteRPG_Desert_C_44
+  - first:
+      213: -2231308437095435054
+    second: CuteRPG_Desert_C_45
+  - first:
+      213: 1162146846839160584
+    second: CuteRPG_Desert_C_46
+  - first:
+      213: 5084471978306112641
+    second: CuteRPG_Desert_C_47
+  - first:
+      213: -8647040168564294196
+    second: CuteRPG_Desert_C_48
+  - first:
+      213: 4617331432230074758
+    second: CuteRPG_Desert_C_49
+  - first:
+      213: 1797263775528721973
+    second: CuteRPG_Desert_C_50
+  - first:
+      213: -8640996384742150010
+    second: CuteRPG_Desert_C_51
+  - first:
+      213: 6334303782760834612
+    second: CuteRPG_Desert_C_52
+  - first:
+      213: -1774004135918520881
+    second: CuteRPG_Desert_C_53
+  - first:
+      213: -1731049683446099022
+    second: CuteRPG_Desert_C_54
+  - first:
+      213: 8072223751611003533
+    second: CuteRPG_Desert_C_55
+  - first:
+      213: -8057148504745520616
+    second: CuteRPG_Desert_C_56
+  - first:
+      213: 2223298510903709031
+    second: CuteRPG_Desert_C_57
+  - first:
+      213: -4883901264377336242
+    second: CuteRPG_Desert_C_58
+  - first:
+      213: 704887249342441154
+    second: CuteRPG_Desert_C_59
+  - first:
+      213: -560492840469881534
+    second: CuteRPG_Desert_C_60
+  - first:
+      213: -1248082672177096354
+    second: CuteRPG_Desert_C_61
+  - first:
+      213: 5447700103767526251
+    second: CuteRPG_Desert_C_62
+  - first:
+      213: 2229669860587229498
+    second: CuteRPG_Desert_C_63
+  - first:
+      213: -3398400920926907811
+    second: CuteRPG_Desert_C_64
+  - first:
+      213: -2044478542108968161
+    second: CuteRPG_Desert_C_65
+  - first:
+      213: 7130446976225164331
+    second: CuteRPG_Desert_C_66
+  - first:
+      213: 246365074360757898
+    second: CuteRPG_Desert_C_67
+  - first:
+      213: -624788876294609099
+    second: CuteRPG_Desert_C_68
+  - first:
+      213: -5011872774570846192
+    second: CuteRPG_Desert_C_69
+  - first:
+      213: -5631794250965346175
+    second: CuteRPG_Desert_C_70
+  - first:
+      213: 546516891395609482
+    second: CuteRPG_Desert_C_71
+  - first:
+      213: -8260527000927177092
+    second: CuteRPG_Desert_C_72
+  - first:
+      213: -1318854544445190379
+    second: CuteRPG_Desert_C_73
+  - first:
+      213: 2835112038961331996
+    second: CuteRPG_Desert_C_74
+  - first:
+      213: -1980140672826340666
+    second: CuteRPG_Desert_C_75
+  - first:
+      213: 29043930512363533
+    second: CuteRPG_Desert_C_76
+  - first:
+      213: 6251670110092282419
+    second: CuteRPG_Desert_C_77
+  - first:
+      213: 8818109202458449537
+    second: CuteRPG_Desert_C_78
+  - first:
+      213: 8358247109073928252
+    second: CuteRPG_Desert_C_79
+  - first:
+      213: -2404568103360719164
+    second: CuteRPG_Desert_C_80
+  - first:
+      213: 4460968513894471446
+    second: CuteRPG_Desert_C_81
+  - first:
+      213: -1853659684984840799
+    second: CuteRPG_Desert_C_82
+  - first:
+      213: -2702785143172091632
+    second: CuteRPG_Desert_C_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 479
+        width: 98
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de37a5c537e288480800000000000000
+      internalID: -8896809990864866323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 491
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea5ffdb3eac40f10800000000000000
+      internalID: 2235134394576624367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 491
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c567007b84a83e90800000000000000
+      internalID: -7045700698234198586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 491
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8b36682da0e89e0800000000000000
+      internalID: -1617343316865337150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 493
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297cc590cbd772360800000000000000
+      internalID: 7144817580410980242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 493
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff280824f8fe12c0800000000000000
+      internalID: -4458852853522878480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 491
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9db73860f4d0bf0800000000000000
+      internalID: -356541906098071135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 489
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a710d2d0c557aa570800000000000000
+      internalID: 8478718286696874362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 491
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c490ab3720d15da30800000000000000
+      internalID: 4239326520607902028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 493
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898eed3a725da9780800000000000000
+      internalID: -8675387365946103656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 491
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dc9c96f76034e90800000000000000
+      internalID: -7042778247971877484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 491
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae7735bfef4fb420800000000000000
+      internalID: 2647922996873232043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 491
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab42ad7aa2eb3ce0800000000000000
+      internalID: -1424295635252524124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 493
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a483f2109983fa4e0800000000000000
+      internalID: -1968292282336593846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_14
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 493
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74449deed89a91d0800000000000000
+      internalID: -3343191690133093254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 491
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaec010bc81cce30800000000000000
+      internalID: 4525018985775557322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 451
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef35fdf68c79f4d0800000000000000
+      internalID: -3100309949239705623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 451
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc27df08c39370ed0800000000000000
+      internalID: -2447924940427660595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 449
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238c9f54e3a0cd070800000000000000
+      internalID: 8132386289702520882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 389
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a6b53803c2033f0800000000000000
+      internalID: -923189336737093113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 453
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a331c2442bdfaaa20800000000000000
+      internalID: 3074548637723530042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 459
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429d2b1aa64754ce0800000000000000
+      internalID: -1421602106037315292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_22
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 459
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de78f32289db00cb0800000000000000
+      internalID: -4899707933471832083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac98d0d5cb73accc0800000000000000
+      internalID: -3690075662522152502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 461
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d9d54411e4248a0800000000000000
+      internalID: -6322405090806358656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 461
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ceae1f7c330c490800000000000000
+      internalID: -7728120026717557609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 459
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a86914182d7ac10800000000000000
+      internalID: 2064850406765660696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 457
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed03f9970b24a1a70800000000000000
+      internalID: 8798418147743838430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 459
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d217d086b2551d610800000000000000
+      internalID: 1644188983884607789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_29
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 459
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ba8bbecaef28ef0800000000000000
+      internalID: -107243422460892379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_30
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 461
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0310d57d2991a9110800000000000000
+      internalID: 1268354363527332144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_31
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 459
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742987dfd1a356320800000000000000
+      internalID: 2550508664456254023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_32
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 459
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bcf63356eb9bd40800000000000000
+      internalID: 5600716953475861373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_33
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 461
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d947c10b133d3f0800000000000000
+      internalID: -877302869945705065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_34
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 461
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8d4e23621b63ce0800000000000000
+      internalID: -1425757454395451208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_35
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 459
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e162c1bfd60bce660800000000000000
+      internalID: 7416496672783214110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 355
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207309a6b7e023b80800000000000000
+      internalID: -8416648830370433278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 427
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b68d1475aa948b0800000000000000
+      internalID: -5167411805687354515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 427
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f289711a37a0600800000000000000
+      internalID: 435287449717452561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 427
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcbd82c6178fed50800000000000000
+      internalID: 6768777296784243899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 433
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8956f96f4e4817ec0800000000000000
+      internalID: -3570926910603041384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_41
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 435
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0024c97d420de110800000000000000
+      internalID: 1291691199903834124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 433
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da91018a683d0c880800000000000000
+      internalID: -8592635513724200531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_43
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 429
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40bc4cf9ac1fa460800000000000000
+      internalID: 7255049041125093452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_44
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 419
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f903e87f03a4ae520800000000000000
+      internalID: 2732077698125803679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_45
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 351
+        width: 32
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d438966cccc801e0800000000000000
+      internalID: -2231308437095435054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_46
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 419
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f30be5666c02010800000000000000
+      internalID: 1162146846839160584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_47
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 417
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c0d59535caf8640800000000000000
+      internalID: 5084471978306112641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_48
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 385
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdf03ad7ca8ff780800000000000000
+      internalID: -8647040168564294196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_49
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 385
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689b154597e041040800000000000000
+      internalID: 4617331432230074758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_50
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 401
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e111ca1e921f810800000000000000
+      internalID: 1797263775528721973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_51
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 403
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680720ee193051880800000000000000
+      internalID: -8640996384742150010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_52
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 403
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4366fd6dab7f7e750800000000000000
+      internalID: 6334303782760834612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 403
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5b08033a87167e0800000000000000
+      internalID: -1774004135918520881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_54
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 393
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b394a10c731af7e0800000000000000
+      internalID: -1731049683446099022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_55
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 403
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82be3ecbbc460070800000000000000
+      internalID: 8072223751611003533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_56
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 401
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812d210af124f2090800000000000000
+      internalID: -8057148504745520616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_57
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 387
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d0214573ebade10800000000000000
+      internalID: 2223298510903709031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_58
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 385
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e25b21da5e83cb0800000000000000
+      internalID: -4883901264377336242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_59
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 385
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c622c7f73348c900800000000000000
+      internalID: 704887249342441154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_60
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 387
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d94a03bbab838f0800000000000000
+      internalID: -560492840469881534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_61
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 385
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59509a1c6bedaee0800000000000000
+      internalID: -1248082672177096354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_62
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 385
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b0ce7916e1a9b40800000000000000
+      internalID: 5447700103767526251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_63
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 387
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3152b6cce061fe10800000000000000
+      internalID: 2229669860587229498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 289
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d529acf2e5476d0d0800000000000000
+      internalID: -3398400920926907811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_65
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 355
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bbfaa199d80a3e0800000000000000
+      internalID: -2044478542108968161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_66
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 351
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cb8a30fbf64f260800000000000000
+      internalID: 7130446976225164331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_67
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 351
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ee556dab34b6300800000000000000
+      internalID: 246365074360757898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_68
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 355
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53728d8c3dd4457f0800000000000000
+      internalID: -624788876294609099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_69
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 191
+        width: 96
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018d04cf340427ab0800000000000000
+      internalID: -5011872774570846192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_70
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 191
+        width: 33
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1889f1f97f8d7d1b0800000000000000
+      internalID: -5631794250965346175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 225
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83d267973e959700800000000000000
+      internalID: 546516891395609482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_72
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 319
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7676347576bc5d80800000000000000
+      internalID: -8260527000927177092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_73
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 255
+        width: 128
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f4fe787cc72bde0800000000000000
+      internalID: -1318854544445190379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_74
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 191
+        width: 128
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f39bcd067585720800000000000000
+      internalID: 2835112038961331996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_75
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 67
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca02ee9c802584e0800000000000000
+      internalID: -1980140672826340666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_76
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 63
+        width: 30
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0012190d4f276000800000000000000
+      internalID: 29043930512363533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_77
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 95
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a4af4a7d462c650800000000000000
+      internalID: 6251670110092282419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_78
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 63
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186932b6997306a70800000000000000
+      internalID: 8818109202458449537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_79
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 130
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30894936757ef370800000000000000
+      internalID: 8358247109073928252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_80
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 35
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c613f8cc0241aed0800000000000000
+      internalID: -2404568103360719164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_81
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 31
+        width: 94
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617d1e86a3b88ed30800000000000000
+      internalID: 4460968513894471446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_82
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad140e665a7646e0800000000000000
+      internalID: -1853659684984840799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Desert_C_83
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 94
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01136057b37cd7ad0800000000000000
+      internalID: -2702785143172091632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

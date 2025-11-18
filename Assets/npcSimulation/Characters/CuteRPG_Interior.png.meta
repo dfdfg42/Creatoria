@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: 28c9112ebbf2871459e373e50d547b6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -650121022681240230
+    second: CuteRPG_Interior_0
+  - first:
+      213: 1143901409105140907
+    second: CuteRPG_Interior_1
+  - first:
+      213: -7642404983833773279
+    second: CuteRPG_Interior_2
+  - first:
+      213: -7776947001736392879
+    second: CuteRPG_Interior_3
+  - first:
+      213: 1811552546903717154
+    second: CuteRPG_Interior_4
+  - first:
+      213: 5447967280280292001
+    second: CuteRPG_Interior_5
+  - first:
+      213: 5864585756307909078
+    second: CuteRPG_Interior_6
+  - first:
+      213: 7511116824454635264
+    second: CuteRPG_Interior_7
+  - first:
+      213: 488794676608100588
+    second: CuteRPG_Interior_8
+  - first:
+      213: 3096571485614912648
+    second: CuteRPG_Interior_9
+  - first:
+      213: -2310613090899837353
+    second: CuteRPG_Interior_10
+  - first:
+      213: -5060444779319810925
+    second: CuteRPG_Interior_11
+  - first:
+      213: -581299504657006565
+    second: CuteRPG_Interior_12
+  - first:
+      213: -7873992680856193748
+    second: CuteRPG_Interior_13
+  - first:
+      213: 6399003187329893137
+    second: CuteRPG_Interior_14
+  - first:
+      213: 7083179934749166571
+    second: CuteRPG_Interior_15
+  - first:
+      213: 5850472717374576608
+    second: CuteRPG_Interior_16
+  - first:
+      213: -304425370904035412
+    second: CuteRPG_Interior_17
+  - first:
+      213: -827758165524081990
+    second: CuteRPG_Interior_18
+  - first:
+      213: -1182770403043767451
+    second: CuteRPG_Interior_19
+  - first:
+      213: -6406229325555379466
+    second: CuteRPG_Interior_20
+  - first:
+      213: -3951526644530386266
+    second: CuteRPG_Interior_21
+  - first:
+      213: 3853252885755891253
+    second: CuteRPG_Interior_22
+  - first:
+      213: -3456974398630343850
+    second: CuteRPG_Interior_23
+  - first:
+      213: -5090420485687422543
+    second: CuteRPG_Interior_24
+  - first:
+      213: -6561644867547639336
+    second: CuteRPG_Interior_25
+  - first:
+      213: 2332130889684744252
+    second: CuteRPG_Interior_26
+  - first:
+      213: -7938111842212040007
+    second: CuteRPG_Interior_27
+  - first:
+      213: 4617770013516036550
+    second: CuteRPG_Interior_28
+  - first:
+      213: -4209979600758274447
+    second: CuteRPG_Interior_29
+  - first:
+      213: -8830563554773416460
+    second: CuteRPG_Interior_30
+  - first:
+      213: -6637454919880663750
+    second: CuteRPG_Interior_31
+  - first:
+      213: 4797670711614563082
+    second: CuteRPG_Interior_32
+  - first:
+      213: 381523318330628804
+    second: CuteRPG_Interior_33
+  - first:
+      213: 3213091748841452294
+    second: CuteRPG_Interior_34
+  - first:
+      213: 1241838211926695244
+    second: CuteRPG_Interior_35
+  - first:
+      213: 4204507348785414763
+    second: CuteRPG_Interior_36
+  - first:
+      213: 8351132039822512332
+    second: CuteRPG_Interior_37
+  - first:
+      213: 8366378296357582450
+    second: CuteRPG_Interior_38
+  - first:
+      213: 8365946273868303347
+    second: CuteRPG_Interior_39
+  - first:
+      213: 5742233498536499619
+    second: CuteRPG_Interior_40
+  - first:
+      213: 6452784679142608534
+    second: CuteRPG_Interior_41
+  - first:
+      213: -8001484227327263609
+    second: CuteRPG_Interior_42
+  - first:
+      213: 7163737694238507809
+    second: CuteRPG_Interior_43
+  - first:
+      213: -5788894393406636669
+    second: CuteRPG_Interior_44
+  - first:
+      213: 1965515355252838481
+    second: CuteRPG_Interior_45
+  - first:
+      213: 7202695317807667520
+    second: CuteRPG_Interior_46
+  - first:
+      213: -3191824365620576471
+    second: CuteRPG_Interior_47
+  - first:
+      213: -4097535077818238492
+    second: CuteRPG_Interior_48
+  - first:
+      213: -5129921796268539941
+    second: CuteRPG_Interior_49
+  - first:
+      213: -8866604890514172515
+    second: CuteRPG_Interior_50
+  - first:
+      213: 7067461055828216228
+    second: CuteRPG_Interior_51
+  - first:
+      213: 8665662152345763744
+    second: CuteRPG_Interior_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CuteRPG_Interior_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d2216df5e4af6f0800000000000000
+      internalID: -650121022681240230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 239
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacd7cb5544ffdf00800000000000000
+      internalID: 1143901409105140907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 239
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bb9ec8829b0f590800000000000000
+      internalID: -7642404983833773279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 239
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f867ce7ebb21490800000000000000
+      internalID: -7776947001736392879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 239
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2257622817de32910800000000000000
+      internalID: 1811552546903717154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 235
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aace0970611b9b40800000000000000
+      internalID: 5447967280280292001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 237
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d96c876ca1336150800000000000000
+      internalID: 5864585756307909078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 239
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f141cc4f8dc3860800000000000000
+      internalID: 7511116824454635264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 235
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8e35b2b2c88c600800000000000000
+      internalID: 488794676608100588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 235
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8843ead1c5b39fa20800000000000000
+      internalID: 3096571485614912648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 239
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e3c8fc2ad0fefd0800000000000000
+      internalID: -2310613090899837353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 239
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394a92bd840b5c9b0800000000000000
+      internalID: -5060444779319810925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 239
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b100fcc2e2fcee7f0800000000000000
+      internalID: -581299504657006565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_13
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 239
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c257a8dff55f9b290800000000000000
+      internalID: -7873992680856193748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 207
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1130469de73ddc850800000000000000
+      internalID: 6399003187329893137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 207
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb06e25f928c4260800000000000000
+      internalID: 7083179934749166571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 207
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7d93770fd013150800000000000000
+      internalID: 5850472717374576608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 207
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caff5a2fcb676cbf0800000000000000
+      internalID: -304425370904035412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 203
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2120885563384f0800000000000000
+      internalID: -827758165524081990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 205
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b0bb3c594f59fe0800000000000000
+      internalID: -1182770403043767451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 207
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2d49cbe508817a0800000000000000
+      internalID: -6406229325555379466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 203
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa6640f37b5929c0800000000000000
+      internalID: -3951526644530386266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_22
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 203
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e8a3d8511897530800000000000000
+      internalID: 3853252885755891253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 207
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bc40ca91c5600d0800000000000000
+      internalID: -3456974398630343850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_24
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 207
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1da39d9813b59b0800000000000000
+      internalID: -5090420485687422543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_25
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 207
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1de8f02ca50f4a0800000000000000
+      internalID: -6561644867547639336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_26
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 207
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38ff5120b46d5020800000000000000
+      internalID: 2332130889684744252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 175
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b231a1665926d190800000000000000
+      internalID: -7938111842212040007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 175
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9f21e7c5d951040800000000000000
+      internalID: 4617770013516036550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_29
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 175
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1768929cbd52395c0800000000000000
+      internalID: -4209979600758274447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 175
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f54837bb39837580800000000000000
+      internalID: -8830563554773416460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_31
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 171
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d18d7cae503e3a0800000000000000
+      internalID: -6637454919880663750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_32
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 173
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03e413d710c49240800000000000000
+      internalID: 4797670711614563082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 175
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca10a6cf617b4500800000000000000
+      internalID: 381523318330628804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_34
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 171
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603fe600ce1379c20800000000000000
+      internalID: 3213091748841452294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 171
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d95623645eb3110800000000000000
+      internalID: 1241838211926695244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 175
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62cfd34829695a30800000000000000
+      internalID: 4204507348785414763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 175
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc01102185e25e370800000000000000
+      internalID: 8351132039822512332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 175
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2767eeacbb85b1470800000000000000
+      internalID: 8366378296357582450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_39
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 175
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb4ce7bfcfc91470800000000000000
+      internalID: 8365946273868303347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 143
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9dd9971f280bf40800000000000000
+      internalID: 5742233498536499619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_41
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 143
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ec0643a75ec8950800000000000000
+      internalID: 6452784679142608534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_42
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 143
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c744a2d7405f090800000000000000
+      internalID: -8001484227327263609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 143
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12389215a75ba6360800000000000000
+      internalID: 7163737694238507809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_44
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 139
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d3fb65837b9afa0800000000000000
+      internalID: -5788894393406636669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_45
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 141
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150db664dc9e64b10800000000000000
+      internalID: 1965515355252838481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_46
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 143
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0499b43ea3d15f360800000000000000
+      internalID: 7202695317807667520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_47
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 139
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fbfb586ac54b3d0800000000000000
+      internalID: -3191824365620576471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_48
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 139
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9f0ff6e81a227c0800000000000000
+      internalID: -4097535077818238492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 143
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf31e74e4bdec8b0800000000000000
+      internalID: -5129921796268539941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_50
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 143
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95592154dd73f480800000000000000
+      internalID: -8866604890514172515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_51
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 143
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a94c80a26aa41260800000000000000
+      internalID: 7067461055828216228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Interior_52
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 143
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afbd1e90dd924870800000000000000
+      internalID: 8665662152345763744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

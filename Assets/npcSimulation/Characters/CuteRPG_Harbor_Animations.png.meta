@@ -1,0 +1,2430 @@
+fileFormatVersion: 2
+guid: f1deb6b61bf46a84fa03fb893f1ea565
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1600961887053400434
+    second: CuteRPG_Harbor_Animations_0
+  - first:
+      213: -6007787082562321142
+    second: CuteRPG_Harbor_Animations_1
+  - first:
+      213: 7606523585607642486
+    second: CuteRPG_Harbor_Animations_2
+  - first:
+      213: 8058379125043786142
+    second: CuteRPG_Harbor_Animations_3
+  - first:
+      213: 4333437463668456197
+    second: CuteRPG_Harbor_Animations_4
+  - first:
+      213: -4404478843539762767
+    second: CuteRPG_Harbor_Animations_5
+  - first:
+      213: -6561133108179676342
+    second: CuteRPG_Harbor_Animations_6
+  - first:
+      213: 4756688343470638673
+    second: CuteRPG_Harbor_Animations_7
+  - first:
+      213: -1079238556394536736
+    second: CuteRPG_Harbor_Animations_8
+  - first:
+      213: 2584366357837099552
+    second: CuteRPG_Harbor_Animations_9
+  - first:
+      213: 42957438872845798
+    second: CuteRPG_Harbor_Animations_10
+  - first:
+      213: 3754827868010670499
+    second: CuteRPG_Harbor_Animations_11
+  - first:
+      213: -5119630688740407503
+    second: CuteRPG_Harbor_Animations_12
+  - first:
+      213: 7389758642103090727
+    second: CuteRPG_Harbor_Animations_13
+  - first:
+      213: 3454430224883491097
+    second: CuteRPG_Harbor_Animations_14
+  - first:
+      213: -3222681362359890785
+    second: CuteRPG_Harbor_Animations_15
+  - first:
+      213: -8248204581522697883
+    second: CuteRPG_Harbor_Animations_16
+  - first:
+      213: 1180961956312379775
+    second: CuteRPG_Harbor_Animations_17
+  - first:
+      213: -4906731014442672806
+    second: CuteRPG_Harbor_Animations_18
+  - first:
+      213: 7565341011664260453
+    second: CuteRPG_Harbor_Animations_19
+  - first:
+      213: -1868699810287851877
+    second: CuteRPG_Harbor_Animations_20
+  - first:
+      213: 7186456074516051469
+    second: CuteRPG_Harbor_Animations_21
+  - first:
+      213: 7622482275464062264
+    second: CuteRPG_Harbor_Animations_22
+  - first:
+      213: 5064877727681269943
+    second: CuteRPG_Harbor_Animations_23
+  - first:
+      213: 6563027456555779204
+    second: CuteRPG_Harbor_Animations_24
+  - first:
+      213: -9065868141860010500
+    second: CuteRPG_Harbor_Animations_25
+  - first:
+      213: 3670126133247819729
+    second: CuteRPG_Harbor_Animations_26
+  - first:
+      213: 1680935851291347258
+    second: CuteRPG_Harbor_Animations_27
+  - first:
+      213: -2067751205893449652
+    second: CuteRPG_Harbor_Animations_28
+  - first:
+      213: 3394879172242720589
+    second: CuteRPG_Harbor_Animations_29
+  - first:
+      213: -5587794994324259037
+    second: CuteRPG_Harbor_Animations_30
+  - first:
+      213: 5501698313909086495
+    second: CuteRPG_Harbor_Animations_31
+  - first:
+      213: -3503700452652294022
+    second: CuteRPG_Harbor_Animations_32
+  - first:
+      213: -5129873597694564606
+    second: CuteRPG_Harbor_Animations_33
+  - first:
+      213: 7911472996803413089
+    second: CuteRPG_Harbor_Animations_34
+  - first:
+      213: -6529553459655571201
+    second: CuteRPG_Harbor_Animations_35
+  - first:
+      213: -8246878764498898783
+    second: CuteRPG_Harbor_Animations_36
+  - first:
+      213: 4777535348716401522
+    second: CuteRPG_Harbor_Animations_37
+  - first:
+      213: -1550048477238071372
+    second: CuteRPG_Harbor_Animations_38
+  - first:
+      213: 60036620411889331
+    second: CuteRPG_Harbor_Animations_39
+  - first:
+      213: -5985468665892810862
+    second: CuteRPG_Harbor_Animations_40
+  - first:
+      213: 121682160866072788
+    second: CuteRPG_Harbor_Animations_41
+  - first:
+      213: 2423382102913021297
+    second: CuteRPG_Harbor_Animations_42
+  - first:
+      213: -8426577977222487654
+    second: CuteRPG_Harbor_Animations_43
+  - first:
+      213: 2217899949480333043
+    second: CuteRPG_Harbor_Animations_44
+  - first:
+      213: 2181232068000446183
+    second: CuteRPG_Harbor_Animations_45
+  - first:
+      213: 7723111479385994472
+    second: CuteRPG_Harbor_Animations_46
+  - first:
+      213: 3434486377495871811
+    second: CuteRPG_Harbor_Animations_47
+  - first:
+      213: 3974045981472363816
+    second: CuteRPG_Harbor_Animations_48
+  - first:
+      213: 6599606773672083869
+    second: CuteRPG_Harbor_Animations_49
+  - first:
+      213: 4520871035088930724
+    second: CuteRPG_Harbor_Animations_50
+  - first:
+      213: 6728501360356178042
+    second: CuteRPG_Harbor_Animations_51
+  - first:
+      213: -8217300195350244591
+    second: CuteRPG_Harbor_Animations_52
+  - first:
+      213: -8094370183340403187
+    second: CuteRPG_Harbor_Animations_53
+  - first:
+      213: -4394216097171486796
+    second: CuteRPG_Harbor_Animations_54
+  - first:
+      213: -8185073648080889123
+    second: CuteRPG_Harbor_Animations_55
+  - first:
+      213: -5595740201610954916
+    second: CuteRPG_Harbor_Animations_56
+  - first:
+      213: 6539275784541879775
+    second: CuteRPG_Harbor_Animations_57
+  - first:
+      213: -711483533774270398
+    second: CuteRPG_Harbor_Animations_58
+  - first:
+      213: 9066634567027848438
+    second: CuteRPG_Harbor_Animations_59
+  - first:
+      213: 4185542672454143442
+    second: CuteRPG_Harbor_Animations_60
+  - first:
+      213: 2388237976216198654
+    second: CuteRPG_Harbor_Animations_61
+  - first:
+      213: -5642313634358942730
+    second: CuteRPG_Harbor_Animations_62
+  - first:
+      213: -1819636802890245068
+    second: CuteRPG_Harbor_Animations_63
+  - first:
+      213: -8327056920179348050
+    second: CuteRPG_Harbor_Animations_64
+  - first:
+      213: -8846287878884767548
+    second: CuteRPG_Harbor_Animations_65
+  - first:
+      213: -4533121456872450671
+    second: CuteRPG_Harbor_Animations_66
+  - first:
+      213: -9005319796715861840
+    second: CuteRPG_Harbor_Animations_67
+  - first:
+      213: 6101341981159733948
+    second: CuteRPG_Harbor_Animations_68
+  - first:
+      213: 613179436901804463
+    second: CuteRPG_Harbor_Animations_69
+  - first:
+      213: -6857479000326872224
+    second: CuteRPG_Harbor_Animations_70
+  - first:
+      213: -8850834546779431471
+    second: CuteRPG_Harbor_Animations_71
+  - first:
+      213: -67201394484917859
+    second: CuteRPG_Harbor_Animations_72
+  - first:
+      213: 3643068756567783595
+    second: CuteRPG_Harbor_Animations_73
+  - first:
+      213: 8910392191373498443
+    second: CuteRPG_Harbor_Animations_74
+  - first:
+      213: -7805911404179071032
+    second: CuteRPG_Harbor_Animations_75
+  - first:
+      213: 7711363501941297865
+    second: CuteRPG_Harbor_Animations_76
+  - first:
+      213: -5116070670965092970
+    second: CuteRPG_Harbor_Animations_77
+  - first:
+      213: -4630251069279550334
+    second: CuteRPG_Harbor_Animations_78
+  - first:
+      213: 7000541569230986888
+    second: CuteRPG_Harbor_Animations_79
+  - first:
+      213: 6675763315895371608
+    second: CuteRPG_Harbor_Animations_80
+  - first:
+      213: 2139163025011789225
+    second: CuteRPG_Harbor_Animations_81
+  - first:
+      213: 6590559798353655969
+    second: CuteRPG_Harbor_Animations_82
+  - first:
+      213: 3167965407464348085
+    second: CuteRPG_Harbor_Animations_83
+  - first:
+      213: 4764004908789047
+    second: CuteRPG_Harbor_Animations_84
+  - first:
+      213: 806474005727836057
+    second: CuteRPG_Harbor_Animations_85
+  - first:
+      213: 8749580203457539938
+    second: CuteRPG_Harbor_Animations_86
+  - first:
+      213: 2089390242729911235
+    second: CuteRPG_Harbor_Animations_87
+  - first:
+      213: 3547868933055912270
+    second: CuteRPG_Harbor_Animations_88
+  - first:
+      213: -5687967713016106829
+    second: CuteRPG_Harbor_Animations_89
+  - first:
+      213: 9075743611522173035
+    second: CuteRPG_Harbor_Animations_90
+  - first:
+      213: -8061618236674689519
+    second: CuteRPG_Harbor_Animations_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 225
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e863e3f55ad38c9e0800000000000000
+      internalID: -1600961887053400434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 225
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0541b1aa7d00aca0800000000000000
+      internalID: -6007787082562321142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d26c766eccf8960800000000000000
+      internalID: 7606523585607642486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 229
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9178ad7e1d15df60800000000000000
+      internalID: 8058379125043786142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 229
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bf356e966732c30800000000000000
+      internalID: 4333437463668456197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 229
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1d616e3d520e2c0800000000000000
+      internalID: -4404478843539762767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 229
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4355e2533c22f4a0800000000000000
+      internalID: -6561133108179676342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 229
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1560fcba8d6230240800000000000000
+      internalID: 4756688343470638673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 229
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0c2324046c501f0800000000000000
+      internalID: -1079238556394536736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 227
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022b95882838dd320800000000000000
+      internalID: 2584366357837099552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 223
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edf974209d989000800000000000000
+      internalID: 42957438872845798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 193
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a963815d04db1430800000000000000
+      internalID: 3754827868010670499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 193
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1378078730b63f8b0800000000000000
+      internalID: -5119630688740407503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 195
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e7d661552bd8660800000000000000
+      internalID: 7389758642103090727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 197
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911ad87bcf990ff20800000000000000
+      internalID: 3454430224883491097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 197
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c444c106cb643d0800000000000000
+      internalID: -3222681362359890785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 197
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561179b42ad788d80800000000000000
+      internalID: -8248204581522697883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 197
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71ff3b64ae936010800000000000000
+      internalID: 1180961956312379775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 197
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d90cba32ac7ebb0800000000000000
+      internalID: -4906731014442672806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 197
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d41f4319d7df860800000000000000
+      internalID: 7565341011664260453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 199
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96e3ff5c6b0116e0800000000000000
+      internalID: -1868699810287851877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 199
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d063a7b69bb6bb360800000000000000
+      internalID: 7186456074516051469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_22
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 191
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8352fbf6e3f78c960800000000000000
+      internalID: 7622482275464062264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 161
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0da3d557f0a4640800000000000000
+      internalID: 5064877727681269943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 161
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484842703be841b50800000000000000
+      internalID: 6563027456555779204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf547ef35f09f2280800000000000000
+      internalID: -9065868141860010500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 167
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df3d15e548eee230800000000000000
+      internalID: 3670126133247819729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 167
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3980723042e35710800000000000000
+      internalID: 1680935851291347258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 167
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48d5d0db3fdd43e0800000000000000
+      internalID: -2067751205893449652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 167
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4746ecce980d1f20800000000000000
+      internalID: 3394879172242720589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_30
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 167
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fb89dde0a2472b0800000000000000
+      internalID: -5587794994324259037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 167
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19aaed9775f95c40800000000000000
+      internalID: 5501698313909086495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_32
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 165
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70e840700b506fc0800000000000000
+      internalID: -3503700452652294022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 159
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207a2c264270fc8b0800000000000000
+      internalID: -5129873597694564606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 129
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164009816c23bcd60800000000000000
+      internalID: 7911472996803413089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 129
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff88e4739bd5265a0800000000000000
+      internalID: -6529553459655571201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0b45025733d8d80800000000000000
+      internalID: -8246878764498898783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 135
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273fc1256173d4240800000000000000
+      internalID: 4777535348716401522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 135
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfe6995f1f1d7ae0800000000000000
+      internalID: -1550048477238071372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_39
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 135
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b66a29fcfa45d000800000000000000
+      internalID: 60036620411889331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_40
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 135
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f4a33f5f75feca0800000000000000
+      internalID: -5985468665892810862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_41
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 135
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d89ce5d74d40b100800000000000000
+      internalID: 121682160866072788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_42
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 135
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1757b27de2591a120800000000000000
+      internalID: 2423382102913021297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 133
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a912683c9f7ce0b80800000000000000
+      internalID: -8426577977222487654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_44
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 127
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fec12cc04097ce10800000000000000
+      internalID: 2217899949480333043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 99
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e67bd9520b454e10800000000000000
+      internalID: 2181232068000446183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_46
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 99
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e43b81c8f00e2b60800000000000000
+      internalID: 7723111479385994472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_47
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 99
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3414f84e92fb9af20800000000000000
+      internalID: 3434486377495871811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8259ab6c3c5a62730800000000000000
+      internalID: 3974045981472363816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_49
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 97
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d918cf9f463869b50800000000000000
+      internalID: 6599606773672083869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_50
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 97
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a704d9f04c5dbe30800000000000000
+      internalID: 4520871035088930724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_51
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 97
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7833ce8650706d50800000000000000
+      internalID: 6728501360356178042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_52
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 97
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113966b620946fd80800000000000000
+      internalID: -8217300195350244591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 99
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d065b7d34350baf80800000000000000
+      internalID: -8094370183340403187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_54
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 101
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b74acdbdbb9403c0800000000000000
+      internalID: -4394216097171486796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_55
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 101
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda5ab922e6c86e80800000000000000
+      internalID: -8185073648080889123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_56
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 99
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c573b932fefe752b0800000000000000
+      internalID: -5595740201610954916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_57
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 67
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddbee1fdac20ca50800000000000000
+      internalID: 6539275784541879775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_58
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 67
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24058d1ee7d4026f0800000000000000
+      internalID: -711483533774270398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_59
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 67
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4f8f30a1823dd70800000000000000
+      internalID: 9066634567027848438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_60
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 33
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd4ed772e8061a30800000000000000
+      internalID: 4185542672454143442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_61
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 65
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdd67339c9b42120800000000000000
+      internalID: 2388237976216198654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_62
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 65
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f321b0d4a972b1b0800000000000000
+      internalID: -5642313634358942730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_63
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 65
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cdf77f7f95fb6e0800000000000000
+      internalID: -1819636802890245068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_64
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 65
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead604889d9507c80800000000000000
+      internalID: -8327056920179348050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 67
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8ca363b0cab3580800000000000000
+      internalID: -8846287878884767548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_66
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 71
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1959a6f6d0e1711c0800000000000000
+      internalID: -4533121456872450671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_67
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 71
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b845fb6b5da60380800000000000000
+      internalID: -9005319796715861840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_68
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 67
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba3430a4325ca450800000000000000
+      internalID: 6101341981159733948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_69
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 35
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa92b18f273728800800000000000000
+      internalID: 613179436901804463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_70
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063e0d28e2755d0a0800000000000000
+      internalID: -6857479000326872224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_71
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddd4799fd48b2580800000000000000
+      internalID: -8850834546779431471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_72
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 35
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99c05110b0411ff0800000000000000
+      internalID: -67201394484917859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_73
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 35
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8fb877bb7ce8230800000000000000
+      internalID: 3643068756567783595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_74
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 35
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b485b302d7218ab70800000000000000
+      internalID: 8910392191373498443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_75
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 35
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf5cb57fe4dba390800000000000000
+      internalID: -7805911404179071032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_76
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 37
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c29f1b9f34440b60800000000000000
+      internalID: 7711363501941297865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_77
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 37
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dc453b4d01009b0800000000000000
+      internalID: -5116070670965092970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_78
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 37
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28448b24f2b0ebfb0800000000000000
+      internalID: -4630251069279550334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_79
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 35
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e5e5d777be62160800000000000000
+      internalID: 7000541569230986888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_80
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8570788bd5315ac50800000000000000
+      internalID: 6675763315895371608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_81
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad4a7eff65dfad10800000000000000
+      internalID: 2139163025011789225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_82
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8f6d3e73f567b50800000000000000
+      internalID: 6590559798353655969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_83
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b953a4e0cfd6fb20800000000000000
+      internalID: 3167965407464348085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_84
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73deb4456dce01000800000000000000
+      internalID: 4764004908789047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_85
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9977ef7d5db213b00800000000000000
+      internalID: 806474005727836057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_86
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f60e876d0cc6970800000000000000
+      internalID: 8749580203457539938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_87
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3651f0b510ffc10800000000000000
+      internalID: 2089390242729911235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_88
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4911784fff8c3130800000000000000
+      internalID: 3547868933055912270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_89
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 5
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0b8cb40874011b0800000000000000
+      internalID: -5687967713016106829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_90
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 5
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68cc45bab483fd70800000000000000
+      internalID: 9075743611522173035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Harbor_Animations_91
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 3
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116b1301de06f1090800000000000000
+      internalID: -8061618236674689519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

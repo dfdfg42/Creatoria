@@ -1,0 +1,2305 @@
+fileFormatVersion: 2
+guid: 44152896a742daa4c93dc436eccd0374
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4034850715510166921
+    second: CuteRPG_Field_0
+  - first:
+      213: -9891942320673200
+    second: CuteRPG_Field_1
+  - first:
+      213: -5213228754628303455
+    second: CuteRPG_Field_2
+  - first:
+      213: 991192410193944546
+    second: CuteRPG_Field_3
+  - first:
+      213: 4900191726093012985
+    second: CuteRPG_Field_4
+  - first:
+      213: -1526639024518137113
+    second: CuteRPG_Field_5
+  - first:
+      213: -1298697546682422231
+    second: CuteRPG_Field_6
+  - first:
+      213: -4213152109212638265
+    second: CuteRPG_Field_7
+  - first:
+      213: -5194149331485157505
+    second: CuteRPG_Field_8
+  - first:
+      213: -3457123481682476042
+    second: CuteRPG_Field_9
+  - first:
+      213: -6041577632355103906
+    second: CuteRPG_Field_10
+  - first:
+      213: 1252662024236237067
+    second: CuteRPG_Field_11
+  - first:
+      213: 6399434031453936800
+    second: CuteRPG_Field_12
+  - first:
+      213: 7780338500031101601
+    second: CuteRPG_Field_13
+  - first:
+      213: 1379317829119285956
+    second: CuteRPG_Field_14
+  - first:
+      213: 6136975971290842231
+    second: CuteRPG_Field_15
+  - first:
+      213: 7722960359296564488
+    second: CuteRPG_Field_16
+  - first:
+      213: -1748943190121171797
+    second: CuteRPG_Field_17
+  - first:
+      213: -4453879061216379887
+    second: CuteRPG_Field_18
+  - first:
+      213: 3611646622151536205
+    second: CuteRPG_Field_19
+  - first:
+      213: -7092472543678481848
+    second: CuteRPG_Field_20
+  - first:
+      213: -5212744691259830448
+    second: CuteRPG_Field_21
+  - first:
+      213: 6647313447865671369
+    second: CuteRPG_Field_22
+  - first:
+      213: -880086196579904678
+    second: CuteRPG_Field_23
+  - first:
+      213: -1608435641205769182
+    second: CuteRPG_Field_24
+  - first:
+      213: -6332886460116953083
+    second: CuteRPG_Field_25
+  - first:
+      213: -1529377026307855888
+    second: CuteRPG_Field_26
+  - first:
+      213: 6579342261652258427
+    second: CuteRPG_Field_27
+  - first:
+      213: 1011348408522160105
+    second: CuteRPG_Field_28
+  - first:
+      213: 8872899112730190090
+    second: CuteRPG_Field_29
+  - first:
+      213: -6740523088337809976
+    second: CuteRPG_Field_30
+  - first:
+      213: -6326644742498296634
+    second: CuteRPG_Field_31
+  - first:
+      213: -911125557100329192
+    second: CuteRPG_Field_32
+  - first:
+      213: 2775690636521209784
+    second: CuteRPG_Field_33
+  - first:
+      213: 5011038829534062518
+    second: CuteRPG_Field_34
+  - first:
+      213: -6145271162099737987
+    second: CuteRPG_Field_35
+  - first:
+      213: 1258530692040098934
+    second: CuteRPG_Field_36
+  - first:
+      213: -2850782923811988573
+    second: CuteRPG_Field_37
+  - first:
+      213: -8793979524267170865
+    second: CuteRPG_Field_38
+  - first:
+      213: -3481465977302466781
+    second: CuteRPG_Field_39
+  - first:
+      213: -3427949468551053210
+    second: CuteRPG_Field_40
+  - first:
+      213: 6668444684923125241
+    second: CuteRPG_Field_41
+  - first:
+      213: 5686729631800000021
+    second: CuteRPG_Field_42
+  - first:
+      213: -8894178501448976867
+    second: CuteRPG_Field_43
+  - first:
+      213: 270690562947127257
+    second: CuteRPG_Field_44
+  - first:
+      213: 86268353381481387
+    second: CuteRPG_Field_45
+  - first:
+      213: -8105410276815082396
+    second: CuteRPG_Field_46
+  - first:
+      213: 6610656958273736573
+    second: CuteRPG_Field_47
+  - first:
+      213: 7110745396162700688
+    second: CuteRPG_Field_48
+  - first:
+      213: -857678852307393217
+    second: CuteRPG_Field_49
+  - first:
+      213: -2110076374366323551
+    second: CuteRPG_Field_50
+  - first:
+      213: 240587810908635890
+    second: CuteRPG_Field_51
+  - first:
+      213: -8215329226296841088
+    second: CuteRPG_Field_52
+  - first:
+      213: 6738564533501086150
+    second: CuteRPG_Field_53
+  - first:
+      213: -9080148609375986718
+    second: CuteRPG_Field_54
+  - first:
+      213: -7739724179427406342
+    second: CuteRPG_Field_55
+  - first:
+      213: -1925079180860192132
+    second: CuteRPG_Field_56
+  - first:
+      213: 7184750659468713346
+    second: CuteRPG_Field_57
+  - first:
+      213: 3311574805442294331
+    second: CuteRPG_Field_58
+  - first:
+      213: 2074077576402725187
+    second: CuteRPG_Field_59
+  - first:
+      213: -330244782884040174
+    second: CuteRPG_Field_60
+  - first:
+      213: -4158784825575926187
+    second: CuteRPG_Field_61
+  - first:
+      213: -4756915439464962501
+    second: CuteRPG_Field_62
+  - first:
+      213: 6100614938173720335
+    second: CuteRPG_Field_63
+  - first:
+      213: -182303850211422619
+    second: CuteRPG_Field_64
+  - first:
+      213: 3038689022770340449
+    second: CuteRPG_Field_65
+  - first:
+      213: 6609263008639959058
+    second: CuteRPG_Field_66
+  - first:
+      213: 169671159144540566
+    second: CuteRPG_Field_67
+  - first:
+      213: -9141698895978999958
+    second: CuteRPG_Field_68
+  - first:
+      213: 8249574374940263590
+    second: CuteRPG_Field_69
+  - first:
+      213: -1007839722093891982
+    second: CuteRPG_Field_70
+  - first:
+      213: 7555465331346776257
+    second: CuteRPG_Field_71
+  - first:
+      213: -5083719034316779187
+    second: CuteRPG_Field_72
+  - first:
+      213: -4494573892786085971
+    second: CuteRPG_Field_73
+  - first:
+      213: -2973244983644740201
+    second: CuteRPG_Field_74
+  - first:
+      213: -8683096106256255856
+    second: CuteRPG_Field_75
+  - first:
+      213: -3409692600622136240
+    second: CuteRPG_Field_76
+  - first:
+      213: 1856745456120315457
+    second: CuteRPG_Field_77
+  - first:
+      213: 5370343432778900763
+    second: CuteRPG_Field_78
+  - first:
+      213: 2620299131643611225
+    second: CuteRPG_Field_79
+  - first:
+      213: -2039437536810746301
+    second: CuteRPG_Field_80
+  - first:
+      213: -3272812637667675373
+    second: CuteRPG_Field_81
+  - first:
+      213: 150547967442987810
+    second: CuteRPG_Field_82
+  - first:
+      213: -5726163629902562557
+    second: CuteRPG_Field_83
+  - first:
+      213: 3424784879729741705
+    second: CuteRPG_Field_84
+  - first:
+      213: -8144459462649533608
+    second: CuteRPG_Field_85
+  - first:
+      213: 6721707604309372283
+    second: CuteRPG_Field_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CuteRPG_Field_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 223
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a294cd6a45108c0800000000000000
+      internalID: -4034850715510166921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 223
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e66d3b45bdcdff0800000000000000
+      internalID: -9891942320673200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 223
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5278b8114e6a7b0800000000000000
+      internalID: -5213228754628303455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 225
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef5ca9de3c61cd00800000000000000
+      internalID: 991192410193944546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 225
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff051d996af00440800000000000000
+      internalID: 4900191726093012985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 225
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaf85b45e940dae0800000000000000
+      internalID: -1526639024518137113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 227
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ca25b46791afde0800000000000000
+      internalID: -1298697546682422231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 227
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c361b99a70e785c0800000000000000
+      internalID: -4213152109212638265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 227
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f779e7ae3bcaae7b0800000000000000
+      internalID: -5194149331485157505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f387a19284d500d0800000000000000
+      internalID: -3457123481682476042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b478c2721082ca0800000000000000
+      internalID: -6041577632355103906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0109326979526110800000000000000
+      internalID: 1252662024236237067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 159
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac9b50985b5fc850800000000000000
+      internalID: 6399434031453936800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 159
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa36aec4a059fb60800000000000000
+      internalID: 7780338500031101601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 159
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca9405f142542310800000000000000
+      internalID: 1379317829119285956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 193
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77406eb712bea2550800000000000000
+      internalID: 6136975971290842231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 193
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d7b4e57877d2b60800000000000000
+      internalID: 7722960359296564488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 193
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba43d745f618ab7e0800000000000000
+      internalID: -1748943190121171797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 195
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cb5ab6794a032c0800000000000000
+      internalID: -4453879061216379887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 195
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ee49fa7752f1230800000000000000
+      internalID: 3611646622151536205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_20
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 195
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a35de8cc9729d90800000000000000
+      internalID: -7092472543678481848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_21
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 195
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f87a4525c98a7b0800000000000000
+      internalID: -5212744691259830448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_22
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 195
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ced5b2ac50004c50800000000000000
+      internalID: 6647313447865671369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 195
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a535121644e49c3f0800000000000000
+      internalID: -880086196579904678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 161
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c3ad16e40bda9e0800000000000000
+      internalID: -1608435641205769182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 161
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50819dd41511d18a0800000000000000
+      internalID: -6332886460116953083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 161
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9e64392bf86cae0800000000000000
+      internalID: -1529377026307855888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 163
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e7f799de48e4b50800000000000000
+      internalID: 6579342261652258427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_28
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 163
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7be1ae408090e00800000000000000
+      internalID: 1011348408522160105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 163
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01692e7bbed22b70800000000000000
+      internalID: 8872899112730190090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_30
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd4e47c6f9d472a0800000000000000
+      internalID: -6740523088337809976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccdb4f602e3338a0800000000000000
+      internalID: -6326644742498296634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_32
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817414712280b53f0800000000000000
+      internalID: -911125557100329192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 95
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf793c7deb358620800000000000000
+      internalID: 2775690636521209784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 95
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7211e0449ca8540800000000000000
+      internalID: 5011038829534062518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 95
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ad796ef6c97baa0800000000000000
+      internalID: -6145271162099737987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 129
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6740af51ff2377110800000000000000
+      internalID: 1258530692040098934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 129
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abdf6ee80cff68d0800000000000000
+      internalID: -2850782923811988573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 129
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc32ff5173285f580800000000000000
+      internalID: -8793979524267170865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 131
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f3745a3295fafc0800000000000000
+      internalID: -3481465977302466781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_40
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 131
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6608603de1a7d60d0800000000000000
+      internalID: -3427949468551053210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_41
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 131
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd3f292c131b8c50800000000000000
+      internalID: 6668444684923125241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e702578725bee40800000000000000
+      internalID: 5686729631800000021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16b73cb6c7819480800000000000000
+      internalID: -8894178501448976867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_44
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 131
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7938002afa1c300800000000000000
+      internalID: 270690562947127257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_45
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 101
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab39ae3c9c723100800000000000000
+      internalID: 86268353381481387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 101
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ce2ab2c4cc38f80800000000000000
+      internalID: -8105410276815082396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 101
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fced19a75cdbb50800000000000000
+      internalID: 6610656958273736573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_48
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 101
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095a58273417ea260800000000000000
+      internalID: 7110745396162700688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 101
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f356ad4c0a9e814f0800000000000000
+      internalID: -857678852307393217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_50
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 101
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac73f897b087b2e0800000000000000
+      internalID: -2110076374366323551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_51
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 101
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f28f7ed65db65300800000000000000
+      internalID: 240587810908635890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_52
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 101
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c21b968994dfd80800000000000000
+      internalID: -8215329226296841088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_53
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 95
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9c063adb0348d50800000000000000
+      internalID: 6738564533501086150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 31
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb136ec2f4dcf180800000000000000
+      internalID: -9080148609375986718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_55
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd4ab99dd9f69490800000000000000
+      internalID: -7739724179427406342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 31
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a045c3faeb845e0800000000000000
+      internalID: -1925079180860192132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 69
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dd26988ac55b360800000000000000
+      internalID: 7184750659468713346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_58
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 69
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3275857db315fd20800000000000000
+      internalID: 3311574805442294331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 69
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349661a119a98cc10800000000000000
+      internalID: 2074077576402725187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 69
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2125543ae1cba6bf0800000000000000
+      internalID: -330244782884040174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_61
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 69
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556134e3c370946c0800000000000000
+      internalID: -4158784825575926187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_62
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 69
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36ae1c6c9a0cfdb0800000000000000
+      internalID: -4756915439464962501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_63
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 71
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07494db6fcb9a450800000000000000
+      internalID: 6100614938173720335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_64
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 71
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e46f63d93587df0800000000000000
+      internalID: -182303850211422619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_65
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 63
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162ea1901979b2a20800000000000000
+      internalID: 3038689022770340449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_66
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 39
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2104d1160b1d8bb50800000000000000
+      internalID: 6609263008639959058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_67
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 39
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6996071350bca5200800000000000000
+      internalID: 169671159144540566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_68
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 39
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f4795f949222180800000000000000
+      internalID: -9141698895978999958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_69
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 39
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4ca769f206c7270800000000000000
+      internalID: 8249574374940263590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_70
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 39
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ea01ecc1f6302f0800000000000000
+      internalID: -1007839722093891982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_71
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 39
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c024b330b76ad860800000000000000
+      internalID: 7555465331346776257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_72
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 37
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4118a519700379b0800000000000000
+      internalID: -5083719034316779187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_73
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 37
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf9db79bd010a1c0800000000000000
+      internalID: -4494573892786085971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_74
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 31
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795a4a7b079ecb6d0800000000000000
+      internalID: -2973244983644740201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094b40ca8127f7780800000000000000
+      internalID: -8683096106256255856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_76
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054c3a225a65ea0d0800000000000000
+      internalID: -3409692600622136240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_77
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e3f56a72c74c910800000000000000
+      internalID: 1856745456120315457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_78
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 7
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1563a816ea478a40800000000000000
+      internalID: 5370343432778900763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_79
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 7
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958c1e26d2c2d5420800000000000000
+      internalID: 2620299131643611225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e3ccc9d5672b3e0800000000000000
+      internalID: -2039437536810746301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_81
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 7
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313b8630f32a492d0800000000000000
+      internalID: -3272812637667675373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_82
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 7
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ba819249ad61200800000000000000
+      internalID: 150547967442987810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_83
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 7
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b75e164849880b0800000000000000
+      internalID: -5726163629902562557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_84
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 5
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f8b6ce3b7478f20800000000000000
+      internalID: 3424784879729741705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_85
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 5
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ba439154119fe80800000000000000
+      internalID: -8144459462649533608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Field_86
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7de6e6f37d484d50800000000000000
+      internalID: 6721707604309372283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

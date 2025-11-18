@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: c8577da1f708f9e4ea5b0d2e2636fd08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2544075453800617200
+    second: CuteRPG_Castle_New_E_0
+  - first:
+      213: -6479777472331647214
+    second: CuteRPG_Castle_New_E_1
+  - first:
+      213: 842044018297977976
+    second: CuteRPG_Castle_New_E_2
+  - first:
+      213: -9176430195399296961
+    second: CuteRPG_Castle_New_E_3
+  - first:
+      213: 2910035168927781771
+    second: CuteRPG_Castle_New_E_4
+  - first:
+      213: -4306905902991744025
+    second: CuteRPG_Castle_New_E_5
+  - first:
+      213: -1626136525055532377
+    second: CuteRPG_Castle_New_E_6
+  - first:
+      213: -6723448496094881630
+    second: CuteRPG_Castle_New_E_7
+  - first:
+      213: 274560503134826843
+    second: CuteRPG_Castle_New_E_8
+  - first:
+      213: 2218728233161235581
+    second: CuteRPG_Castle_New_E_9
+  - first:
+      213: 6125517635190127224
+    second: CuteRPG_Castle_New_E_10
+  - first:
+      213: -8316850373158558391
+    second: CuteRPG_Castle_New_E_11
+  - first:
+      213: 8334697694323751040
+    second: CuteRPG_Castle_New_E_12
+  - first:
+      213: -6981520612975791282
+    second: CuteRPG_Castle_New_E_13
+  - first:
+      213: 1957637073496641567
+    second: CuteRPG_Castle_New_E_14
+  - first:
+      213: 7956549435454591404
+    second: CuteRPG_Castle_New_E_15
+  - first:
+      213: -7417480198756795915
+    second: CuteRPG_Castle_New_E_16
+  - first:
+      213: 7963746986949046030
+    second: CuteRPG_Castle_New_E_17
+  - first:
+      213: -8176520971960742643
+    second: CuteRPG_Castle_New_E_18
+  - first:
+      213: 8254614144753802824
+    second: CuteRPG_Castle_New_E_19
+  - first:
+      213: 2883213534871309114
+    second: CuteRPG_Castle_New_E_20
+  - first:
+      213: 5719544692034303401
+    second: CuteRPG_Castle_New_E_21
+  - first:
+      213: -2313817910371344906
+    second: CuteRPG_Castle_New_E_22
+  - first:
+      213: 4728745060531461180
+    second: CuteRPG_Castle_New_E_23
+  - first:
+      213: -967668172245984724
+    second: CuteRPG_Castle_New_E_24
+  - first:
+      213: -6249072373663704966
+    second: CuteRPG_Castle_New_E_25
+  - first:
+      213: 7222265155830024162
+    second: CuteRPG_Castle_New_E_26
+  - first:
+      213: 2092943788359873779
+    second: CuteRPG_Castle_New_E_27
+  - first:
+      213: 8187031757976594186
+    second: CuteRPG_Castle_New_E_28
+  - first:
+      213: -2023396482169420595
+    second: CuteRPG_Castle_New_E_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 512
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f49399652f5e4320800000000000000
+      internalID: 2544075453800617200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 385
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217f71268b43316a0800000000000000
+      internalID: -6479777472331647214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 297
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cb4e3c29a8fab00800000000000000
+      internalID: 842044018297977976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 297
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f387e092b55c6a080800000000000000
+      internalID: -9176430195399296961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 295
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8395df6195826820800000000000000
+      internalID: 2910035168927781771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_5
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 295
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3e42376ebca34c0800000000000000
+      internalID: -4306905902991744025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_6
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 295
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2e6c3327dce69e0800000000000000
+      internalID: -1626136525055532377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 263
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a851a4173381b2a0800000000000000
+      internalID: -6723448496094881630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_8
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 263
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5134baa25f6fc300800000000000000
+      internalID: 274560503134826843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 263
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c94be92918ace10800000000000000
+      internalID: 2218728233161235581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 231
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87af5e6b5d5320550800000000000000
+      internalID: 6125517635190127224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_11
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 231
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9452fc176ac949c80800000000000000
+      internalID: -8316850373158558391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 231
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0883f64d46bcaa370800000000000000
+      internalID: 8334697694323751040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 199
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43b28ffdf7ac1f90800000000000000
+      internalID: -6981520612975791282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 199
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1017ecdb8cea2b10800000000000000
+      internalID: 1957637073496641567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 199
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca11b125e875b6e60800000000000000
+      internalID: 7956549435454591404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 167
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f97b980f01df0990800000000000000
+      internalID: -7417480198756795915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_17
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 167
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f6f2ed0b9e48e60800000000000000
+      internalID: 7963746986949046030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_18
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 167
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d8fbf3f79278e80800000000000000
+      internalID: -8176520971960742643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 135
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e17ff64d74e8270800000000000000
+      internalID: 8254614144753802824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_20
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 135
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b4a9d1f6b330820800000000000000
+      internalID: 2883213534871309114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_21
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 135
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5fcad0897ef5f40800000000000000
+      internalID: 5719544692034303401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_22
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 63
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd1161aedaa3efd0800000000000000
+      internalID: -2313817910371344906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 63
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c5c5e1490ef9140800000000000000
+      internalID: 4728745060531461180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a93dc9ce62292f0800000000000000
+      internalID: -967668172245984724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78511009c5d649a0800000000000000
+      internalID: -6249072373663704966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e70eeed4e3aa3460800000000000000
+      internalID: 7222265155830024162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4fc006941ab0d10800000000000000
+      internalID: 2092943788359873779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a076903d10e2e9170800000000000000
+      internalID: 8187031757976594186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Castle_New_E_29
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 129
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc44480be937be3e0800000000000000
+      internalID: -2023396482169420595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

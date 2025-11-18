@@ -1,0 +1,1930 @@
+fileFormatVersion: 2
+guid: e7be3ffee156ac54593a2ba20b263a65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -507579095815068687
+    second: CuteRPG_Mountains_animations_0
+  - first:
+      213: -3126953546812667187
+    second: CuteRPG_Mountains_animations_1
+  - first:
+      213: -6558672132560342396
+    second: CuteRPG_Mountains_animations_2
+  - first:
+      213: 6601738262452635962
+    second: CuteRPG_Mountains_animations_3
+  - first:
+      213: -4809165873420503671
+    second: CuteRPG_Mountains_animations_4
+  - first:
+      213: -1660380260469453761
+    second: CuteRPG_Mountains_animations_5
+  - first:
+      213: -7735959018571530079
+    second: CuteRPG_Mountains_animations_6
+  - first:
+      213: -8422438149930390639
+    second: CuteRPG_Mountains_animations_7
+  - first:
+      213: -965087414807478943
+    second: CuteRPG_Mountains_animations_8
+  - first:
+      213: 2407067626193168042
+    second: CuteRPG_Mountains_animations_9
+  - first:
+      213: -8859835852034679069
+    second: CuteRPG_Mountains_animations_10
+  - first:
+      213: 967343883885954275
+    second: CuteRPG_Mountains_animations_11
+  - first:
+      213: -1733195279985817081
+    second: CuteRPG_Mountains_animations_12
+  - first:
+      213: -6895010839705081307
+    second: CuteRPG_Mountains_animations_13
+  - first:
+      213: -729594329187324428
+    second: CuteRPG_Mountains_animations_14
+  - first:
+      213: -4405359951255899099
+    second: CuteRPG_Mountains_animations_15
+  - first:
+      213: -4124530679130592048
+    second: CuteRPG_Mountains_animations_16
+  - first:
+      213: 7996709528909345270
+    second: CuteRPG_Mountains_animations_17
+  - first:
+      213: -8855718858612928621
+    second: CuteRPG_Mountains_animations_18
+  - first:
+      213: 6870029779348089410
+    second: CuteRPG_Mountains_animations_19
+  - first:
+      213: 6395470114423707032
+    second: CuteRPG_Mountains_animations_20
+  - first:
+      213: 629584613958570405
+    second: CuteRPG_Mountains_animations_21
+  - first:
+      213: 3534287465081377305
+    second: CuteRPG_Mountains_animations_22
+  - first:
+      213: -1317568839187538537
+    second: CuteRPG_Mountains_animations_23
+  - first:
+      213: -1738082823222338176
+    second: CuteRPG_Mountains_animations_24
+  - first:
+      213: -4404184057088376232
+    second: CuteRPG_Mountains_animations_25
+  - first:
+      213: 2801464801711557544
+    second: CuteRPG_Mountains_animations_26
+  - first:
+      213: 932053276345009040
+    second: CuteRPG_Mountains_animations_27
+  - first:
+      213: -8544748671240269144
+    second: CuteRPG_Mountains_animations_28
+  - first:
+      213: -9174276319024755172
+    second: CuteRPG_Mountains_animations_29
+  - first:
+      213: -8566208924531125586
+    second: CuteRPG_Mountains_animations_30
+  - first:
+      213: -1781046236695867491
+    second: CuteRPG_Mountains_animations_31
+  - first:
+      213: 8182597491903283144
+    second: CuteRPG_Mountains_animations_32
+  - first:
+      213: -7769548002451418188
+    second: CuteRPG_Mountains_animations_33
+  - first:
+      213: -8927209347010177271
+    second: CuteRPG_Mountains_animations_34
+  - first:
+      213: -4213870215401592843
+    second: CuteRPG_Mountains_animations_35
+  - first:
+      213: -4161045015908682236
+    second: CuteRPG_Mountains_animations_36
+  - first:
+      213: -5070210047953705548
+    second: CuteRPG_Mountains_animations_37
+  - first:
+      213: 4840087389543964532
+    second: CuteRPG_Mountains_animations_38
+  - first:
+      213: 5951825203372651286
+    second: CuteRPG_Mountains_animations_39
+  - first:
+      213: 3160394797249739672
+    second: CuteRPG_Mountains_animations_40
+  - first:
+      213: 797999530671746293
+    second: CuteRPG_Mountains_animations_41
+  - first:
+      213: 4971014100750267028
+    second: CuteRPG_Mountains_animations_42
+  - first:
+      213: 3853152437376795256
+    second: CuteRPG_Mountains_animations_43
+  - first:
+      213: -4572725301784458930
+    second: CuteRPG_Mountains_animations_44
+  - first:
+      213: 6566654926872163472
+    second: CuteRPG_Mountains_animations_45
+  - first:
+      213: -5618792778044666077
+    second: CuteRPG_Mountains_animations_46
+  - first:
+      213: -2132667510443219345
+    second: CuteRPG_Mountains_animations_47
+  - first:
+      213: -4320439656363666472
+    second: CuteRPG_Mountains_animations_48
+  - first:
+      213: 7061465495493760406
+    second: CuteRPG_Mountains_animations_49
+  - first:
+      213: 4876508629036091110
+    second: CuteRPG_Mountains_animations_50
+  - first:
+      213: 6224814066646246383
+    second: CuteRPG_Mountains_animations_51
+  - first:
+      213: -5142281641008806617
+    second: CuteRPG_Mountains_animations_52
+  - first:
+      213: -5917853186914239777
+    second: CuteRPG_Mountains_animations_53
+  - first:
+      213: -2383309499776050052
+    second: CuteRPG_Mountains_animations_54
+  - first:
+      213: -3750184228522485392
+    second: CuteRPG_Mountains_animations_55
+  - first:
+      213: -1986507637201655107
+    second: CuteRPG_Mountains_animations_56
+  - first:
+      213: 7275831948378426795
+    second: CuteRPG_Mountains_animations_57
+  - first:
+      213: 403821679772784304
+    second: CuteRPG_Mountains_animations_58
+  - first:
+      213: 4326249499752929375
+    second: CuteRPG_Mountains_animations_59
+  - first:
+      213: -4907937166496673960
+    second: CuteRPG_Mountains_animations_60
+  - first:
+      213: -3130674845210271419
+    second: CuteRPG_Mountains_animations_61
+  - first:
+      213: 1216447222593922839
+    second: CuteRPG_Mountains_animations_62
+  - first:
+      213: -4998182700369488722
+    second: CuteRPG_Mountains_animations_63
+  - first:
+      213: 2466395928575478017
+    second: CuteRPG_Mountains_animations_64
+  - first:
+      213: -4744801020875349478
+    second: CuteRPG_Mountains_animations_65
+  - first:
+      213: -3286527013491920739
+    second: CuteRPG_Mountains_animations_66
+  - first:
+      213: -8122458531491228760
+    second: CuteRPG_Mountains_animations_67
+  - first:
+      213: -1220193369870147484
+    second: CuteRPG_Mountains_animations_68
+  - first:
+      213: -6564684185473005920
+    second: CuteRPG_Mountains_animations_69
+  - first:
+      213: 1363440254380540771
+    second: CuteRPG_Mountains_animations_70
+  - first:
+      213: -5063032339591719099
+    second: CuteRPG_Mountains_animations_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 227
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3678a6087b4f8f0800000000000000
+      internalID: -507579095815068687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca45150154da94d0800000000000000
+      internalID: -3126953546812667187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 225
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482bc7cd17aeaf4a0800000000000000
+      internalID: -6558672132560342396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 225
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a390891e8f51e9b50800000000000000
+      internalID: 6601738262452635962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985f6d04e19624db0800000000000000
+      internalID: -4809165873420503671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 227
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cc5ae33f425f8e0800000000000000
+      internalID: -1660380260469453761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 227
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0801d624a54a490800000000000000
+      internalID: -7735959018571530079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b63ba602d7d1b80800000000000000
+      internalID: -8422438149930390639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 225
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d33370c125b92f0800000000000000
+      internalID: -965087414807478943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 225
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa62699b04f976120800000000000000
+      internalID: 2407067626193168042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 225
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eed337eb3a8b0580800000000000000
+      internalID: -8859835852034679069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 227
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e44bae1322bc6d00800000000000000
+      internalID: 967343883885954275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 195
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70acf02631472f7e0800000000000000
+      internalID: -1733195279985817081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 195
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a29e03c200050a0800000000000000
+      internalID: -6895010839705081307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 193
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd66aab2d5ffd5f0800000000000000
+      internalID: -729594329187324428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 193
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524f8a507740dd2c0800000000000000
+      internalID: -4405359951255899099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc68353339b2c6c0800000000000000
+      internalID: -4124530679130592048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 195
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f17f9ab2f40afe60800000000000000
+      internalID: 7996709528909345270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 195
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f06a12e9a2a1580800000000000000
+      internalID: -8855718858612928621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 195
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ae5627faf375f50800000000000000
+      internalID: 6870029779348089410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 193
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8951ad53f2641c850800000000000000
+      internalID: 6395470114423707032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_21
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a15d07eedbbcb800800000000000000
+      internalID: 629584613958570405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_22
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 193
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9129a4a59bf4c0130800000000000000
+      internalID: 3534287465081377305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_23
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 195
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d5a1d1f1e07bde0800000000000000
+      internalID: -1317568839187538537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ddf9b81e611e7e0800000000000000
+      internalID: -1738082823222338176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 163
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8520fc73fe131e2c0800000000000000
+      internalID: -4404184057088376232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 161
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab07c4f46dc0e620800000000000000
+      internalID: 2801464801711557544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 161
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093884044815fec00800000000000000
+      internalID: 932053276345009040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 161
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a29bb30b54fa6980800000000000000
+      internalID: -8544748671240269144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 163
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e40459b4c6ea080800000000000000
+      internalID: -9174276319024755172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 163
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea29a8d6e56be1980800000000000000
+      internalID: -8566208924531125586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 163
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f423552e37847e0800000000000000
+      internalID: -1781046236695867491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 161
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfb5ecc01d6e8170800000000000000
+      internalID: 8182597491903283144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_33
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 161
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b39980b1450d2490800000000000000
+      internalID: -7769548002451418188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_34
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 161
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90759e3b56e2c1480800000000000000
+      internalID: -8927209347010177271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_35
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 163
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7a3697d535585c0800000000000000
+      internalID: -4213870215401592843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4067a5caa9ff046c0800000000000000
+      internalID: -4161045015908682236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 131
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b56a1313def2a9b0800000000000000
+      internalID: -5070210047953705548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_38
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 129
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f9d9f36d17b2340800000000000000
+      internalID: 4840087389543964532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_39
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6137e340d71299250800000000000000
+      internalID: 5951825203372651286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b3018d25afbdb20800000000000000
+      internalID: 3160394797249739672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 131
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc2e9c5850131b00800000000000000
+      internalID: 797999530671746293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 131
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4927da0bcf69cf440800000000000000
+      internalID: 4971014100750267028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_43
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 131
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87246471ab5297530800000000000000
+      internalID: 3853152437376795256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_44
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 129
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4942bbb09a6a80c0800000000000000
+      internalID: -4572725301784458930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_45
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 129
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094b8c64dd1712b50800000000000000
+      internalID: 6566654926872163472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_46
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f0e1eecb90602b0800000000000000
+      internalID: -5618792778044666077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_47
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 131
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66e308d23e3762e0800000000000000
+      internalID: -2132667510443219345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3dee0f507ba04c0800000000000000
+      internalID: -4320439656363666472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 99
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6955594747d5ff160800000000000000
+      internalID: 7061465495493760406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 97
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6c2d1e2c6dca340800000000000000
+      internalID: 4876508629036091110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 97
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3ed43c96bf26650800000000000000
+      internalID: 6224814066646246383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72548aca712f2a8b0800000000000000
+      internalID: -5142281641008806617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 99
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda301171ef8fdda0800000000000000
+      internalID: -5917853186914239777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cd80423a8cceed0800000000000000
+      internalID: -2383309499776050052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_55
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 67
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07915a0405ba4fbc0800000000000000
+      internalID: -3750184228522485392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaaef434d18e64e0800000000000000
+      internalID: -1986507637201655107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_57
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badc888ab92f8f460800000000000000
+      internalID: 7275831948378426795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6557f9da9aa9500800000000000000
+      internalID: 403821679772784304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_59
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 67
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f581c72affce90c30800000000000000
+      internalID: 4326249499752929375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f4703862183ebb0800000000000000
+      internalID: -4907937166496673960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_61
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541adf7b0db9d84d0800000000000000
+      internalID: -3130674845210271419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_62
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 33
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717a8becd40b1e010800000000000000
+      internalID: 1216447222593922839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_63
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea459f5c053e2aab0800000000000000
+      internalID: -4998182700369488722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_64
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109063e87066a3220800000000000000
+      internalID: 2466395928575478017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_65
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 35
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1260dc4c94172eb0800000000000000
+      internalID: -4744801020875349478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90b6101819e362d0800000000000000
+      internalID: -3286527013491920739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3df9f000b374f80800000000000000
+      internalID: -8122458531491228760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4606a9f4890011fe0800000000000000
+      internalID: -1220193369870147484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6c146b38e85e4a0800000000000000
+      internalID: -6564684185473005920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36302d200b9ebe210800000000000000
+      internalID: 1363440254380540771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Mountains_animations_71
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547125889ee7cb9b0800000000000000
+      internalID: -5063032339591719099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

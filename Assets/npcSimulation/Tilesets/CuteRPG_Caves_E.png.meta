@@ -1,0 +1,1330 @@
+fileFormatVersion: 2
+guid: ac48cfc3411760c4da64d8e118ee9d5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5427051643800757089
+    second: CuteRPG_Caves_E_0
+  - first:
+      213: 6557292268149569125
+    second: CuteRPG_Caves_E_1
+  - first:
+      213: 1255022438935878273
+    second: CuteRPG_Caves_E_2
+  - first:
+      213: 5210694390840579185
+    second: CuteRPG_Caves_E_3
+  - first:
+      213: 5333784332549573910
+    second: CuteRPG_Caves_E_4
+  - first:
+      213: 7927561886912751227
+    second: CuteRPG_Caves_E_5
+  - first:
+      213: -358324609304153513
+    second: CuteRPG_Caves_E_6
+  - first:
+      213: 5000673570298841632
+    second: CuteRPG_Caves_E_7
+  - first:
+      213: 6187343303076053323
+    second: CuteRPG_Caves_E_8
+  - first:
+      213: -8416110077317615803
+    second: CuteRPG_Caves_E_9
+  - first:
+      213: 2775572236577912586
+    second: CuteRPG_Caves_E_10
+  - first:
+      213: 653616349581254354
+    second: CuteRPG_Caves_E_11
+  - first:
+      213: -1367404770643755333
+    second: CuteRPG_Caves_E_12
+  - first:
+      213: -3192921226882780016
+    second: CuteRPG_Caves_E_13
+  - first:
+      213: 1449719117921697680
+    second: CuteRPG_Caves_E_14
+  - first:
+      213: -415810229060609308
+    second: CuteRPG_Caves_E_15
+  - first:
+      213: 2855325155693426713
+    second: CuteRPG_Caves_E_16
+  - first:
+      213: -8760358344696548261
+    second: CuteRPG_Caves_E_17
+  - first:
+      213: 1008310727114372569
+    second: CuteRPG_Caves_E_18
+  - first:
+      213: 5975795817059301104
+    second: CuteRPG_Caves_E_19
+  - first:
+      213: -8873912263683630336
+    second: CuteRPG_Caves_E_20
+  - first:
+      213: -1550750211535418117
+    second: CuteRPG_Caves_E_21
+  - first:
+      213: -6637095446975679375
+    second: CuteRPG_Caves_E_22
+  - first:
+      213: 3911008918445529808
+    second: CuteRPG_Caves_E_23
+  - first:
+      213: 1441429626821542146
+    second: CuteRPG_Caves_E_24
+  - first:
+      213: 2647950514943154314
+    second: CuteRPG_Caves_E_25
+  - first:
+      213: 3221134168243781358
+    second: CuteRPG_Caves_E_26
+  - first:
+      213: -4653157009992695100
+    second: CuteRPG_Caves_E_27
+  - first:
+      213: 5266224538120221088
+    second: CuteRPG_Caves_E_28
+  - first:
+      213: 8876159696271608622
+    second: CuteRPG_Caves_E_29
+  - first:
+      213: 1244946293185609385
+    second: CuteRPG_Caves_E_30
+  - first:
+      213: -3716953594621969522
+    second: CuteRPG_Caves_E_31
+  - first:
+      213: -6708790117066728730
+    second: CuteRPG_Caves_E_32
+  - first:
+      213: -1812465030723003528
+    second: CuteRPG_Caves_E_33
+  - first:
+      213: -2233653869306436742
+    second: CuteRPG_Caves_E_34
+  - first:
+      213: 4547887743664914534
+    second: CuteRPG_Caves_E_35
+  - first:
+      213: 1051369030599019612
+    second: CuteRPG_Caves_E_36
+  - first:
+      213: 765268515074478300
+    second: CuteRPG_Caves_E_37
+  - first:
+      213: 4047026027217421610
+    second: CuteRPG_Caves_E_38
+  - first:
+      213: -460078534553524774
+    second: CuteRPG_Caves_E_39
+  - first:
+      213: 2020626174213734358
+    second: CuteRPG_Caves_E_40
+  - first:
+      213: -4360205319459472027
+    second: CuteRPG_Caves_E_41
+  - first:
+      213: -4890075720494769212
+    second: CuteRPG_Caves_E_42
+  - first:
+      213: -3559824926037209860
+    second: CuteRPG_Caves_E_43
+  - first:
+      213: 4087578347770656152
+    second: CuteRPG_Caves_E_44
+  - first:
+      213: 7517598901866584102
+    second: CuteRPG_Caves_E_45
+  - first:
+      213: -7488230666846156010
+    second: CuteRPG_Caves_E_46
+  - first:
+      213: 8282345930875136150
+    second: CuteRPG_Caves_E_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 425
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c5e81a84d3fa4b0800000000000000
+      internalID: -5427051643800757089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 447
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566787b639e200b50800000000000000
+      internalID: 6557292268149569125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 425
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18adae1424cba6110800000000000000
+      internalID: 1255022438935878273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 255
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1745c27e0fa105840800000000000000
+      internalID: 5210694390840579185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 329
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d49224798650a40800000000000000
+      internalID: 5333784332549573910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 351
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b762c5cb88b540e60800000000000000
+      internalID: 7927561886912751227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 329
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75235249aa9f60bf0800000000000000
+      internalID: -358324609304153513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 233
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ac8531e16f56540800000000000000
+      internalID: 5000673570298841632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 255
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b418d33c3fbddd550800000000000000
+      internalID: 6187343303076053323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 233
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fe5e2a978f33b80800000000000000
+      internalID: -8416110077317615803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 137
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07b9a95e30d48620800000000000000
+      internalID: 2775572236577912586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 159
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de9d206b9c121900800000000000000
+      internalID: 653616349581254354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 137
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeba9d1b90060de0800000000000000
+      internalID: -1367404770643755333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 159
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094f8db9f0770b3d0800000000000000
+      internalID: -3192921226882780016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 203
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fb0d75bdf6e1410800000000000000
+      internalID: 1449719117921697680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_15
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 203
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea5edabcceba3af0800000000000000
+      internalID: -415810229060609308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_16
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 215
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918f757d91720a720800000000000000
+      internalID: 2855325155693426713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 215
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54bb37ff74fc6680800000000000000
+      internalID: -8760358344696548261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 191
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d53ed8934d3efd00800000000000000
+      internalID: 1008310727114372569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_19
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 191
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6b51e62aa4ee250800000000000000
+      internalID: 5975795817059301104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_20
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 139
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b972befc789d480800000000000000
+      internalID: -8873912263683630336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_21
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 139
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcc11a16e0aa7ae0800000000000000
+      internalID: -1550750211535418117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_22
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 151
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174f6a61bdc44e3a0800000000000000
+      internalID: -6637095446975679375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 151
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da9451d3e1b64630800000000000000
+      internalID: 3911008918445529808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 127
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2010c6bcb9cf00410800000000000000
+      internalID: 1441429626821542146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_25
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 127
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88dff1c6f86fb420800000000000000
+      internalID: 2647950514943154314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee3b00b574c3bc20800000000000000
+      internalID: 3221134168243781358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 77
+        width: 94
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c244475a5aac6fb0800000000000000
+      internalID: -4653157009992695100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 81
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1f916d053651940800000000000000
+      internalID: 5266224538120221088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 99
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b88e147347e2b70800000000000000
+      internalID: 8876159696271608622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_30
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 87
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae74c1ce00f64110800000000000000
+      internalID: 1244946293185609385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_31
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 87
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b32f1266aba6cc0800000000000000
+      internalID: -3716953594621969522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_32
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 63
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea1697eee695e2a0800000000000000
+      internalID: -6708790117066728730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_33
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 67
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b10fb48a4d8d6e0800000000000000
+      internalID: -1812465030723003528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_34
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 75
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7320d8e3a77001e0800000000000000
+      internalID: -2233653869306436742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_35
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 75
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660008f9ec75d1f30800000000000000
+      internalID: 4547887743664914534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_36
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 63
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c83bc1096379e00800000000000000
+      internalID: 1051369030599019612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd01ecee8a7ce9a00800000000000000
+      internalID: 765268515074478300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 13
+        width: 94
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a250e0dcabce92830800000000000000
+      internalID: 4047026027217421610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_39
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 17
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5a72ba2097d99f0800000000000000
+      internalID: -460078534553524774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 35
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfbdd9bcc4ba0c10800000000000000
+      internalID: 2020626174213734358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_41
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 23
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d79d10d507d73c0800000000000000
+      internalID: -4360205319459472027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_42
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 23
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb952b7a06f22cb0800000000000000
+      internalID: -4890075720494769212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_43
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc88fc2716f89ec0800000000000000
+      internalID: -3559824926037209860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895b272b9def9b830800000000000000
+      internalID: 4087578347770656152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_45
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628df9d0f50e35860800000000000000
+      internalID: 7517598901866584102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_46
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bc27202e5741890800000000000000
+      internalID: -7488230666846156010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Caves_E_47
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698e6bc0ebdc0f270800000000000000
+      internalID: 8282345930875136150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

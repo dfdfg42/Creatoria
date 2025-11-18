@@ -1,0 +1,1930 @@
+fileFormatVersion: 2
+guid: c113020801bfe924baa1c1483b26919d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7489070360092684771
+    second: CuteRPG_Forest_0
+  - first:
+      213: -4290812181354186788
+    second: CuteRPG_Forest_1
+  - first:
+      213: -6458389971168210218
+    second: CuteRPG_Forest_2
+  - first:
+      213: 6385119744883392805
+    second: CuteRPG_Forest_3
+  - first:
+      213: 6466061351238200188
+    second: CuteRPG_Forest_4
+  - first:
+      213: 5585946724113604145
+    second: CuteRPG_Forest_5
+  - first:
+      213: 1736470520741729394
+    second: CuteRPG_Forest_6
+  - first:
+      213: -2533667214521994581
+    second: CuteRPG_Forest_7
+  - first:
+      213: -6749408198383836403
+    second: CuteRPG_Forest_8
+  - first:
+      213: 6850106465751987077
+    second: CuteRPG_Forest_9
+  - first:
+      213: 2642861731410779862
+    second: CuteRPG_Forest_10
+  - first:
+      213: 887205383343153522
+    second: CuteRPG_Forest_11
+  - first:
+      213: 6743279254566125473
+    second: CuteRPG_Forest_12
+  - first:
+      213: -3177814653315082876
+    second: CuteRPG_Forest_13
+  - first:
+      213: 8916946332217542131
+    second: CuteRPG_Forest_14
+  - first:
+      213: 3404041894628878863
+    second: CuteRPG_Forest_15
+  - first:
+      213: -1297520866560907011
+    second: CuteRPG_Forest_16
+  - first:
+      213: 4521581730799396977
+    second: CuteRPG_Forest_17
+  - first:
+      213: 1181588023061490409
+    second: CuteRPG_Forest_18
+  - first:
+      213: -8328241351298126771
+    second: CuteRPG_Forest_19
+  - first:
+      213: -8330235456015088715
+    second: CuteRPG_Forest_20
+  - first:
+      213: 3964253625905468016
+    second: CuteRPG_Forest_21
+  - first:
+      213: -4542706361806653501
+    second: CuteRPG_Forest_22
+  - first:
+      213: 8126010501836064614
+    second: CuteRPG_Forest_23
+  - first:
+      213: 5749151741624689171
+    second: CuteRPG_Forest_24
+  - first:
+      213: -2283558424889609100
+    second: CuteRPG_Forest_25
+  - first:
+      213: 838191407202246098
+    second: CuteRPG_Forest_26
+  - first:
+      213: 5069147487760844866
+    second: CuteRPG_Forest_27
+  - first:
+      213: -2941241083938985502
+    second: CuteRPG_Forest_28
+  - first:
+      213: -6177588397648332233
+    second: CuteRPG_Forest_29
+  - first:
+      213: -1271729256760351277
+    second: CuteRPG_Forest_30
+  - first:
+      213: -6415805738541845774
+    second: CuteRPG_Forest_31
+  - first:
+      213: -2094514596839634767
+    second: CuteRPG_Forest_32
+  - first:
+      213: 3658009667588290023
+    second: CuteRPG_Forest_33
+  - first:
+      213: 7228235234257402299
+    second: CuteRPG_Forest_34
+  - first:
+      213: 5997674530742556627
+    second: CuteRPG_Forest_35
+  - first:
+      213: -1902133891231795856
+    second: CuteRPG_Forest_36
+  - first:
+      213: -60381222684303369
+    second: CuteRPG_Forest_37
+  - first:
+      213: 5963883269278944683
+    second: CuteRPG_Forest_38
+  - first:
+      213: 4793827501736516434
+    second: CuteRPG_Forest_39
+  - first:
+      213: 7186003604613691164
+    second: CuteRPG_Forest_40
+  - first:
+      213: -3361437710105745646
+    second: CuteRPG_Forest_41
+  - first:
+      213: -4585069644118231047
+    second: CuteRPG_Forest_42
+  - first:
+      213: 5373582945630253541
+    second: CuteRPG_Forest_43
+  - first:
+      213: 635741449468115399
+    second: CuteRPG_Forest_44
+  - first:
+      213: 4478304393486144256
+    second: CuteRPG_Forest_45
+  - first:
+      213: -7077656774551872280
+    second: CuteRPG_Forest_46
+  - first:
+      213: 8018746334141437200
+    second: CuteRPG_Forest_47
+  - first:
+      213: 3765328131817633738
+    second: CuteRPG_Forest_48
+  - first:
+      213: -5291477727881267966
+    second: CuteRPG_Forest_49
+  - first:
+      213: -2539858999221589607
+    second: CuteRPG_Forest_50
+  - first:
+      213: -7656079417828668388
+    second: CuteRPG_Forest_51
+  - first:
+      213: 8565376126179998920
+    second: CuteRPG_Forest_52
+  - first:
+      213: 3397286294393080719
+    second: CuteRPG_Forest_53
+  - first:
+      213: -2939338979099518554
+    second: CuteRPG_Forest_54
+  - first:
+      213: -242524484764126623
+    second: CuteRPG_Forest_55
+  - first:
+      213: -1934684716446152510
+    second: CuteRPG_Forest_56
+  - first:
+      213: -8258475126414065877
+    second: CuteRPG_Forest_57
+  - first:
+      213: 3002993582025273617
+    second: CuteRPG_Forest_58
+  - first:
+      213: -6504275218729594803
+    second: CuteRPG_Forest_59
+  - first:
+      213: -6109417917683534588
+    second: CuteRPG_Forest_60
+  - first:
+      213: 8846652320878731967
+    second: CuteRPG_Forest_61
+  - first:
+      213: -361080855324610229
+    second: CuteRPG_Forest_62
+  - first:
+      213: -185307216366870493
+    second: CuteRPG_Forest_63
+  - first:
+      213: -1512339265123058112
+    second: CuteRPG_Forest_64
+  - first:
+      213: -383786372112924297
+    second: CuteRPG_Forest_65
+  - first:
+      213: 4166344030060706001
+    second: CuteRPG_Forest_66
+  - first:
+      213: -4884875346743419019
+    second: CuteRPG_Forest_67
+  - first:
+      213: -2597753482408384360
+    second: CuteRPG_Forest_68
+  - first:
+      213: 3651862530023238199
+    second: CuteRPG_Forest_69
+  - first:
+      213: 3113661872697353758
+    second: CuteRPG_Forest_70
+  - first:
+      213: 1236882382518564747
+    second: CuteRPG_Forest_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CuteRPG_Forest_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e13b3f40d58ee760800000000000000
+      internalID: 7489070360092684771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7f6740e09f374c0800000000000000
+      internalID: -4290812181354186788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2d29b0a803f56a0800000000000000
+      internalID: -6458389971168210218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5218b1204908c9850800000000000000
+      internalID: 6385119744883392805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 231
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b6f605a801cb950800000000000000
+      internalID: 6466061351238200188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e5c0133f4458d40800000000000000
+      internalID: 5585946724113604145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 233
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2749fb70dbe291810800000000000000
+      internalID: 1736470520741729394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 233
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2fc53a71b96dcd0800000000000000
+      internalID: -2533667214521994581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 235
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03e833e0094552a0800000000000000
+      internalID: -6749408198383836403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 233
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583f0c48987701f50800000000000000
+      internalID: 6850106465751987077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 233
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de96330eb45da420800000000000000
+      internalID: 2642861731410779862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 235
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271abf4789cff4c00800000000000000
+      internalID: 887205383343153522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 199
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afbcad21c0f49d50800000000000000
+      internalID: 6743279254566125473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 199
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4859f1bd86226e3d0800000000000000
+      internalID: -3177814653315082876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 199
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f58c05f17b5fbb70800000000000000
+      internalID: 8916946332217542131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 199
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ae6e951169d3f20800000000000000
+      internalID: 3404041894628878863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 199
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8eafb75a74efde0800000000000000
+      internalID: -1297520866560907011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 199
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178a137b0a2efbe30800000000000000
+      internalID: 4521581730799396977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 201
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaaf61fb08d56010800000000000000
+      internalID: 1181588023061490409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 201
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ce72cad942c6c80800000000000000
+      internalID: -8328241351298126771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 203
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b34bdcfcfe056c80800000000000000
+      internalID: -8330235456015088715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_21
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 201
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07256a35babd30730800000000000000
+      internalID: 3964253625905468016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_22
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 201
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c77b99d1a015f0c0800000000000000
+      internalID: -4542706361806653501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_23
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 203
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667480b7f7365c070800000000000000
+      internalID: 8126010501836064614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 167
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312ab577c0719cf40800000000000000
+      internalID: 5749151741624689171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474ba9c16bb2f40e0800000000000000
+      internalID: -2283558424889609100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 167
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd1318d4aad1ab00800000000000000
+      internalID: 838191407202246098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 167
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2488c0a58ca395640800000000000000
+      internalID: 5069147487760844866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9280941dc9e27d0800000000000000
+      internalID: -2941241083938985502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 167
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ab895251cc44aa0800000000000000
+      internalID: -6177588397648332233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5e3589af8e95ee0800000000000000
+      internalID: -1271729256760351277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 169
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2fc465caa76f6a0800000000000000
+      internalID: -6415805738541845774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_32
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 171
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8c086421acee2e0800000000000000
+      internalID: -2094514596839634767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_33
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e57b85696cd3c230800000000000000
+      internalID: 3658009667588290023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 169
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9ffd216a9df4460800000000000000
+      internalID: 7228235234257402299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_35
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 171
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7515b65350c3350800000000000000
+      internalID: 5997674530742556627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 135
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075b5e9cd434a95e0800000000000000
+      internalID: -1902133891231795856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 135
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff5cce099b792ff0800000000000000
+      internalID: -60381222684303369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 135
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad44434c38f3c250800000000000000
+      internalID: 5963883269278944683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 135
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bd08bc6b8178240800000000000000
+      internalID: 4793827501736516434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_40
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 135
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17fcaf8430d9b360800000000000000
+      internalID: 7186003604613691164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 135
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2176b8a5636c951d0800000000000000
+      internalID: -3361437710105745646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 137
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7f7ef837f8e50c0800000000000000
+      internalID: -4585069644118231047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 137
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e17365f73dc29a40800000000000000
+      internalID: 5373582945630253541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_44
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 139
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9f980ea7b92d800800000000000000
+      internalID: 635741449468115399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_45
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 137
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00310d96e12262e30800000000000000
+      internalID: 4478304393486144256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 137
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecd2be99ac17cd90800000000000000
+      internalID: -7077656774551872280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_47
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 139
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01557764e4f484f60800000000000000
+      internalID: 8018746334141437200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 105
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac776cf7cf1214430800000000000000
+      internalID: 3765328131817633738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_49
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 105
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205febcba05e096b0800000000000000
+      internalID: -5291477727881267966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99961db62bb90ccd0800000000000000
+      internalID: -2539858999221589607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 105
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c8428455420c590800000000000000
+      internalID: -7656079417828668388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 105
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccf19894345ed670800000000000000
+      internalID: 8565376126179998920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b4a9992e5952f20800000000000000
+      internalID: 3397286294393080719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 73
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9505495ce5537d0800000000000000
+      internalID: -2939338979099518554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 73
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162bc4c144162acf0800000000000000
+      internalID: -242524484764126623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_56
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c889d3308e9625e0800000000000000
+      internalID: -1934684716446152510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_57
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 73
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fb0b7b0a0046d80800000000000000
+      internalID: -8258475126414065877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_58
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 73
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111f46790c6cca920800000000000000
+      internalID: 3002993582025273617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_59
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 75
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d401f32562c2cb5a0800000000000000
+      internalID: -6504275218729594803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 41
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405f010e5ccf63ba0800000000000000
+      internalID: -6109417917683534588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_61
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 41
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2ac5d0a6f95ca70800000000000000
+      internalID: 8846652320878731967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_62
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 43
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41be2b00ee2dfaf0800000000000000
+      internalID: -361080855324610229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 41
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320e22a8118ad6df0800000000000000
+      internalID: -185307216366870493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_64
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 41
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ef67a7377130be0800000000000000
+      internalID: -1512339265123058112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_65
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 43
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771c294f3548caaf0800000000000000
+      internalID: -383786372112924297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_66
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d876d332d3d1d930800000000000000
+      internalID: 4166344030060706001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_67
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 9
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f9b49d0cf653cb0800000000000000
+      internalID: -4884875346743419019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_68
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 11
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898a303a8fce2fbd0800000000000000
+      internalID: -2597753482408384360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_69
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a28966f950ea230800000000000000
+      internalID: 3651862530023238199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_70
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 9
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16adc0f9f2f53b20800000000000000
+      internalID: 3113661872697353758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Forest_71
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8735fe39f94a2110800000000000000
+      internalID: 1236882382518564747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

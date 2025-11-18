@@ -1,0 +1,2530 @@
+fileFormatVersion: 2
+guid: 9f4c8c5d0eafbff4281832b22f0ee154
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 224614399810734137
+    second: CuteRPG_Dark_Castle_Animations01_0
+  - first:
+      213: 8532547698141294489
+    second: CuteRPG_Dark_Castle_Animations01_1
+  - first:
+      213: -3423575842080275160
+    second: CuteRPG_Dark_Castle_Animations01_2
+  - first:
+      213: 4292042759283489333
+    second: CuteRPG_Dark_Castle_Animations01_3
+  - first:
+      213: 531062444193513531
+    second: CuteRPG_Dark_Castle_Animations01_4
+  - first:
+      213: -8575551524839400677
+    second: CuteRPG_Dark_Castle_Animations01_5
+  - first:
+      213: 8580085899716879710
+    second: CuteRPG_Dark_Castle_Animations01_6
+  - first:
+      213: -4998728527614303600
+    second: CuteRPG_Dark_Castle_Animations01_7
+  - first:
+      213: 2315240495947770408
+    second: CuteRPG_Dark_Castle_Animations01_8
+  - first:
+      213: -1128335774443903371
+    second: CuteRPG_Dark_Castle_Animations01_9
+  - first:
+      213: -2352774485988385380
+    second: CuteRPG_Dark_Castle_Animations01_10
+  - first:
+      213: 2619642856778389967
+    second: CuteRPG_Dark_Castle_Animations01_11
+  - first:
+      213: -7416514360865228831
+    second: CuteRPG_Dark_Castle_Animations01_12
+  - first:
+      213: -7595977978715782894
+    second: CuteRPG_Dark_Castle_Animations01_13
+  - first:
+      213: 4308535530637053404
+    second: CuteRPG_Dark_Castle_Animations01_14
+  - first:
+      213: 2723236539451619738
+    second: CuteRPG_Dark_Castle_Animations01_15
+  - first:
+      213: -262079166256273365
+    second: CuteRPG_Dark_Castle_Animations01_16
+  - first:
+      213: -6530351616731398024
+    second: CuteRPG_Dark_Castle_Animations01_17
+  - first:
+      213: -2444327368275372624
+    second: CuteRPG_Dark_Castle_Animations01_18
+  - first:
+      213: -8447776059314447999
+    second: CuteRPG_Dark_Castle_Animations01_19
+  - first:
+      213: 2475713767332271322
+    second: CuteRPG_Dark_Castle_Animations01_20
+  - first:
+      213: -2201549720810088890
+    second: CuteRPG_Dark_Castle_Animations01_21
+  - first:
+      213: 6712371071194113840
+    second: CuteRPG_Dark_Castle_Animations01_22
+  - first:
+      213: -1813386197949999717
+    second: CuteRPG_Dark_Castle_Animations01_23
+  - first:
+      213: -2266523565716283624
+    second: CuteRPG_Dark_Castle_Animations01_24
+  - first:
+      213: -8212402439810914734
+    second: CuteRPG_Dark_Castle_Animations01_25
+  - first:
+      213: 5897064699312104000
+    second: CuteRPG_Dark_Castle_Animations01_26
+  - first:
+      213: -1238089341206770608
+    second: CuteRPG_Dark_Castle_Animations01_27
+  - first:
+      213: 360655379338252435
+    second: CuteRPG_Dark_Castle_Animations01_28
+  - first:
+      213: -138819113641882926
+    second: CuteRPG_Dark_Castle_Animations01_29
+  - first:
+      213: -6669847538106034110
+    second: CuteRPG_Dark_Castle_Animations01_30
+  - first:
+      213: -5669390504813731070
+    second: CuteRPG_Dark_Castle_Animations01_31
+  - first:
+      213: -5188677030795029752
+    second: CuteRPG_Dark_Castle_Animations01_32
+  - first:
+      213: -2793164437060305201
+    second: CuteRPG_Dark_Castle_Animations01_33
+  - first:
+      213: -407042305075006003
+    second: CuteRPG_Dark_Castle_Animations01_34
+  - first:
+      213: 176373621586761041
+    second: CuteRPG_Dark_Castle_Animations01_35
+  - first:
+      213: -3185158747123308864
+    second: CuteRPG_Dark_Castle_Animations01_36
+  - first:
+      213: -7642478659226486510
+    second: CuteRPG_Dark_Castle_Animations01_37
+  - first:
+      213: 8397450995474617412
+    second: CuteRPG_Dark_Castle_Animations01_38
+  - first:
+      213: 8670268463649092004
+    second: CuteRPG_Dark_Castle_Animations01_39
+  - first:
+      213: -8094831565448354506
+    second: CuteRPG_Dark_Castle_Animations01_40
+  - first:
+      213: 1750840192958036653
+    second: CuteRPG_Dark_Castle_Animations01_41
+  - first:
+      213: 5169962705793195983
+    second: CuteRPG_Dark_Castle_Animations01_42
+  - first:
+      213: -3551411025852778465
+    second: CuteRPG_Dark_Castle_Animations01_43
+  - first:
+      213: 4635778891077485562
+    second: CuteRPG_Dark_Castle_Animations01_44
+  - first:
+      213: -4719859156711156719
+    second: CuteRPG_Dark_Castle_Animations01_45
+  - first:
+      213: -7149575441865772092
+    second: CuteRPG_Dark_Castle_Animations01_46
+  - first:
+      213: 6344175764616028382
+    second: CuteRPG_Dark_Castle_Animations01_47
+  - first:
+      213: 7526009266545366220
+    second: CuteRPG_Dark_Castle_Animations01_48
+  - first:
+      213: 5806306995615570207
+    second: CuteRPG_Dark_Castle_Animations01_49
+  - first:
+      213: -8998384784000352358
+    second: CuteRPG_Dark_Castle_Animations01_50
+  - first:
+      213: 1565504868288939360
+    second: CuteRPG_Dark_Castle_Animations01_51
+  - first:
+      213: 4492561593983130106
+    second: CuteRPG_Dark_Castle_Animations01_52
+  - first:
+      213: 7560489193042368663
+    second: CuteRPG_Dark_Castle_Animations01_53
+  - first:
+      213: 5067830365479241892
+    second: CuteRPG_Dark_Castle_Animations01_54
+  - first:
+      213: 9146768533924838086
+    second: CuteRPG_Dark_Castle_Animations01_55
+  - first:
+      213: 4395379362023916470
+    second: CuteRPG_Dark_Castle_Animations01_56
+  - first:
+      213: -6090696738095414995
+    second: CuteRPG_Dark_Castle_Animations01_57
+  - first:
+      213: 4332953421822906029
+    second: CuteRPG_Dark_Castle_Animations01_58
+  - first:
+      213: -6937197712833087846
+    second: CuteRPG_Dark_Castle_Animations01_59
+  - first:
+      213: -161425413912918507
+    second: CuteRPG_Dark_Castle_Animations01_60
+  - first:
+      213: 6108012476333540003
+    second: CuteRPG_Dark_Castle_Animations01_61
+  - first:
+      213: -3385017771374761271
+    second: CuteRPG_Dark_Castle_Animations01_62
+  - first:
+      213: -1543530690466557870
+    second: CuteRPG_Dark_Castle_Animations01_63
+  - first:
+      213: -5542151405920528125
+    second: CuteRPG_Dark_Castle_Animations01_64
+  - first:
+      213: -2053186602350779431
+    second: CuteRPG_Dark_Castle_Animations01_65
+  - first:
+      213: 3364502678607481824
+    second: CuteRPG_Dark_Castle_Animations01_66
+  - first:
+      213: 6860149865011874726
+    second: CuteRPG_Dark_Castle_Animations01_67
+  - first:
+      213: 3072392979678267453
+    second: CuteRPG_Dark_Castle_Animations01_68
+  - first:
+      213: -2978032773481972672
+    second: CuteRPG_Dark_Castle_Animations01_69
+  - first:
+      213: -3248652918268907057
+    second: CuteRPG_Dark_Castle_Animations01_70
+  - first:
+      213: 4556569907528672122
+    second: CuteRPG_Dark_Castle_Animations01_71
+  - first:
+      213: -535821374929493239
+    second: CuteRPG_Dark_Castle_Animations01_72
+  - first:
+      213: -7085223366252997920
+    second: CuteRPG_Dark_Castle_Animations01_73
+  - first:
+      213: -4034810458109214386
+    second: CuteRPG_Dark_Castle_Animations01_74
+  - first:
+      213: 779680945242016777
+    second: CuteRPG_Dark_Castle_Animations01_75
+  - first:
+      213: 6048562965468527261
+    second: CuteRPG_Dark_Castle_Animations01_76
+  - first:
+      213: 5226609003122825248
+    second: CuteRPG_Dark_Castle_Animations01_77
+  - first:
+      213: -3591928978971625266
+    second: CuteRPG_Dark_Castle_Animations01_78
+  - first:
+      213: 8125145555101351249
+    second: CuteRPG_Dark_Castle_Animations01_79
+  - first:
+      213: 4845055994889626751
+    second: CuteRPG_Dark_Castle_Animations01_80
+  - first:
+      213: 4011935965450194323
+    second: CuteRPG_Dark_Castle_Animations01_81
+  - first:
+      213: -5498097667667208639
+    second: CuteRPG_Dark_Castle_Animations01_82
+  - first:
+      213: -818347724309862204
+    second: CuteRPG_Dark_Castle_Animations01_83
+  - first:
+      213: 1224878839736365201
+    second: CuteRPG_Dark_Castle_Animations01_84
+  - first:
+      213: -8389055860119613640
+    second: CuteRPG_Dark_Castle_Animations01_85
+  - first:
+      213: -4852468566868392193
+    second: CuteRPG_Dark_Castle_Animations01_86
+  - first:
+      213: -842110195910692097
+    second: CuteRPG_Dark_Castle_Animations01_87
+  - first:
+      213: 8183163860927763548
+    second: CuteRPG_Dark_Castle_Animations01_88
+  - first:
+      213: 3774993400063567844
+    second: CuteRPG_Dark_Castle_Animations01_89
+  - first:
+      213: 1508150801793654920
+    second: CuteRPG_Dark_Castle_Animations01_90
+  - first:
+      213: -2861356407720150253
+    second: CuteRPG_Dark_Castle_Animations01_91
+  - first:
+      213: 5272117297719895903
+    second: CuteRPG_Dark_Castle_Animations01_92
+  - first:
+      213: -5779509333574678881
+    second: CuteRPG_Dark_Castle_Animations01_93
+  - first:
+      213: -1854814171481839176
+    second: CuteRPG_Dark_Castle_Animations01_94
+  - first:
+      213: -180371678311672591
+    second: CuteRPG_Dark_Castle_Animations01_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 227
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93808284b9dfd1300800000000000000
+      internalID: 224614399810734137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 227
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fe9c09ce2b96670800000000000000
+      internalID: 8532547698141294489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 227
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825423719e30d70d0800000000000000
+      internalID: -3423575842080275160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 227
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a31eb3626609b30800000000000000
+      internalID: 4292042759283489333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 227
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3084b3ba76be5700800000000000000
+      internalID: 531062444193513531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 227
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b53e8c2558df880800000000000000
+      internalID: -8575551524839400677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 235
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5566f2aaa6921770800000000000000
+      internalID: 8580085899716879710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 235
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09220f673e2f0aab0800000000000000
+      internalID: -4998728527614303600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 235
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ae092e6f2612020800000000000000
+      internalID: 2315240495947770408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 235
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576e7e067985750f0800000000000000
+      internalID: -1128335774443903371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 235
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d5f0e0214495fd0800000000000000
+      internalID: -2352774485988385380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 235
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc95aac7c47da5420800000000000000
+      internalID: 2619642856778389967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 195
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e77b01bb7f331990800000000000000
+      internalID: -7416514360865228831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 195
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211c4f8064aa59690800000000000000
+      internalID: -7595977978715782894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 195
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd45cdcc3efacb30800000000000000
+      internalID: 4308535530637053404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 195
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99b06d4431eac520800000000000000
+      internalID: 2723236539451619738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 195
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28a3480368ec5cf0800000000000000
+      internalID: -262079166256273365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 195
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870c35acdc78f55a0800000000000000
+      internalID: -6530351616731398024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 203
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b55e2b8531041ed0800000000000000
+      internalID: -2444327368275372624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 203
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189538aae6873ca80800000000000000
+      internalID: -8447776059314447999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 203
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad45263fd808b5220800000000000000
+      internalID: 2475713767332271322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 203
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64611c771368271e0800000000000000
+      internalID: -2201549720810088890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 203
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0372223fce1272d50800000000000000
+      internalID: 6712371071194113840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_23
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 203
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9518965cde85d6e0800000000000000
+      internalID: -1813386197949999717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 163
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fdd6653d0bb80e0800000000000000
+      internalID: -2266523565716283624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 163
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256e48efd7fa70e80800000000000000
+      internalID: -8212402439810914734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 163
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0426efb991596d150800000000000000
+      internalID: 5897064699312104000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 163
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c4c29cd4c61dee0800000000000000
+      internalID: -1238089341206770608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 163
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3905acb182e410500800000000000000
+      internalID: 360655379338252435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 163
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da475b60c0d21ef0800000000000000
+      internalID: -138819113641882926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 171
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2481d21a001ff63a0800000000000000
+      internalID: -6669847538106034110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_31
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 171
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203ea93af574251b0800000000000000
+      internalID: -5669390504813731070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 171
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803db353bbd1ef7b0800000000000000
+      internalID: -5188677030795029752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 171
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce34c94ebfac39d0800000000000000
+      internalID: -2793164437060305201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_34
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 171
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5b27d1e25e95af0800000000000000
+      internalID: -407042305075006003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_35
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 171
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1559d66dfda927200800000000000000
+      internalID: 176373621586761041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 131
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6ac74cefa0cc3d0800000000000000
+      internalID: -3185158747123308864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 131
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2193d49a62670f590800000000000000
+      internalID: -7642478659226486510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 131
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444d304503db98470800000000000000
+      internalID: 8397450995474617412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_39
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 131
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1731b0b3bf25870800000000000000
+      internalID: 8670268463649092004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 131
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635e4d8549169af80800000000000000
+      internalID: -8094831565448354506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 131
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa7dbf01eb3c4810800000000000000
+      internalID: 1750840192958036653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_42
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 139
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf12d470b56fb740800000000000000
+      internalID: 5169962705793195983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_43
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 139
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18b3a8fc7ad6bec0800000000000000
+      internalID: -3551411025852778465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_44
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 139
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af38deb0758955040800000000000000
+      internalID: 4635778891077485562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_45
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 139
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1145b569a11bf7eb0800000000000000
+      internalID: -4719859156711156719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_46
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 139
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3fbb4040b97cc90800000000000000
+      internalID: -7149575441865772092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_47
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 139
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0a49abe3a0b0850800000000000000
+      internalID: 6344175764616028382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 99
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc41cbcad81c17860800000000000000
+      internalID: 7526009266545366220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 99
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19188a0375249050800000000000000
+      internalID: 5806306995615570207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 99
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ff065e6b05f1380800000000000000
+      internalID: -8998384784000352358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 99
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065c180226ac9b510800000000000000
+      internalID: 1565504868288939360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 99
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af95de497f8c85e30800000000000000
+      internalID: 4492561593983130106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 99
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79858772dd04ce860800000000000000
+      internalID: 7560489193042368663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 107
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8045ceddc845640800000000000000
+      internalID: 5067830365479241892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_55
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 107
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca7f4b1589dfee70800000000000000
+      internalID: 9146768533924838086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_56
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 107
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3c486fd368ffc30800000000000000
+      internalID: 4395379362023916470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_57
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 107
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21413b269f797ba0800000000000000
+      internalID: -6090696738095414995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_58
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 107
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae41102e2eb12c30800000000000000
+      internalID: 4332953421822906029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_59
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 107
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a967eed5f6f1abf90800000000000000
+      internalID: -6937197712833087846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 67
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516000af07082cdf0800000000000000
+      internalID: -161425413912918507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 67
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2c38f4cf404c450800000000000000
+      internalID: 6108012476333540003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_62
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caa2d285400601d0800000000000000
+      internalID: -3385017771374761271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_63
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 67
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250d3d6d307449ae0800000000000000
+      internalID: -1543530690466557870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_64
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 67
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309dcaee8a25613b0800000000000000
+      internalID: -5542151405920528125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 67
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d36a45d9ad9183e0800000000000000
+      internalID: -2053186602350779431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_66
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebcf3c3c5d11be20800000000000000
+      internalID: 3364502678607481824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_67
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab0af1a4f5243f50800000000000000
+      internalID: 6860149865011874726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_68
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d388024032553aa20800000000000000
+      internalID: 3072392979678267453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_69
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 75
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cb22788f6eba6d0800000000000000
+      internalID: -2978032773481972672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_70
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 75
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1bb0802677ae2d0800000000000000
+      internalID: -3248652918268907057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_71
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 75
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a732b7c60303c3f30800000000000000
+      internalID: 4556569907528672122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90324446c416098f0800000000000000
+      internalID: -535821374929493239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_73
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 35
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2513433ea3cad90800000000000000
+      internalID: -7085223366252997920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_74
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 35
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e418e5404497108c0800000000000000
+      internalID: -4034810458109214386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 35
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c8a4350bbf1da00800000000000000
+      internalID: 779680945242016777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_76
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 35
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ab55e68ffc0f350800000000000000
+      internalID: 6048562965468527261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 35
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0289ef25235a88840800000000000000
+      internalID: 5226609003122825248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_78
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8f6fddf97e62ec0800000000000000
+      internalID: -3591928978971625266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_79
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15df82065d052c070800000000000000
+      internalID: 8125145555101351249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_80
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74e544d1c81d3340800000000000000
+      internalID: 4845055994889626751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_81
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 43
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dc54221824da730800000000000000
+      internalID: 4011935965450194323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_82
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 43
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146da4a2d45d2b3b0800000000000000
+      internalID: -5498097667667208639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_83
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 43
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8e2cd9415a4a4f0800000000000000
+      internalID: -818347724309862204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190f067a0d4aff010800000000000000
+      internalID: 1224878839736365201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_85
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f49a07426149b80800000000000000
+      internalID: -8389055860119613640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_86
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff68f044c8198acb0800000000000000
+      internalID: -4852468566868392193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_87
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2320f0d393054f0800000000000000
+      internalID: -842110195910692097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_88
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54d96ddc20709170800000000000000
+      internalID: 8183163860927763548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_89
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7ab302f78736430800000000000000
+      internalID: 3774993400063567844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_90
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 11
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880a1a8e9270ee410800000000000000
+      internalID: 1508150801793654920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_91
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 11
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b7d0ed18b6a48d0800000000000000
+      internalID: -2861356407720150253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_92
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 11
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5769c8dfb25a2940800000000000000
+      internalID: 5272117297719895903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_93
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f960a3cd1ee0bcfa0800000000000000
+      internalID: -5779509333574678881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_94
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9e67896506246e0800000000000000
+      internalID: -1854814171481839176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Dark_Castle_Animations01_95
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 11
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f411ba0ae03f7df0800000000000000
+      internalID: -180371678311672591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

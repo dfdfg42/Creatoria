@@ -1,0 +1,2605 @@
+fileFormatVersion: 2
+guid: 99f58310922312d4e8942b489133adef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9127375545487224627
+    second: CuteRPG_Village_B_0
+  - first:
+      213: -7103184808766435640
+    second: CuteRPG_Village_B_1
+  - first:
+      213: -2668783975559789484
+    second: CuteRPG_Village_B_2
+  - first:
+      213: -2105701972798733897
+    second: CuteRPG_Village_B_3
+  - first:
+      213: 6256014712362237054
+    second: CuteRPG_Village_B_4
+  - first:
+      213: 2387544867748113744
+    second: CuteRPG_Village_B_5
+  - first:
+      213: 8060286792365147811
+    second: CuteRPG_Village_B_6
+  - first:
+      213: 1042626299513002151
+    second: CuteRPG_Village_B_7
+  - first:
+      213: -5964196406715426917
+    second: CuteRPG_Village_B_8
+  - first:
+      213: -7072833790144499346
+    second: CuteRPG_Village_B_9
+  - first:
+      213: -195427031110157741
+    second: CuteRPG_Village_B_10
+  - first:
+      213: 9151977946198084035
+    second: CuteRPG_Village_B_11
+  - first:
+      213: -3998055942289179524
+    second: CuteRPG_Village_B_12
+  - first:
+      213: 5499401522104989858
+    second: CuteRPG_Village_B_13
+  - first:
+      213: -7266193220897263372
+    second: CuteRPG_Village_B_14
+  - first:
+      213: 3524042537141871601
+    second: CuteRPG_Village_B_15
+  - first:
+      213: 44010719760829225
+    second: CuteRPG_Village_B_16
+  - first:
+      213: 7928678258755447871
+    second: CuteRPG_Village_B_17
+  - first:
+      213: -1525568996784151751
+    second: CuteRPG_Village_B_18
+  - first:
+      213: -2477171399369621748
+    second: CuteRPG_Village_B_19
+  - first:
+      213: -1981591180857741555
+    second: CuteRPG_Village_B_20
+  - first:
+      213: -5386667585193506619
+    second: CuteRPG_Village_B_21
+  - first:
+      213: 685367077615122818
+    second: CuteRPG_Village_B_22
+  - first:
+      213: -5158253506773471878
+    second: CuteRPG_Village_B_23
+  - first:
+      213: 4787217789169100532
+    second: CuteRPG_Village_B_24
+  - first:
+      213: -2890382934005322559
+    second: CuteRPG_Village_B_25
+  - first:
+      213: 2976060454754083052
+    second: CuteRPG_Village_B_26
+  - first:
+      213: -8759220713437722379
+    second: CuteRPG_Village_B_27
+  - first:
+      213: -8573295442476552705
+    second: CuteRPG_Village_B_28
+  - first:
+      213: 1937673400828654885
+    second: CuteRPG_Village_B_29
+  - first:
+      213: -6358794864122366859
+    second: CuteRPG_Village_B_30
+  - first:
+      213: 194698847089590346
+    second: CuteRPG_Village_B_31
+  - first:
+      213: -6573345784868431809
+    second: CuteRPG_Village_B_32
+  - first:
+      213: -7352151778049788405
+    second: CuteRPG_Village_B_33
+  - first:
+      213: 4901372108562309887
+    second: CuteRPG_Village_B_34
+  - first:
+      213: 6568446171237176820
+    second: CuteRPG_Village_B_35
+  - first:
+      213: 8886481388485984414
+    second: CuteRPG_Village_B_36
+  - first:
+      213: 4632491894018944263
+    second: CuteRPG_Village_B_37
+  - first:
+      213: -8696625200615943905
+    second: CuteRPG_Village_B_38
+  - first:
+      213: -2514155140181323348
+    second: CuteRPG_Village_B_39
+  - first:
+      213: 4354814629467807095
+    second: CuteRPG_Village_B_40
+  - first:
+      213: 506679251006852175
+    second: CuteRPG_Village_B_41
+  - first:
+      213: -1038729419169193718
+    second: CuteRPG_Village_B_42
+  - first:
+      213: -3176713728613166810
+    second: CuteRPG_Village_B_43
+  - first:
+      213: -4855750898944501505
+    second: CuteRPG_Village_B_44
+  - first:
+      213: 2393005211424165912
+    second: CuteRPG_Village_B_45
+  - first:
+      213: 7855210664047327242
+    second: CuteRPG_Village_B_46
+  - first:
+      213: 2394822697210735096
+    second: CuteRPG_Village_B_47
+  - first:
+      213: -6556006809123181904
+    second: CuteRPG_Village_B_48
+  - first:
+      213: 2466214182384425677
+    second: CuteRPG_Village_B_49
+  - first:
+      213: 1985866216137797234
+    second: CuteRPG_Village_B_50
+  - first:
+      213: -7190001370922476104
+    second: CuteRPG_Village_B_51
+  - first:
+      213: -8058697158659556166
+    second: CuteRPG_Village_B_52
+  - first:
+      213: -3352508576121243814
+    second: CuteRPG_Village_B_53
+  - first:
+      213: -2211024041612082631
+    second: CuteRPG_Village_B_54
+  - first:
+      213: -4241500777059034174
+    second: CuteRPG_Village_B_55
+  - first:
+      213: 850473724662815645
+    second: CuteRPG_Village_B_56
+  - first:
+      213: 5569690590746059732
+    second: CuteRPG_Village_B_57
+  - first:
+      213: 2441129554177603466
+    second: CuteRPG_Village_B_58
+  - first:
+      213: -6034366982632007398
+    second: CuteRPG_Village_B_59
+  - first:
+      213: -7491150726368130073
+    second: CuteRPG_Village_B_60
+  - first:
+      213: 1888661219926852748
+    second: CuteRPG_Village_B_61
+  - first:
+      213: -2751979335309289144
+    second: CuteRPG_Village_B_62
+  - first:
+      213: -362888712158665542
+    second: CuteRPG_Village_B_63
+  - first:
+      213: -5257052144457337261
+    second: CuteRPG_Village_B_64
+  - first:
+      213: -2398820895987484042
+    second: CuteRPG_Village_B_65
+  - first:
+      213: 1873270490702441059
+    second: CuteRPG_Village_B_66
+  - first:
+      213: 7723073321079319636
+    second: CuteRPG_Village_B_67
+  - first:
+      213: 6538380856029478314
+    second: CuteRPG_Village_B_68
+  - first:
+      213: -2533725569251028411
+    second: CuteRPG_Village_B_69
+  - first:
+      213: -6104031168239791346
+    second: CuteRPG_Village_B_70
+  - first:
+      213: 7075808475362939941
+    second: CuteRPG_Village_B_71
+  - first:
+      213: 1056644569348195849
+    second: CuteRPG_Village_B_72
+  - first:
+      213: 4836056321684652949
+    second: CuteRPG_Village_B_73
+  - first:
+      213: -294162724788750918
+    second: CuteRPG_Village_B_74
+  - first:
+      213: -4510307747657023820
+    second: CuteRPG_Village_B_75
+  - first:
+      213: -8084573243792709159
+    second: CuteRPG_Village_B_76
+  - first:
+      213: -6858640515230426040
+    second: CuteRPG_Village_B_77
+  - first:
+      213: 2355557082385405097
+    second: CuteRPG_Village_B_78
+  - first:
+      213: -2650704128341851765
+    second: CuteRPG_Village_B_79
+  - first:
+      213: 7509413063324309727
+    second: CuteRPG_Village_B_80
+  - first:
+      213: -6776576857524824864
+    second: CuteRPG_Village_B_81
+  - first:
+      213: 1992082114887314355
+    second: CuteRPG_Village_B_82
+  - first:
+      213: 8324616297272270194
+    second: CuteRPG_Village_B_83
+  - first:
+      213: 6397512612445428238
+    second: CuteRPG_Village_B_84
+  - first:
+      213: 6590813809291422839
+    second: CuteRPG_Village_B_85
+  - first:
+      213: 748124615841768663
+    second: CuteRPG_Village_B_86
+  - first:
+      213: 5386099772944857835
+    second: CuteRPG_Village_B_87
+  - first:
+      213: -6150126457647111316
+    second: CuteRPG_Village_B_88
+  - first:
+      213: 2970608479857333379
+    second: CuteRPG_Village_B_89
+  - first:
+      213: 1288004268984086932
+    second: CuteRPG_Village_B_90
+  - first:
+      213: -8505404756764060471
+    second: CuteRPG_Village_B_91
+  - first:
+      213: 3123680196270715808
+    second: CuteRPG_Village_B_92
+  - first:
+      213: -7965277264345734947
+    second: CuteRPG_Village_B_93
+  - first:
+      213: -5650362191590999003
+    second: CuteRPG_Village_B_94
+  - first:
+      213: -1834930707542661671
+    second: CuteRPG_Village_B_95
+  - first:
+      213: -4839397390167281778
+    second: CuteRPG_Village_B_96
+  - first:
+      213: -5524850238149497533
+    second: CuteRPG_Village_B_97
+  - first:
+      213: -899562430529011494
+    second: CuteRPG_Village_B_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 319
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc095afdc4c055180800000000000000
+      internalID: -9127375545487224627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 495
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce868bfc0b6c6d90800000000000000
+      internalID: -7103184808766435640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 497
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45401823d1396fad0800000000000000
+      internalID: -2668783975559789484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 483
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b10e74563b07c2e0800000000000000
+      internalID: -2105701972798733897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 481
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cf7ff2c34d1d650800000000000000
+      internalID: 6256014712362237054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 495
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dee6f4863422120800000000000000
+      internalID: 2387544867748113744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 497
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a682b6e124ebdf60800000000000000
+      internalID: 8060286792365147811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 481
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8d3f76817287e00800000000000000
+      internalID: 1042626299513002151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 497
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97d01fb7faea3da0800000000000000
+      internalID: -5964196406715426917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 481
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61be0f242f38dd90800000000000000
+      internalID: -7072833790144499346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 481
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a7b2f8624b94df0800000000000000
+      internalID: -195427031110157741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 481
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9885be37b520f70800000000000000
+      internalID: 9151977946198084035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_12
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 481
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cb6b79d4d0488c0800000000000000
+      internalID: -3998055942289179524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 481
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a87f4a1c8cc15c40800000000000000
+      internalID: 5499401522104989858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_14
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 481
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0311773cb492b90800000000000000
+      internalID: -7266193220897263372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 481
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f325bf240ae7e030800000000000000
+      internalID: 3524042537141871601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 465
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b47a5348b5c9000800000000000000
+      internalID: 44010719760829225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 469
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c2b7f4ed2580e60800000000000000
+      internalID: 7928678258755447871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_18
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 449
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933e45a841714dae0800000000000000
+      internalID: -1525568996784151751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 465
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ff0d4acb15f9dd0800000000000000
+      internalID: -2477171399369621748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_20
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 465
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f6de6e159ff74e0800000000000000
+      internalID: -1981591180857741555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_21
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 465
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c80e6dfe56be35b0800000000000000
+      internalID: -5386667585193506619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_22
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 465
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2893ff1d9b9e28900800000000000000
+      internalID: 685367077615122818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 425
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7daa53e3c33a68b0800000000000000
+      internalID: -5158253506773471878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_24
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 467
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6ead9273d9f6240800000000000000
+      internalID: 4787217789169100532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_25
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 449
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cce2c1190c43e7d0800000000000000
+      internalID: -2890382934005322559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_26
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 449
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce064bb37371d4920800000000000000
+      internalID: 2976060454754083052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_27
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 449
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f80d426b2ff07680800000000000000
+      internalID: -8759220713437722379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_28
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 449
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffda5b4e739850980800000000000000
+      internalID: -8573295442476552705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_29
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 425
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5257d1b11bff3ea10800000000000000
+      internalID: 1937673400828654885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_30
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 449
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574786ce2c501c7a0800000000000000
+      internalID: -6358794864122366859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_31
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 425
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4004f2e195b3b200800000000000000
+      internalID: 194698847089590346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_32
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 449
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f381b13f5d8c6c4a0800000000000000
+      internalID: -6573345784868431809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_33
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 425
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06f59649e8e7f990800000000000000
+      internalID: -7352151778049788405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_34
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 449
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff22dd2d6fb250440800000000000000
+      internalID: 4901372108562309887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_35
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 393
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5dddaddfec72b50800000000000000
+      internalID: 6568446171237176820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_36
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 393
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90c3df7dbf135b70800000000000000
+      internalID: 8886481388485984414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_37
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 393
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d20e765dae94040800000000000000
+      internalID: 4632491894018944263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_38
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 127
+        width: 65
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11939ce4716f4780800000000000000
+      internalID: -8696625200615943905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 351
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca11547783deb1dd0800000000000000
+      internalID: -2514155140181323348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_40
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 319
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d5a1c25d86f6c30800000000000000
+      internalID: 4354814629467807095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_41
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 351
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c03532816180700800000000000000
+      internalID: 506679251006852175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_42
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 319
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a012ca0c811b591f0800000000000000
+      internalID: -1038729419169193718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_43
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 351
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621d7ecd1bb0ae3d0800000000000000
+      internalID: -3176713728613166810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_44
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 319
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff811a6c848ec9cb0800000000000000
+      internalID: -4855750898944501505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_45
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 351
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8109894af89a53120800000000000000
+      internalID: 2393005211424165912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_46
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 259
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08b662fa70530d60800000000000000
+      internalID: 7855210664047327242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_47
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 291
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9e9470e8e1c3120800000000000000
+      internalID: 2394822697210735096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_48
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 293
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baab25da826405a0800000000000000
+      internalID: -6556006809123181904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_49
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 127
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcadd097bb0c93220800000000000000
+      internalID: 2466214182384425677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_50
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 257
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ea7505dc63f8b10800000000000000
+      internalID: 1985866216137797234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_51
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 227
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd189fe8dbf73c90800000000000000
+      internalID: -7190001370922476104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_52
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcb5a981a1c92090800000000000000
+      internalID: -8058697158659556166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_53
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 195
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57b7dd563f7971d0800000000000000
+      internalID: -3352508576121243814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_54
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 163
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9320dd1495dd051e0800000000000000
+      internalID: -2211024041612082631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_55
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 95
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb5ad404892325c0800000000000000
+      internalID: -4241500777059034174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_56
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 95
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b9459b85d7dcb00800000000000000
+      internalID: 850473724662815645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_57
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 83
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3214235148b4d40800000000000000
+      internalID: 5569690590746059732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87b6775562a0e120800000000000000
+      internalID: 2441129554177603466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_59
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 95
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a199fd3633f914ca0800000000000000
+      internalID: -6034366982632007398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_60
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 83
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb0bebaa161a0890800000000000000
+      internalID: -7491150726368130073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_61
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 81
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84cbca7f5fd53a10800000000000000
+      internalID: 1888661219926852748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 95
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8499ca900610fc9d0800000000000000
+      internalID: -2751979335309289144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_63
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 67
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4a8c293a2c6faf0800000000000000
+      internalID: -362888712158665542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_64
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3563aeb7de23b07b0800000000000000
+      internalID: -5257052144457337261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_65
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 31
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ab1e6ca1da5bed0800000000000000
+      internalID: -2398820895987484042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a6a8616913ff910800000000000000
+      internalID: 1873270490702441059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_67
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 65
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45caa35544edd2b60800000000000000
+      internalID: 7723073321079319636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_68
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 33
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadf9d92fbefcba50800000000000000
+      internalID: 6538380856029478314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_69
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 63
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542d77ed40666dcd0800000000000000
+      internalID: -2533725569251028411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_70
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0397273eff1a4ba0800000000000000
+      internalID: -6104031168239791346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_71
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 33
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524d4b0b152523260800000000000000
+      internalID: 7075808475362939941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_72
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90648d133a4f9ae00800000000000000
+      internalID: 1056644569348195849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_73
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 33
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593cbcf1a9f1d1340800000000000000
+      internalID: 4836056321684652949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_74
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab53ec27f8ceaebf0800000000000000
+      internalID: -294162724788750918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_75
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bef539000b2861c0800000000000000
+      internalID: -4510307747657023820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_76
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 33
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9ab1bf773ddcf80800000000000000
+      internalID: -8084573243792709159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_77
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 47
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c969f3ac631d0a0800000000000000
+      internalID: -6858640515230426040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_78
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 31
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4dcb7afae90b020800000000000000
+      internalID: 2355557082385405097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 47
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81c589a3aec63bd0800000000000000
+      internalID: -2650704128341851765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_80
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd89f1ff46bc63860800000000000000
+      internalID: 7509413063324309727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_81
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 33
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4991e7043c4f1a0800000000000000
+      internalID: -6776576857524824864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_82
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 31
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb6445012c45ab10800000000000000
+      internalID: 1992082114887314355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_83
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 47
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d575aaa6af68370800000000000000
+      internalID: 8324616297272270194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_84
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 31
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a14e653d788c850800000000000000
+      internalID: 6397512612445428238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_85
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 47
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ced8b6d36477b50800000000000000
+      internalID: 6590813809291422839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_86
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 35
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d469f6df5fd16a00800000000000000
+      internalID: 748124615841768663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_87
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beab03be4354fba40800000000000000
+      internalID: 5386099772944857835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_88
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c636630529c56aaa0800000000000000
+      internalID: -6150126457647111316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_89
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 17
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384d8a86ca8b93920800000000000000
+      internalID: 2970608479857333379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_90
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 21
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491bbf9fe09efd110800000000000000
+      internalID: 1288004268984086932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_91
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c41922ff6bb6f980800000000000000
+      internalID: -8505404756764060471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_92
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 15
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a373aaa69a895b20800000000000000
+      internalID: 3123680196270715808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_93
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd06d29a786a57190800000000000000
+      internalID: -7965277264345734947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_94
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 15
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cbbed0681e591b0800000000000000
+      internalID: -5650362191590999003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_95
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5a67d4e340986e0800000000000000
+      internalID: -1834930707542661671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_96
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f6020c6b107dcb0800000000000000
+      internalID: -4839397390167281778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_97
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dedd5faf9c353b0800000000000000
+      internalID: -5524850238149497533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuteRPG_Village_B_98
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0080b4cbc1483f0800000000000000
+      internalID: -899562430529011494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

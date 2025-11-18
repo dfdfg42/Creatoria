@@ -1,0 +1,3880 @@
+fileFormatVersion: 2
+guid: b65fa1faa5806e14f9ae06a48c7a3272
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5284910402565755909
+    second: tileset-grassland-paths_0
+  - first:
+      213: -8639272912794975618
+    second: tileset-grassland-paths_1
+  - first:
+      213: -1085884189748692218
+    second: tileset-grassland-paths_2
+  - first:
+      213: 2114702023777560098
+    second: tileset-grassland-paths_3
+  - first:
+      213: -8355218575490913102
+    second: tileset-grassland-paths_4
+  - first:
+      213: 8809854030853505697
+    second: tileset-grassland-paths_5
+  - first:
+      213: 6505846699446947095
+    second: tileset-grassland-paths_6
+  - first:
+      213: 3416057798720547903
+    second: tileset-grassland-paths_7
+  - first:
+      213: 1153416602496006441
+    second: tileset-grassland-paths_8
+  - first:
+      213: -8681371515080528920
+    second: tileset-grassland-paths_9
+  - first:
+      213: 8928661101630558828
+    second: tileset-grassland-paths_10
+  - first:
+      213: -7456206388851387081
+    second: tileset-grassland-paths_11
+  - first:
+      213: -902101893553608060
+    second: tileset-grassland-paths_12
+  - first:
+      213: 6398633650268477297
+    second: tileset-grassland-paths_13
+  - first:
+      213: -8441766801922961292
+    second: tileset-grassland-paths_14
+  - first:
+      213: 5107979920352096065
+    second: tileset-grassland-paths_15
+  - first:
+      213: -6781119545593597118
+    second: tileset-grassland-paths_16
+  - first:
+      213: -4242262736675360656
+    second: tileset-grassland-paths_17
+  - first:
+      213: -2306815768835770044
+    second: tileset-grassland-paths_18
+  - first:
+      213: -5968339902990268428
+    second: tileset-grassland-paths_19
+  - first:
+      213: 4723646168915910604
+    second: tileset-grassland-paths_20
+  - first:
+      213: -1337369290412178244
+    second: tileset-grassland-paths_21
+  - first:
+      213: 8935649385864895731
+    second: tileset-grassland-paths_22
+  - first:
+      213: 1039862613503343677
+    second: tileset-grassland-paths_23
+  - first:
+      213: 6111009887470511118
+    second: tileset-grassland-paths_24
+  - first:
+      213: 4540616106650252393
+    second: tileset-grassland-paths_25
+  - first:
+      213: -4498687460056054010
+    second: tileset-grassland-paths_26
+  - first:
+      213: -2014088528495060094
+    second: tileset-grassland-paths_27
+  - first:
+      213: -5096109768031267251
+    second: tileset-grassland-paths_28
+  - first:
+      213: -5391651128178907450
+    second: tileset-grassland-paths_29
+  - first:
+      213: 6896659270241767488
+    second: tileset-grassland-paths_30
+  - first:
+      213: -5241576263318461674
+    second: tileset-grassland-paths_31
+  - first:
+      213: 8064969709771170644
+    second: tileset-grassland-paths_32
+  - first:
+      213: 4890801671669249910
+    second: tileset-grassland-paths_33
+  - first:
+      213: -8437771649227786576
+    second: tileset-grassland-paths_34
+  - first:
+      213: -3566072714614743319
+    second: tileset-grassland-paths_35
+  - first:
+      213: 3832796320622102601
+    second: tileset-grassland-paths_36
+  - first:
+      213: 5064074250735306993
+    second: tileset-grassland-paths_37
+  - first:
+      213: 6752934840514187915
+    second: tileset-grassland-paths_38
+  - first:
+      213: 3956208051920599839
+    second: tileset-grassland-paths_39
+  - first:
+      213: 252422903809755155
+    second: tileset-grassland-paths_40
+  - first:
+      213: -8806515682253660696
+    second: tileset-grassland-paths_41
+  - first:
+      213: 8978682357246501546
+    second: tileset-grassland-paths_42
+  - first:
+      213: 5522555666188356540
+    second: tileset-grassland-paths_43
+  - first:
+      213: 2245692891895048569
+    second: tileset-grassland-paths_44
+  - first:
+      213: 6690060472312632943
+    second: tileset-grassland-paths_45
+  - first:
+      213: -148028987440379637
+    second: tileset-grassland-paths_46
+  - first:
+      213: 6701729673389305641
+    second: tileset-grassland-paths_47
+  - first:
+      213: 1735668985273321287
+    second: tileset-grassland-paths_48
+  - first:
+      213: -2830592719659040227
+    second: tileset-grassland-paths_49
+  - first:
+      213: -8926970636106869114
+    second: tileset-grassland-paths_50
+  - first:
+      213: -4162038419700603051
+    second: tileset-grassland-paths_51
+  - first:
+      213: -3319139381474753374
+    second: tileset-grassland-paths_52
+  - first:
+      213: -916256838862427462
+    second: tileset-grassland-paths_53
+  - first:
+      213: -1956071481966040713
+    second: tileset-grassland-paths_54
+  - first:
+      213: -4457452278764131450
+    second: tileset-grassland-paths_55
+  - first:
+      213: 651056536650052110
+    second: tileset-grassland-paths_56
+  - first:
+      213: 385581945825400467
+    second: tileset-grassland-paths_57
+  - first:
+      213: -2570342757493225356
+    second: tileset-grassland-paths_58
+  - first:
+      213: 8032497924172832259
+    second: tileset-grassland-paths_59
+  - first:
+      213: -8182585875934136615
+    second: tileset-grassland-paths_60
+  - first:
+      213: 8286042281622301161
+    second: tileset-grassland-paths_61
+  - first:
+      213: -7640931218858905984
+    second: tileset-grassland-paths_62
+  - first:
+      213: -7779409990888109437
+    second: tileset-grassland-paths_63
+  - first:
+      213: 2587411155745118390
+    second: tileset-grassland-paths_64
+  - first:
+      213: -6481491553139977443
+    second: tileset-grassland-paths_65
+  - first:
+      213: -7360472515189065292
+    second: tileset-grassland-paths_66
+  - first:
+      213: 2932642269812844168
+    second: tileset-grassland-paths_67
+  - first:
+      213: 6046660820183437118
+    second: tileset-grassland-paths_68
+  - first:
+      213: -4525075227312622407
+    second: tileset-grassland-paths_69
+  - first:
+      213: -6584479927361309213
+    second: tileset-grassland-paths_70
+  - first:
+      213: 2419776283767600867
+    second: tileset-grassland-paths_71
+  - first:
+      213: 9136937325800698174
+    second: tileset-grassland-paths_72
+  - first:
+      213: 3645894547422353643
+    second: tileset-grassland-paths_73
+  - first:
+      213: -3783019516131755013
+    second: tileset-grassland-paths_74
+  - first:
+      213: 4984463460617960485
+    second: tileset-grassland-paths_75
+  - first:
+      213: 2779132430860982260
+    second: tileset-grassland-paths_76
+  - first:
+      213: -3575635765544736911
+    second: tileset-grassland-paths_77
+  - first:
+      213: -6535435601203249783
+    second: tileset-grassland-paths_78
+  - first:
+      213: -1021671783171333916
+    second: tileset-grassland-paths_79
+  - first:
+      213: 8433231597853460758
+    second: tileset-grassland-paths_80
+  - first:
+      213: -5821170415770214577
+    second: tileset-grassland-paths_81
+  - first:
+      213: 1931895924135209018
+    second: tileset-grassland-paths_82
+  - first:
+      213: 216039569127281453
+    second: tileset-grassland-paths_83
+  - first:
+      213: -7975979874987409121
+    second: tileset-grassland-paths_84
+  - first:
+      213: -2982538923529205370
+    second: tileset-grassland-paths_85
+  - first:
+      213: -6311648781835153413
+    second: tileset-grassland-paths_86
+  - first:
+      213: -7885532406644448648
+    second: tileset-grassland-paths_87
+  - first:
+      213: 3277627166858710453
+    second: tileset-grassland-paths_88
+  - first:
+      213: 5972547957001289774
+    second: tileset-grassland-paths_89
+  - first:
+      213: -6662175428784539780
+    second: tileset-grassland-paths_90
+  - first:
+      213: -1303527591944449597
+    second: tileset-grassland-paths_91
+  - first:
+      213: 1032114599120254823
+    second: tileset-grassland-paths_92
+  - first:
+      213: -378125556048464727
+    second: tileset-grassland-paths_93
+  - first:
+      213: -8702089388605106618
+    second: tileset-grassland-paths_94
+  - first:
+      213: -8084381774470379655
+    second: tileset-grassland-paths_95
+  - first:
+      213: -3775349630818915357
+    second: tileset-grassland-paths_96
+  - first:
+      213: -368845187196121624
+    second: tileset-grassland-paths_97
+  - first:
+      213: -608623236773714658
+    second: tileset-grassland-paths_98
+  - first:
+      213: -8283481948129717345
+    second: tileset-grassland-paths_99
+  - first:
+      213: -8027955473606192227
+    second: tileset-grassland-paths_100
+  - first:
+      213: 1368697405976635501
+    second: tileset-grassland-paths_101
+  - first:
+      213: -7498863248462533189
+    second: tileset-grassland-paths_102
+  - first:
+      213: -7498134630023188144
+    second: tileset-grassland-paths_103
+  - first:
+      213: -5527864497149692868
+    second: tileset-grassland-paths_104
+  - first:
+      213: -5991219518974256893
+    second: tileset-grassland-paths_105
+  - first:
+      213: -6530899629799388643
+    second: tileset-grassland-paths_106
+  - first:
+      213: 5334445190049268816
+    second: tileset-grassland-paths_107
+  - first:
+      213: 6047814527417920674
+    second: tileset-grassland-paths_108
+  - first:
+      213: -4532831437292551182
+    second: tileset-grassland-paths_109
+  - first:
+      213: -5531672865028705661
+    second: tileset-grassland-paths_110
+  - first:
+      213: -3853188248992519717
+    second: tileset-grassland-paths_111
+  - first:
+      213: -3237804771985670776
+    second: tileset-grassland-paths_112
+  - first:
+      213: 4600953437107572208
+    second: tileset-grassland-paths_113
+  - first:
+      213: -8300285143619288771
+    second: tileset-grassland-paths_114
+  - first:
+      213: 675494234452629307
+    second: tileset-grassland-paths_115
+  - first:
+      213: -7105968097406255256
+    second: tileset-grassland-paths_116
+  - first:
+      213: 5603541127317053318
+    second: tileset-grassland-paths_117
+  - first:
+      213: 7697849013862295044
+    second: tileset-grassland-paths_118
+  - first:
+      213: -7292735796342947076
+    second: tileset-grassland-paths_119
+  - first:
+      213: -6169265296202964654
+    second: tileset-grassland-paths_120
+  - first:
+      213: 4687381875681132019
+    second: tileset-grassland-paths_121
+  - first:
+      213: 2068842036679043574
+    second: tileset-grassland-paths_122
+  - first:
+      213: -5597821664961754471
+    second: tileset-grassland-paths_123
+  - first:
+      213: 1983383310816561312
+    second: tileset-grassland-paths_124
+  - first:
+      213: -4715528464529818163
+    second: tileset-grassland-paths_125
+  - first:
+      213: -7473282817319631220
+    second: tileset-grassland-paths_126
+  - first:
+      213: 137060757025087883
+    second: tileset-grassland-paths_127
+  - first:
+      213: 3509625212607171445
+    second: tileset-grassland-paths_128
+  - first:
+      213: -8472577327404938732
+    second: tileset-grassland-paths_129
+  - first:
+      213: -2747279416810432509
+    second: tileset-grassland-paths_130
+  - first:
+      213: -7067459132987904351
+    second: tileset-grassland-paths_131
+  - first:
+      213: -522779754821436035
+    second: tileset-grassland-paths_132
+  - first:
+      213: -5209029335602120387
+    second: tileset-grassland-paths_133
+  - first:
+      213: 3132167349265620704
+    second: tileset-grassland-paths_134
+  - first:
+      213: -306085747990184991
+    second: tileset-grassland-paths_135
+  - first:
+      213: 6823346088441478046
+    second: tileset-grassland-paths_136
+  - first:
+      213: -1388492653907421111
+    second: tileset-grassland-paths_137
+  - first:
+      213: -2459559250156126390
+    second: tileset-grassland-paths_138
+  - first:
+      213: 7914889532483211851
+    second: tileset-grassland-paths_139
+  - first:
+      213: -679537070218841518
+    second: tileset-grassland-paths_140
+  - first:
+      213: 4096498543175109140
+    second: tileset-grassland-paths_141
+  - first:
+      213: 8825775665254375752
+    second: tileset-grassland-paths_142
+  - first:
+      213: 7515516951666478359
+    second: tileset-grassland-paths_143
+  - first:
+      213: -4093297064674543197
+    second: tileset-grassland-paths_144
+  - first:
+      213: 8929906576286590090
+    second: tileset-grassland-paths_145
+  - first:
+      213: 8362116170751513393
+    second: tileset-grassland-paths_146
+  - first:
+      213: 924102527787574819
+    second: tileset-grassland-paths_147
+  - first:
+      213: -5872351880576768251
+    second: tileset-grassland-paths_148
+  - first:
+      213: -4693835874362615620
+    second: tileset-grassland-paths_149
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset-grassland-paths_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 124
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504d2bea206c75940800000000000000
+      internalID: 5284910402565755909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 335
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7283330f032b1880800000000000000
+      internalID: -8639272912794975618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 129
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bf0da251a2ee0f0800000000000000
+      internalID: -1085884189748692218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 270
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226af05594ee85d10800000000000000
+      internalID: 2114702023777560098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 124
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc6e1339fc4c0c80800000000000000
+      internalID: -8355218575490913102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 129
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a201108093e24a70800000000000000
+      internalID: 8809854030853505697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 235
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dceab8a19694a50800000000000000
+      internalID: 6505846699446947095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ce0f80876486f20800000000000000
+      internalID: 3416057798720547903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 208
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929ffc5f942c10010800000000000000
+      internalID: 1153416602496006441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 200
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb2e685a92958780800000000000000
+      internalID: -8681371515080528920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 208
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62998247f9f8eb70800000000000000
+      internalID: 8928661101630558828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 207
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735d3844bcb368890800000000000000
+      internalID: -7456206388851387081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 200
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48aa78b7b171b73f0800000000000000
+      internalID: -902101893553608060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 205
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1771d1c47638cc850800000000000000
+      internalID: 6398633650268477297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 207
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47052bee1d1d8da80800000000000000
+      internalID: -8441766801922961292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 204
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f2a60aca033e640800000000000000
+      internalID: 5107979920352096065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 209
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2437f6183bf94e1a0800000000000000
+      internalID: -6781119545593597118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 208
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070b69874847025c0800000000000000
+      internalID: -4242262736675360656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 204
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4493640c74b8cffd0800000000000000
+      internalID: -2306815768835770044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 207
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7c977da723c2da0800000000000000
+      internalID: -5968339902990268428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 206
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf1ed6e923cd8140800000000000000
+      internalID: 4723646168915910604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 205
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4477f47b5b07de0800000000000000
+      internalID: -1337369290412178244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 205
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc1ae9f5cdc10c70800000000000000
+      internalID: 8935649385864895731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 212
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c731d99855e6e00800000000000000
+      internalID: 1039862613503343677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 203
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0464997d1baec450800000000000000
+      internalID: 6111009887470511118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_25
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 211
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9643e42ba42830f30800000000000000
+      internalID: 4540616106650252393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 199
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607cad317937191c0800000000000000
+      internalID: -4498687460056054010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 205
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bdcd887258c04e0800000000000000
+      internalID: -2014088528495060094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 200
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4619149a2bf649b0800000000000000
+      internalID: -5096109768031267251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6ef087dd10d25b0800000000000000
+      internalID: -5391651128178907450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 211
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0405aa3f01bd5bf50800000000000000
+      internalID: 6896659270241767488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 205
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613a8c9d82e2247b0800000000000000
+      internalID: -5241576263318461674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 199
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453223398378cef60800000000000000
+      internalID: 8064969709771170644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_33
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 203
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6777bb2353e9fd340800000000000000
+      internalID: 4890801671669249910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 212
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b67ae7e36307ea80800000000000000
+      internalID: -8437771649227786576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eedc2a82c3c28ec0800000000000000
+      internalID: -3566072714614743319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 201
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948ca1352f3d03530800000000000000
+      internalID: 3832796320622102601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 193
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8c74f43b4374640800000000000000
+      internalID: 5064074250735306993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 203
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b821538757e37bd50800000000000000
+      internalID: 6752934840514187915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_39
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 194
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b7448234647e630800000000000000
+      internalID: 3956208051920599839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_40
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 201
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318c0ca2b49c08300800000000000000
+      internalID: 252422903809755155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 194
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed1d5a55a8f8c580800000000000000
+      internalID: -8806515682253660696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_42
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 201
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2aeb66800ba9c70800000000000000
+      internalID: 8978682357246501546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 202
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb4a7f5e1f04ac40800000000000000
+      internalID: 5522555666188356540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_44
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 193
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979260879cd4a2f10800000000000000
+      internalID: 2245692891895048569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 193
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66931add8ed7dc50800000000000000
+      internalID: 6690060472312632943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 201
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09c7239b6812fdf0800000000000000
+      internalID: -148028987440379637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_47
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 201
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f601371a3510d50800000000000000
+      internalID: 6701729673389305641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_48
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 198
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74701e20fb5561810800000000000000
+      internalID: 1735668985273321287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 193
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d128ae82be6b7b8d0800000000000000
+      internalID: -2830592719659040227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_50
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 202
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686d18ae0870d1480800000000000000
+      internalID: -8926970636106869114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_51
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 199
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557a734db187d36c0800000000000000
+      internalID: -4162038419700603051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_52
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4003f615c00f1d0800000000000000
+      internalID: -3319139381474753374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_53
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 200
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba2594724dc843f0800000000000000
+      internalID: -916256838862427462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_54
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 196
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7796422d953aad4e0800000000000000
+      internalID: -1956071481966040713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b2201e4c2f322c0800000000000000
+      internalID: -4457452278764131450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_56
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 194
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02f8bb7874090900800000000000000
+      internalID: 651056536650052110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_57
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 194
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3961ab0acbcd95500800000000000000
+      internalID: 385581945825400467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4784e9c51ee445cd0800000000000000
+      internalID: -2570342757493225356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e5265dd4a297f60800000000000000
+      internalID: 8032497924172832259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_60
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 193
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d631d0cf7d917e80800000000000000
+      internalID: -8182585875934136615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_61
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 193
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9e6f5cd8fedf270800000000000000
+      internalID: 8286042281622301161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_62
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 193
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ee8b23a85f5f590800000000000000
+      internalID: -7640931218858905984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 194
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a4df294dbf90490800000000000000
+      internalID: -7779409990888109437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_64
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 193
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8121accb458e320800000000000000
+      internalID: 2587411155745118390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 194
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d139568d5cd1d06a0800000000000000
+      internalID: -6481491553139977443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_66
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 193
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b93121be395ad990800000000000000
+      internalID: -7360472515189065292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_67
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 193
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8866d794b96d2b820800000000000000
+      internalID: 2932642269812844168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_68
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 194
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f4e48bafd0ae350800000000000000
+      internalID: 6046660820183437118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_69
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 193
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b47c1e3e04b331c0800000000000000
+      internalID: -4525075227312622407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 193
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e570f2646a3f94a0800000000000000
+      internalID: -6584479927361309213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_71
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 194
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6f1e5a5b5c49120800000000000000
+      internalID: 2419776283767600867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31bb57961cecce70800000000000000
+      internalID: 9136937325800698174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 170
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be894ab26c1d89230800000000000000
+      internalID: 3645894547422353643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_74
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 176
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbb89a1bc3008bc0800000000000000
+      internalID: -3783019516131755013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_75
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 175
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c3c0ecb1f5c2540800000000000000
+      internalID: 4984463460617960485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_76
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 174
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f79c3da836719620800000000000000
+      internalID: 2779132430860982260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_77
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 175
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177268c373ac06ec0800000000000000
+      internalID: -3575635765544736911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_78
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 174
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98db6d962f77d45a0800000000000000
+      internalID: -6535435601203249783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 174
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0680f1dea42d1f0800000000000000
+      internalID: -1021671783171333916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_80
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 174
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619c7a2057bd80570800000000000000
+      internalID: 8433231597853460758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_81
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 176
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fd007495c073fa0800000000000000
+      internalID: -5821170415770214577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_82
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 175
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38aa1d7b197fca10800000000000000
+      internalID: 1931895924135209018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_83
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23924fe7d68ff200800000000000000
+      internalID: 216039569127281453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_84
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 175
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1106bfef80af4190800000000000000
+      internalID: -7975979874987409121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_85
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 169
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6890446b6a4eb96d0800000000000000
+      internalID: -2982538923529205370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_86
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 177
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff40bb9fd48868a0800000000000000
+      internalID: -6311648781835153413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_87
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 170
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87260253e06f09290800000000000000
+      internalID: -7885532406644448648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_88
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 166
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd88caea887c7d20800000000000000
+      internalID: 3277627166858710453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_89
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 175
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e200c0519b0c2e250800000000000000
+      internalID: 5972547957001289774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_90
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 175
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7736f7ceb23b83a0800000000000000
+      internalID: -6662175428784539780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_91
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 175
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c11b3fbf80f8ede0800000000000000
+      internalID: -1303527591944449597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_92
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 175
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767be0072cec25e00800000000000000
+      internalID: 1032114599120254823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_93
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 169
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4fb376fc0a0caf0800000000000000
+      internalID: -378125556048464727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_94
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 177
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6461f748ec7fb3780800000000000000
+      internalID: -8702089388605106618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 176
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9770d08eb918ecf80800000000000000
+      internalID: -8084381774470379655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_96
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 169
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebe22073834b9bc0800000000000000
+      internalID: -3775349630818915357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_97
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 166
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed0018a14991eaf0800000000000000
+      internalID: -368845187196121624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_98
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 176
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15ed0a046cbd87f0800000000000000
+      internalID: -608623236773714658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_99
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 170
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f931e525e092b0d80800000000000000
+      internalID: -8283481948129717345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_100
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 173
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93dc0bd709f69090800000000000000
+      internalID: -8027955473606192227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 173
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d686c300a079ef210800000000000000
+      internalID: 1368697405976635501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_102
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 176
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbda8203b9faee790800000000000000
+      internalID: -7498863248462533189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_103
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 170
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051b963e74641f790800000000000000
+      internalID: -7498134630023188144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_104
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 166
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3436e817841943b0800000000000000
+      internalID: -5527864497149692868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30917202799eadca0800000000000000
+      internalID: -5991219518974256893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_106
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ac31e83659d55a0800000000000000
+      internalID: -6530899629799388643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_107
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 164
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0548da223a1c70a40800000000000000
+      internalID: 5334445190049268816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 167
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac213e15472ee350800000000000000
+      internalID: 6047814527417920674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_109
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 166
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f34471e2d52811c0800000000000000
+      internalID: -4532831437292551182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_110
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 166
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382fb4a56dc8b33b0800000000000000
+      internalID: -5531672865028705661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_111
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 167
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9671ed3b9b68ac0800000000000000
+      internalID: -3853188248992519717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_112
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 169
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dbab9e6b10113d0800000000000000
+      internalID: -3237804771985670776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_113
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdc8ee26ced9df30800000000000000
+      internalID: 4600953437107572208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_114
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 162
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31ce1083a67fcc80800000000000000
+      internalID: -8300285143619288771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_115
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 169
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b379f546d66df5900800000000000000
+      internalID: 675494234452629307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_116
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 160
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f77d81aa7826d90800000000000000
+      internalID: -7105968097406255256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_117
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f560a67f6c3cd40800000000000000
+      internalID: 5603541127317053318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_118
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4066ad5a4e044da60800000000000000
+      internalID: 7697849013862295044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_119
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 168
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2043a8e6ffaca90800000000000000
+      internalID: -7292735796342947076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_120
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 160
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2516da636ed526aa0800000000000000
+      internalID: -6169265296202964654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_121
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 160
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdf39a2bfcec0140800000000000000
+      internalID: 4687381875681132019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_122
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 170
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f966a40fd006bc10800000000000000
+      internalID: 2068842036679043574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_123
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 167
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a08ffaada8052b0800000000000000
+      internalID: -5597821664961754471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_124
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 161
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8c8aedc94668b10800000000000000
+      internalID: 1983383310816561312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_125
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdf47f68d31f8eb0800000000000000
+      internalID: -4715528464529818163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_126
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 160
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8602af6fd0994890800000000000000
+      internalID: -7473282817319631220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_127
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 161
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8160274800f6e100800000000000000
+      internalID: 137060757025087883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_128
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 163
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b843c3981b4b030800000000000000
+      internalID: 3509625212607171445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 162
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a00047fcb5b6a80800000000000000
+      internalID: -8472577327404938732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_130
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 161
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30895461de3bfd9d0800000000000000
+      internalID: -2747279416810432509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 161
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae6aa11d575bed90800000000000000
+      internalID: -7067459132987904351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_132
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 162
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d3a123596beb8f0800000000000000
+      internalID: -522779754821436035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_133
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 163
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39b8dafa6fc5b7b0800000000000000
+      internalID: -5209029335602120387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eedd06fb91b77b20800000000000000
+      internalID: 3132167349265620704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_135
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 159
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb3c3842a090cbf0800000000000000
+      internalID: -306085747990184991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_136
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 160
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bfa15ad1561be50800000000000000
+      internalID: 6823346088441478046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_137
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948db9ea9451bbce0800000000000000
+      internalID: -1388492653907421111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_138
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 161
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ffa6ea4e3edddd0800000000000000
+      internalID: -2459559250156126390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_139
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b429e1c481657dd60800000000000000
+      internalID: 7914889532483211851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_140
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 160
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25275ed82acc196f0800000000000000
+      internalID: -679537070218841518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_141
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 161
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a8bd888bfa9d830800000000000000
+      internalID: 4096498543175109140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_142
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84126c2e4347b7a70800000000000000
+      internalID: 8825775665254375752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_143
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 160
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dc18f39da7c4860800000000000000
+      internalID: 7515516951666478359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_144
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9bce3c100b137c0800000000000000
+      internalID: -4093297064674543197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_145
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84acfce7b66deb70800000000000000
+      internalID: 8929906576286590090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_146
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 156
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13391385a543c0470800000000000000
+      internalID: 8362116170751513393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_147
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 156
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326a1d85a5213dc00800000000000000
+      internalID: 924102527787574819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_148
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 156
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507ef12e317318ea0800000000000000
+      internalID: -5872351880576768251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassland-paths_149
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 156
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb891aa24252cdeb0800000000000000
+      internalID: -4693835874362615620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
