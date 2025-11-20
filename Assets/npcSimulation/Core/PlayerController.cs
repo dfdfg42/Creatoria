@@ -51,10 +51,17 @@ namespace NPCSimulation.Core
                 {
                     spriteManager = gameObject.AddComponent<CharacterSpriteManager>();
                 }
+
+                if (spriteManager != null)
+                {
+                    // 예: NPC 이름이 "이서아"라면 "Resources/Characters/이서아"를 찾음
+                    // 혹은 영어 ID가 따로 있다면 그것을 사용 (npcID 등)
+                    spriteManager.LoadCharacterSprite("player");
+                }
             }
             
             // 기본 스프라이트 로드 (Ada로 설정, 원하는 캐릭터로 변경 가능)
-            spriteManager.LoadCharacterSprite("Ada");
+            //spriteManager.LoadCharacterSprite("Ada");
             
             Debug.Log("[PlayerController] 플레이어 초기화 완료");
         }

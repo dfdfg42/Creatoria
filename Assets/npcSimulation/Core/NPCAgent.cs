@@ -99,6 +99,15 @@ namespace NPCSimulation.Core
             }
 
             Debug.Log($"[NPCAgent] {npcName} initialized successfully!");
+
+            // [추가] 내 이름에 맞는 스프라이트 찾아 입기
+            var spriteMgr = GetComponent<CharacterSpriteManager>();
+            if (spriteMgr != null)
+            {
+                // 예: NPC 이름이 "이서아"라면 "Resources/Characters/이서아"를 찾음
+                // 혹은 영어 ID가 따로 있다면 그것을 사용 (npcID 등)
+                spriteMgr.LoadCharacterSprite(npcName);
+            }
         }
 
         /// <summary>
@@ -523,7 +532,6 @@ Answer:";
 오브젝트 현재 상태: {targetObject.GetAllStatesAsString()}
 
 이 오브젝트와 어떻게 상호작용하시겠습니까?
-가능한 행동: 사용하기, 상태 변경하기, 관찰하기, 무시하기
 
 응답 형식:
 행동: [행동 이름]

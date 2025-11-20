@@ -1,55 +1,48 @@
 using UnityEngine;
-using System.Collections.Generic;
 
 namespace NPCSimulation.Core
 {
     /// <summary>
-    /// 캐릭터 스프라이트 관리 시스템
-    /// Cute RPG 캐릭터 스프라이트를 사용한 NPC 비주얼 관리
+    /// 가장 단순한 형태의 스프라이트 애니메이터
+    /// 인스펙터에 할당된 스프라이트를 사용합니다.
     /// </summary>
     public class CharacterSpriteManager : MonoBehaviour
     {
-        [Header("스프라이트 시트")]
-        public Sprite[] characterSprites; // 모든 캐릭터 스프라이트
+        [Header("★ 여기에 스프라이트 12개를 순서대로 넣으세요")]
+        // Unity 에디터에서 이 배열에 이미지를 드래그해서 넣으세요!
+        // 순서: 하(0-2), 좌(3-5), 우(6-8), 상(9-11)
+        public Sprite[] characterSprites;
 
-        [Header("애니메이션 설정")]
+        [Header("설정")]
         public float animationSpeed = 0.2f;
-        
+
         private SpriteRenderer spriteRenderer;
         private int currentFrame = 0;
         private float frameTimer = 0f;
         private Direction currentDirection = Direction.Down;
         private bool isMoving = false;
 
-        // 공개 프로퍼티
         public bool IsMoving => isMoving;
 
-        // 캐릭터 ID별 스프라이트 시트 인덱스
-        private Dictionary<string, int> characterSpriteIndex = new Dictionary<string, int>();
+        // 3x4 (12장) 표준 인덱스
+        private readonly int[] downFrames = { 0, 1, 2 };
+        private readonly int[] leftFrames = { 3, 4, 5 };
+        private readonly int[] rightFrames = { 6, 7, 8 };
+        private readonly int[] upFrames = { 9, 10, 11 };
 
-        // 방향별 프레임 인덱스 (RPG Maker 스타일: 4x3 그리드)
-        private readonly int[] downFrames = { 0, 1, 2 };   // 아래
-        private readonly int[] leftFrames = { 12, 13, 14 }; // 왼쪽
-        private readonly int[] rightFrames = { 24, 25, 26 }; // 오른쪽
-        private readonly int[] upFrames = { 36, 37, 38 };   // 위
-
-        public enum Direction
-        {
-            Down = 0,
-            Left = 1,
-            Right = 2,
-            Up = 3
-        }
+        public enum Direction { Down, Left, Right, Up }
 
         private void Awake()
         {
             spriteRenderer = GetComponent<SpriteRenderer>();
             if (spriteRenderer == null)
-            {
                 spriteRenderer = gameObject.AddComponent<SpriteRenderer>();
-            }
+        }
 
-            InitializeCharacterMapping();
+        private void Start()
+        {
+            // 시작할 때 정면(Down) 정지(1번) 모습 보여주기
+            SetDirection(Direction.Down);
         }
 
         private void Update()
@@ -58,189 +51,98 @@ namespace NPCSimulation.Core
             {
                 AnimateMovement();
             }
-        }
-
-        /// <summary>
-        /// 캐릭터 ID와 스프라이트 시트 매핑 초기화
-        /// </summary>
-        private void InitializeCharacterMapping()
-        {
-            // 기본 캐릭터들 매핑
-            characterSpriteIndex["이서아"] = 1;   // !Character_RM_001.png
-            characterSpriteIndex["플레이어"] = 0;  // 플레이어용
-            
-            // 추가 캐릭터들은 필요에 따라 추가
-            for (int i = 0; i < 53; i++)
-            {
-                characterSpriteIndex[$"NPC_{i}"] = i;
-            }
-        }
-
-        /// <summary>
-        /// 특정 캐릭터 스프라이트 시트 로드
-        /// </summary>
-        public void LoadCharacterSprite(string characterId)
-        {
-            if (!characterSpriteIndex.ContainsKey(characterId))
-            {
-                Debug.LogWarning($"[CharacterSpriteManager] 캐릭터 ID를 찾을 수 없음: {characterId}");
-                characterId = "NPC_0"; // 기본 캐릭터 사용
-            }
-
-            int spriteIndex = characterSpriteIndex[characterId];
-            
-            // Resources 폴더에서 로드 (또는 직접 할당된 경우 사용)
-            if (characterSprites != null && characterSprites.Length > spriteIndex)
-            {
-                SetIdleSprite(Direction.Down);
-                Debug.Log($"[CharacterSpriteManager] 캐릭터 로드됨: {characterId} (Index: {spriteIndex})");
-            }
             else
             {
-                Debug.LogError($"[CharacterSpriteManager] 스프라이트를 로드할 수 없음: {characterId}");
-            }
-        }
-
-        /// <summary>
-        /// 방향 설정
-        /// </summary>
-        public void SetDirection(Direction direction)
-        {
-            currentDirection = direction;
-            
-            if (!isMoving)
-            {
-                SetIdleSprite(direction);
-            }
-        }
-
-        /// <summary>
-        /// 방향 설정 (Vector2로)
-        /// </summary>
-        public void SetDirection(Vector2 movementVector)
-        {
-            if (Mathf.Abs(movementVector.x) > Mathf.Abs(movementVector.y))
-            {
-                // 좌우 이동
-                currentDirection = movementVector.x > 0 ? Direction.Right : Direction.Left;
-            }
-            else
-            {
-                // 상하 이동
-                currentDirection = movementVector.y > 0 ? Direction.Up : Direction.Down;
-            }
-
-            if (!isMoving)
-            {
+                // 움직이지 않을 때도 방향 유지
                 SetIdleSprite(currentDirection);
             }
         }
 
-        /// <summary>
-        /// 이동 시작
-        /// </summary>
-        public void StartMoving()
+        // --- 애니메이션 로직 ---
+
+        public void SetDirection(Direction direction)
         {
-            isMoving = true;
-            currentFrame = 0;
-            frameTimer = 0f;
+            currentDirection = direction;
+            if (!isMoving) SetIdleSprite(direction);
         }
 
-        /// <summary>
-        /// 이동 정지
-        /// </summary>
+        public void SetDirection(Vector2 movementVector)
+        {
+            if (movementVector == Vector2.zero) return;
+
+            if (Mathf.Abs(movementVector.x) > Mathf.Abs(movementVector.y))
+                currentDirection = movementVector.x > 0 ? Direction.Right : Direction.Left;
+            else
+                currentDirection = movementVector.y > 0 ? Direction.Up : Direction.Down;
+
+            if (!isMoving) SetIdleSprite(currentDirection);
+        }
+
+        public void StartMoving()
+        {
+            if (!isMoving)
+            {
+                isMoving = true;
+                currentFrame = 0;
+                frameTimer = 0f;
+            }
+        }
+
         public void StopMoving()
         {
             isMoving = false;
             SetIdleSprite(currentDirection);
         }
 
-        /// <summary>
-        /// 이동 애니메이션
-        /// </summary>
         private void AnimateMovement()
         {
             frameTimer += Time.deltaTime;
-
             if (frameTimer >= animationSpeed)
             {
                 frameTimer = 0f;
-                currentFrame = (currentFrame + 1) % 3; // 0, 1, 2 순환
+                currentFrame = (currentFrame + 1) % 3;
+                UpdateSprite();
+            }
+        }
 
-                int[] frames = GetFramesForDirection(currentDirection);
-                if (characterSprites != null && frames[currentFrame] < characterSprites.Length)
+        private void SetIdleSprite(Direction direction)
+        {
+            currentFrame = 1; // 걷기 동작 중 가운데(정지) 프레임
+            UpdateSprite();
+        }
+
+        private void UpdateSprite()
+        {
+            if (characterSprites == null || characterSprites.Length == 0) return;
+
+            int[] frames = GetFramesForDirection(currentDirection);
+            if (currentFrame < frames.Length)
+            {
+                int spriteIndex = frames[currentFrame];
+                if (spriteIndex < characterSprites.Length)
                 {
-                    spriteRenderer.sprite = characterSprites[frames[currentFrame]];
+                    spriteRenderer.sprite = characterSprites[spriteIndex];
                 }
             }
         }
 
-        /// <summary>
-        /// 정지 상태 스프라이트 설정
-        /// </summary>
-        private void SetIdleSprite(Direction direction)
-        {
-            int[] frames = GetFramesForDirection(direction);
-            
-            if (characterSprites != null && frames[1] < characterSprites.Length)
-            {
-                spriteRenderer.sprite = characterSprites[frames[1]]; // 중간 프레임 (정지 포즈)
-            }
-        }
-
-        /// <summary>
-        /// 방향에 따른 프레임 배열 가져오기
-        /// </summary>
         private int[] GetFramesForDirection(Direction direction)
         {
             switch (direction)
             {
-                case Direction.Down:
-                    return downFrames;
-                case Direction.Left:
-                    return leftFrames;
-                case Direction.Right:
-                    return rightFrames;
-                case Direction.Up:
-                    return upFrames;
-                default:
-                    return downFrames;
+                case Direction.Down: return downFrames;
+                case Direction.Left: return leftFrames;
+                case Direction.Right: return rightFrames;
+                case Direction.Up: return upFrames;
+                default: return downFrames;
             }
         }
 
-        /// <summary>
-        /// 특정 프레임 직접 설정 (디버깅용)
-        /// </summary>
-        public void SetFrame(int frameIndex)
+        // ★ 중요: 다른 스크립트(NPCAgent, PlayerController)에서 
+        // 이 함수를 호출해도 에러가 안 나도록 빈 껍데기만 남겨둠
+        public void LoadCharacterSprite(string name)
         {
-            if (characterSprites != null && frameIndex < characterSprites.Length)
-            {
-                spriteRenderer.sprite = characterSprites[frameIndex];
-            }
-        }
-
-        /// <summary>
-        /// 투명도 설정
-        /// </summary>
-        public void SetAlpha(float alpha)
-        {
-            if (spriteRenderer != null)
-            {
-                Color color = spriteRenderer.color;
-                color.a = Mathf.Clamp01(alpha);
-                spriteRenderer.color = color;
-            }
-        }
-
-        /// <summary>
-        /// 스프라이트 색상 변경 (상태 표시용)
-        /// </summary>
-        public void SetTint(Color tint)
-        {
-            if (spriteRenderer != null)
-            {
-                spriteRenderer.color = tint;
-            }
+            // 아무것도 안 함 (인스펙터 설정 우선)
         }
     }
 }

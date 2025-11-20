@@ -131,15 +131,7 @@ namespace NPCSimulation.Core
             if (npcNameText != null)
                 npcNameText.text = npc.Name;
             
-            // 대화 시작 - AI 인사말 생성
-            if (dialogueText != null)
-                dialogueText.text = "...";
             
-            // AI로 인사말 생성
-            npc.RespondToPlayer("[대화 시작]", "Player", (greeting) =>
-            {
-                ShowNPCDialogue(greeting);
-            });
             
             // 입력 필드 포커스
             if (playerInputField != null)

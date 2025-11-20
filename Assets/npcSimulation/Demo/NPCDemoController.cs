@@ -30,14 +30,6 @@ namespace NPCSimulation.Demo
         public Button manualGenerateButton;
         public TMP_InputField manualPromptInput;
 
-        [Header("UI - Character")]
-        public GameObject characterPanel;
-        public TMP_InputField characterContextInput;
-        public Button evaluateCharacterButton;
-        public TMP_InputField characterNameInput;
-        public TMP_InputField characterDescInput;
-        public Button manualGenerateCharacterButton;
-        public TextMeshProUGUI characterListText;
 
         [Header("Settings")]
         public string playerName = "Player";
@@ -47,7 +39,6 @@ namespace NPCSimulation.Demo
         private void Start()
         {
             SetupUI();
-            UpdateNPCStatus();
         }
 
         private void SetupUI()
@@ -76,17 +67,7 @@ namespace NPCSimulation.Demo
                 manualGenerateButton.onClick.AddListener(OnManualGenerate);
             }
 
-            // 캐릭터 평가 버튼
-            if (evaluateCharacterButton != null)
-            {
-                evaluateCharacterButton.onClick.AddListener(OnEvaluateCharacter);
-            }
-
-            // 수동 캐릭터 생성 버튼
-            if (manualGenerateCharacterButton != null)
-            {
-                manualGenerateCharacterButton.onClick.AddListener(OnManualGenerateCharacter);
-            }
+            
 
             // 초기 메시지
             AppendChatMessage("System", "NPC와 대화를 시작하세요!");
@@ -120,7 +101,6 @@ namespace NPCSimulation.Demo
                 AppendChatMessage(npcAgent.Name, response);
                 isWaitingForResponse = false;
                 sendButton.interactable = true;
-                UpdateNPCStatus();
             });
         }
 
@@ -184,176 +164,8 @@ namespace NPCSimulation.Demo
 
         #endregion
 
-        #region Character
 
-        private void OnEvaluateCharacter()
-        {
-            // CharacterGenerationSystem이 구현될 때까지 비활성화
-            Debug.LogWarning("[NPCDemoController] CharacterGenerationSystem이 아직 구현되지 않았습니다!");
-            AppendChatMessage("System", "캐릭터 생성 기능이 아직 구현되지 않았습니다.");
-            
-            /*
-            if (characterSystem == null)
-            {
-                Debug.LogError("[NPCDemoController] CharacterGenerationSystem이 설정되지 않았습니다!");
-                return;
-            }
 
-            string context = characterContextInput.text.Trim();
-            if (string.IsNullOrEmpty(context))
-            {
-                context = "새로운 캐릭터가 필요한가요?";
-            }
-
-            Debug.Log($"[NPCDemoController] Requesting character generation: {context}");
-            characterSystem.RequestCharacterGeneration(context);
-
-            // UI 피드백
-            AppendChatMessage("System", $"캐릭터 평가 중... (Context: {context})");
-            */
-        }
-
-        private void OnManualGenerateCharacter()
-        {
-            // CharacterGenerationSystem이 구현될 때까지 비활성화
-            Debug.LogWarning("[NPCDemoController] CharacterGenerationSystem이 아직 구현되지 않았습니다!");
-            AppendChatMessage("System", "캐릭터 생성 기능이 아직 구현되지 않았습니다.");
-            
-            /*
-            if (characterSystem == null)
-            {
-                Debug.LogError("[NPCDemoController] CharacterGenerationSystem이 설정되지 않았습니다!");
-                return;
-            }
-
-            string name = characterNameInput.text.Trim();
-            string desc = characterDescInput.text.Trim();
-
-            if (string.IsNullOrEmpty(name))
-            {
-                name = "김철수";
-            }
-
-            if (string.IsNullOrEmpty(desc))
-            {
-                desc = "20대 남성, 캐주얼 복장";
-            }
-
-            // 프롬프트 자동 생성
-            string prompt = $"{desc}, pixel art character, front view, full body, white background";
-
-            Debug.Log($"[NPCDemoController] Manual character generation: {name} - {prompt}");
-            characterSystem.ManualGenerateCharacter(name, desc, prompt);
-
-            // UI 피드백
-            AppendChatMessage("System", $"캐릭터 생성 중... ({name})");
-            
-            // 입력 필드 초기화
-            characterNameInput.text = "";
-            characterDescInput.text = "";
-            */
-        }
-
-        private void UpdateCharacterList()
-        {
-            if (characterListText != null)
-            {
-                characterListText.text = "캐릭터 생성 기능이 아직 구현되지 않았습니다.";
-            }
-            
-            /*
-            if (characterListText != null && characterSystem != null)
-            {
-                var characters = characterSystem.GetAllCharacters();
-                
-                if (characters.Count == 0)
-                {
-                    characterListText.text = "생성된 캐릭터 없음";
-                }
-                else
-                {
-                    string list = $"<b>생성된 캐릭터 ({characters.Count}명)</b>\n";
-                    foreach (var character in characters)
-                    {
-                        list += $"\n• {character.characterName} ({character.role})";
-                    }
-                    characterListText.text = list;
-                }
-            }
-            */
-        }
-
-        #endregion
-
-        #region Status Update
-
-        private void UpdateNPCStatus()
-        {
-            if (npcStatusText != null && npcAgent != null)
-            {
-                npcStatusText.text = $@"
-<b>NPC: {npcAgent.Name}</b>
-위치: {npcAgent.CurrentLocation}
-감정: {npcAgent.CurrentEmotion}
-상황: {npcAgent.CurrentSituation}
-목표: {npcAgent.CurrentGoal}
-대화 중: {(npcAgent.IsInteractingWithPlayer ? "예" : "아니오")}
-";
-            }
-        }
-
-        #endregion
-
-        #region Keyboard Shortcuts
-
-        private void Update()
-        {
-            // F1: 채팅 패널 토글
-            if (Input.GetKeyDown(KeyCode.F1))
-            {
-                if (chatPanel != null)
-                {
-                    chatPanel.SetActive(!chatPanel.activeSelf);
-                }
-            }
-
-            // F2: 환경 패널 토글
-            if (Input.GetKeyDown(KeyCode.F2))
-            {
-                if (environmentPanel != null)
-                {
-                    environmentPanel.SetActive(!environmentPanel.activeSelf);
-                }
-            }
-
-            // F3: 캐릭터 패널 토글
-            if (Input.GetKeyDown(KeyCode.F3))
-            {
-                if (characterPanel != null)
-                {
-                    characterPanel.SetActive(!characterPanel.activeSelf);
-                }
-            }
-
-            // F5: 상태 업데이트
-            if (Input.GetKeyDown(KeyCode.F5))
-            {
-                UpdateNPCStatus();
-                UpdateCharacterList();
-            }
-
-            // ESC: 대화 종료
-            if (Input.GetKeyDown(KeyCode.Escape))
-            {
-                if (npcAgent.IsInteractingWithPlayer)
-                {
-                    npcAgent.EndInteractionWithPlayer();
-                    AppendChatMessage("System", "대화를 종료했습니다.");
-                    UpdateNPCStatus();
-                }
-            }
-        }
-
-        #endregion
     }
+        
 }
