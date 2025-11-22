@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $CuteRPG_Dark_Castle_Doors01_0: 8353883814259855083
+      $CuteRPG_Dark_Castle_Doors01_1: 2808660318510355672
+      $CuteRPG_Dark_Castle_Doors01_10: 6288156881350688194
+      $CuteRPG_Dark_Castle_Doors01_11: -1448981073859631947
+      $CuteRPG_Dark_Castle_Doors01_2: 5737776398774480547
+      $CuteRPG_Dark_Castle_Doors01_3: -7986273596365791651
+      $CuteRPG_Dark_Castle_Doors01_4: -9083559315295360720
+      $CuteRPG_Dark_Castle_Doors01_5: 1979340539133210152
+      $CuteRPG_Dark_Castle_Doors01_6: -1421268046446385741
+      $CuteRPG_Dark_Castle_Doors01_7: 4277286441717588300
+      $CuteRPG_Dark_Castle_Doors01_8: 2837905566883441847
+      $CuteRPG_Dark_Castle_Doors01_9: -6272964319889774480
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

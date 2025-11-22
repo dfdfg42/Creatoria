@@ -352,16 +352,11 @@ namespace NPCSimulation.Environment
             {
                 WorldObject worldObject = obj.AddComponent<WorldObject>();
                 worldObject.objectName = decision.objectName;
-                worldObject.currentDescription = decision.reason;
                 worldObject.objectType = MapDecisionToObjectType(decision.objectName);
                 worldObject.isInteractable = true;
                 worldObject.isVisible = true;
-                
-                // AI가 생성한 속성 추가
-                worldObject.SetProperty("generatedBy", "AI");
-                worldObject.SetProperty("createdAt", System.DateTime.Now.ToString("HH:mm:ss"));
-                worldObject.SetProperty("source", "DALL-E");
-                
+                worldObject.objectState = $"{decision.reason}.";
+
                 Debug.Log($"[EnvironmentModificationSystem] WorldObject component added: {decision.objectName}");
             }
             
@@ -376,30 +371,30 @@ namespace NPCSimulation.Environment
             Debug.Log($"[EnvironmentModificationSystem] Sprite object placed at {worldPosition} with WorldObject component");
             return true;
         }
-        
+
         /// <summary>
         /// Decision의 objectType을 WorldObject.ObjectType으로 매핑
         /// </summary>
-        private NPCSimulation.Core.ObjectType MapDecisionToObjectType(string objectType)
+        private string MapDecisionToObjectType(string objectType)
         {
             string lowerType = objectType.ToLower();
-            
+
             if (lowerType.Contains("lamp") || lowerType.Contains("light") || lowerType.Contains("조명") || lowerType.Contains("램프"))
-                return NPCSimulation.Core.ObjectType.Light;
+                return "Light"; // 문자열 반환
             else if (lowerType.Contains("table") || lowerType.Contains("desk") || lowerType.Contains("테이블") || lowerType.Contains("책상"))
-                return NPCSimulation.Core.ObjectType.Furniture;
+                return "Furniture";
             else if (lowerType.Contains("chair") || lowerType.Contains("의자"))
-                return NPCSimulation.Core.ObjectType.Furniture;
+                return "Furniture";
             else if (lowerType.Contains("door") || lowerType.Contains("문"))
-                return NPCSimulation.Core.ObjectType.Door;
+                return "Door";
             else if (lowerType.Contains("plant") || lowerType.Contains("flower") || lowerType.Contains("식물") || lowerType.Contains("화분"))
-                return NPCSimulation.Core.ObjectType.Decoration;
+                return "Decoration";
             else if (lowerType.Contains("food") || lowerType.Contains("음식"))
-                return NPCSimulation.Core.ObjectType.Food;
+                return "Food";
             else if (lowerType.Contains("tool") || lowerType.Contains("도구"))
-                return NPCSimulation.Core.ObjectType.Tool;
+                return "Tool";
             else
-                return NPCSimulation.Core.ObjectType.Generic;
+                return "Generic";
         }
 
         /// <summary>

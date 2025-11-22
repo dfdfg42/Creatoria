@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $CuteRPG_Desert_Cactuar02_0: -1804578659215175794
+      $CuteRPG_Desert_Cactuar02_1: -8429279181523817848
+      $CuteRPG_Desert_Cactuar02_10: -2588231277037208998
+      $CuteRPG_Desert_Cactuar02_11: 5921210014932943330
+      $CuteRPG_Desert_Cactuar02_2: 2406527727090662047
+      $CuteRPG_Desert_Cactuar02_3: -4499945300597077310
+      $CuteRPG_Desert_Cactuar02_4: 1917986324781206002
+      $CuteRPG_Desert_Cactuar02_5: 5234620891577412850
+      $CuteRPG_Desert_Cactuar02_6: -4205048400003072100
+      $CuteRPG_Desert_Cactuar02_7: -1774893638583623564
+      $CuteRPG_Desert_Cactuar02_8: 5474650775666710029
+      $CuteRPG_Desert_Cactuar02_9: -4063777275799412033
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

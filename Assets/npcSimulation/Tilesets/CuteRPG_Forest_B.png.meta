@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CuteRPG_Forest_B_0: 1240456751598280731
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

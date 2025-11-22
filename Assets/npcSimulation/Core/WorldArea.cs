@@ -96,20 +96,21 @@ namespace NPCSimulation.Core
             // sectorName도 parentArea도 없으면 areaName만 반환
             return areaName;
         }
-        
+
         /// <summary>
         /// 특정 오브젝트 타입 찾기
         /// </summary>
-        public WorldObject FindObjectOfType(ObjectType type)
+        public WorldObject FindObjectOfType(string type)
         {
             foreach (var obj in objectsInArea)
             {
-                if (obj.objectType == type)
+                // 문자열 포함 여부로 체크하면 더 유연함 (예: "Light" 검색 시 "Desk Light"도 찾음)
+                if (obj.objectType.Contains(type) || type.Contains(obj.objectType))
                     return obj;
             }
             return null;
         }
-        
+
         /// <summary>
         /// 이름으로 오브젝트 찾기
         /// </summary>

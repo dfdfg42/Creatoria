@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tileset-grassland-water_0: 3422203519469982581
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

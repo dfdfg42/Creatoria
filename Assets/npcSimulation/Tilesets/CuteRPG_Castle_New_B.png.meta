@@ -872,7 +872,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CuteRPG_Castle_New_B_0: -3901010180071859350
+      CuteRPG_Castle_New_B_1: -208332084291464112
+      CuteRPG_Castle_New_B_10: 1541946885895067048
+      CuteRPG_Castle_New_B_11: -3416312236730291581
+      CuteRPG_Castle_New_B_12: 5288419839231821090
+      CuteRPG_Castle_New_B_13: 2465680044631460957
+      CuteRPG_Castle_New_B_14: 5005073593521259660
+      CuteRPG_Castle_New_B_15: -58204330958351909
+      CuteRPG_Castle_New_B_16: 5567742084577873937
+      CuteRPG_Castle_New_B_17: -8545528659641546535
+      CuteRPG_Castle_New_B_18: -6860426484163966255
+      CuteRPG_Castle_New_B_19: -6786526280993411661
+      CuteRPG_Castle_New_B_2: -4917778265448536509
+      CuteRPG_Castle_New_B_20: -6443264408501982542
+      CuteRPG_Castle_New_B_21: -8388463984783424594
+      CuteRPG_Castle_New_B_22: 3737633465873514319
+      CuteRPG_Castle_New_B_23: 618257087308871408
+      CuteRPG_Castle_New_B_24: 214610285678128209
+      CuteRPG_Castle_New_B_25: -4343923103468952925
+      CuteRPG_Castle_New_B_26: 7881736020951331618
+      CuteRPG_Castle_New_B_27: -7435041468782189604
+      CuteRPG_Castle_New_B_28: -4905307584328516474
+      CuteRPG_Castle_New_B_29: 3349612334479568603
+      CuteRPG_Castle_New_B_3: 854171631958142015
+      CuteRPG_Castle_New_B_4: -8878950018972600457
+      CuteRPG_Castle_New_B_5: -6482870266688641925
+      CuteRPG_Castle_New_B_6: 6234224906814175960
+      CuteRPG_Castle_New_B_7: 7144553262543756058
+      CuteRPG_Castle_New_B_8: -6647818106829008216
+      CuteRPG_Castle_New_B_9: -2988440283876193307
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

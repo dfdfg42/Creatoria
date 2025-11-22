@@ -73,23 +73,22 @@ namespace NPCSimulation.Core
                     }
                 }
 
-                // WorldObject 감지
+                // WorldObject 감지 부분 수정
                 WorldObject obj = col.GetComponent<WorldObject>();
-                if (obj != null && obj.isVisible)
+                if (obj != null && obj.isVisible) // [복구된 isVisible 사용]
                 {
                     detectedObjects.Add(obj);
-                    
-                    // 공간 기억에 저장
+
                     Vector3 roundedPos = RoundPosition(obj.transform.position);
                     if (!spatialMemory.ContainsKey(roundedPos))
                     {
                         spatialMemory[roundedPos] = obj;
                     }
 
-                    // 메모리에 기록
                     if (owner != null)
                     {
-                        string memoryDescription = $"'{obj.objectName}'을(를) {obj.transform.position}에서 발견했다. 상태: {obj.GetAllStatesAsString()}";
+                        // [수정] GetAllStatesAsString() -> objectState 사용
+                        string memoryDescription = $"'{obj.objectName}'을(를) {obj.transform.position}에서 발견했다. 상태: {obj.objectState}";
                         owner.MemoryMgr.AddMemory(
                             MemoryType.Event,
                             memoryDescription,
@@ -128,16 +127,14 @@ namespace NPCSimulation.Core
         /// <summary>
         /// 특정 오브젝트 타입 검색
         /// </summary>
-        public WorldObject FindNearestObjectOfType(ObjectType type)
+        public WorldObject FindNearestObjectOfType(string type)
         {
-            var objectsOfType = detectedObjects.Where(o => o.objectType == type).ToList();
-            
+            var objectsOfType = detectedObjects.Where(o => o.objectType.Equals(type, System.StringComparison.OrdinalIgnoreCase)).ToList();
+
             if (objectsOfType.Count == 0)
             {
-                // 감지된 것 중 없으면 공간 기억에서 검색
-                objectsOfType = spatialMemory.Values.Where(o => o.objectType == type).ToList();
+                objectsOfType = spatialMemory.Values.Where(o => o.objectType.Equals(type, System.StringComparison.OrdinalIgnoreCase)).ToList();
             }
-
             if (objectsOfType.Count == 0)
                 return null;
 
@@ -163,12 +160,13 @@ namespace NPCSimulation.Core
         }
 
         /// <summary>
-        /// 특정 상태를 가진 오브젝트 검색
+        /// [수정] 특정 상태 키워드를 포함한 오브젝트 검색
+        /// 예: FindObjectsWithState("burning")
         /// </summary>
-        public List<WorldObject> FindObjectsWithState(string stateName, string stateValue)
+        public List<WorldObject> FindObjectsWithState(string stateKeyword)
         {
             return detectedObjects
-                .Where(o => o.GetState(stateName) == stateValue)
+                .Where(o => o.objectState.Contains(stateKeyword))
                 .ToList();
         }
 

@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CuteRPG_Mountains_A1_0: -3159415831466565194
+      CuteRPG_Mountains_A1_1: 8927136743563137820
+      CuteRPG_Mountains_A1_10: -511056125279507428
+      CuteRPG_Mountains_A1_11: -6742253902091828945
+      CuteRPG_Mountains_A1_12: -7228965627017218274
+      CuteRPG_Mountains_A1_13: 3595592047868840360
+      CuteRPG_Mountains_A1_14: 8951157124654110965
+      CuteRPG_Mountains_A1_15: 4388388391839938010
+      CuteRPG_Mountains_A1_16: -2168871491580516462
+      CuteRPG_Mountains_A1_17: 6644389132684387531
+      CuteRPG_Mountains_A1_18: 2254451779922161776
+      CuteRPG_Mountains_A1_19: 8916180098811770626
+      CuteRPG_Mountains_A1_2: -5140795308202941685
+      CuteRPG_Mountains_A1_3: -3517570656899212971
+      CuteRPG_Mountains_A1_4: 234925709403054975
+      CuteRPG_Mountains_A1_5: 2334082870569551101
+      CuteRPG_Mountains_A1_6: 3910461807243197245
+      CuteRPG_Mountains_A1_7: 7043798191466867385
+      CuteRPG_Mountains_A1_8: -2751444256861109838
+      CuteRPG_Mountains_A1_9: -4701648759200501919
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CuteRPG_Forest_D_0: 7822945552900555520
+      CuteRPG_Forest_D_1: 3535287485812722547
+      CuteRPG_Forest_D_10: -8301833372292998701
+      CuteRPG_Forest_D_11: -3335551702890046538
+      CuteRPG_Forest_D_12: 3311106069787122803
+      CuteRPG_Forest_D_13: -4874280786476791767
+      CuteRPG_Forest_D_14: 7406263474991551087
+      CuteRPG_Forest_D_15: -7850205528155788985
+      CuteRPG_Forest_D_2: -8503030548612222446
+      CuteRPG_Forest_D_3: 3748756841241234458
+      CuteRPG_Forest_D_4: 6279404356111871661
+      CuteRPG_Forest_D_5: 4219909346812100525
+      CuteRPG_Forest_D_6: 6875343223757571318
+      CuteRPG_Forest_D_7: 3776511561015794517
+      CuteRPG_Forest_D_8: -6730531587045274344
+      CuteRPG_Forest_D_9: -8912728537205071603
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

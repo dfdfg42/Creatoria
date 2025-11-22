@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CuteRPG_Harbor_C_0: -2374040342406547423
+      CuteRPG_Harbor_C_1: -5304733749722356306
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

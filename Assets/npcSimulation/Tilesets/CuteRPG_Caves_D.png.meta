@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CuteRPG_Caves_D_0: -1805090815719088363
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

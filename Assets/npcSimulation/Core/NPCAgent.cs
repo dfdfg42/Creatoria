@@ -489,124 +489,84 @@ Answer:";
         /// </summary>
         public void InteractWithObject(WorldObject targetObject, Action<bool> callback)
         {
-            StartCoroutine(InteractWithObjectCoroutine(targetObject, callback));
+            StartCoroutine(GenerativeInteractionCoroutine(targetObject, callback));
         }
 
-        private IEnumerator InteractWithObjectCoroutine(WorldObject targetObject, Action<bool> callback)
+        private IEnumerator GenerativeInteractionCoroutine(WorldObject targetObject, Action<bool> callback)
         {
-            if (targetObject == null)
-            {
-                Debug.LogWarning("[NPCAgent] Target object is null");
-                callback?.Invoke(false);
-                yield break;
-            }
+            if (targetObject == null) { callback?.Invoke(false); yield break; }
 
-            Debug.Log($"[NPCAgent] {Name} attempting to interact with {targetObject.objectName}");
-
-            // 1. 오브젝트로 이동
+            // 1. 이동 (기존과 동일)
             float distance = Vector3.Distance(transform.position, targetObject.transform.position);
             if (distance > targetObject.interactionRange)
             {
-                Debug.Log($"[NPCAgent] Moving to {targetObject.objectName}...");
-                bool pathFound = Pathfinding.MoveTo(targetObject.transform.position);
-                
-                if (!pathFound)
-                {
-                    Debug.LogWarning($"[NPCAgent] Cannot find path to {targetObject.objectName}");
-                    callback?.Invoke(false);
-                    yield break;
-                }
-
-                // 이동 완료 대기
-                while (Pathfinding.IsMoving)
-                {
-                    yield return null;
-                }
+                Pathfinding.MoveTo(targetObject.transform.position);
+                while (Pathfinding.IsMoving) yield return null;
             }
 
-            // 2. AI로 상호작용 결정
-            string prompt = $@"
-당신은 {Name}입니다.
-현재 '{targetObject.objectName}'과(와) 상호작용하려고 합니다.
+            Debug.Log($"[NPCAgent] {Name} interacting with {targetObject.objectName}...");
 
-오브젝트 현재 상태: {targetObject.GetAllStatesAsString()}
+            // 2. [STEP 1] 행동 결정하기
+            // "이 물건으로 무엇을 할 것인가?"
+            string actionPrompt = $@"
+You are {npcName}.
+Current Situation: {CurrentSituation}
+Target Object: {targetObject.GetDescription()}
 
-이 오브젝트와 어떻게 상호작용하시겠습니까?
+What do you want to do with this object?
+Answer in one short sentence (e.g., ""I turn on the coffee machine"", ""I eat the apple"").
+Action:";
 
-응답 형식:
-행동: [행동 이름]
-대상 상태: [변경할 상태 이름] (해당되는 경우)
-새 값: [새로운 상태 값] (해당되는 경우)
-";
+            string actionDescription = "";
+            yield return llmClient.GetChatCompletion(actionPrompt, (response) => {
+                actionDescription = response.Trim();
+            }, temperature: 0.7f, maxTokens: 50);
 
-            string decision = "";
-            yield return llmClient.GetChatCompletion(prompt, (response) =>
-            {
-                decision = response;
-            }, temperature: 0.6f, maxTokens: 150);
+            Debug.Log($"[NPCAgent] Action Decided: {actionDescription}");
 
-            Debug.Log($"[NPCAgent] Interaction decision: {decision}");
+            // 3. [STEP 2] 상태 변화 추론하기 (논문의 Generative Sandbox 핵심!)
+            // "내가 이 행동을 하면, 물건의 상태는 어떻게 변하는가?"
+            string statePrompt = $@"
+Agent Action: {actionDescription}
+Object: {targetObject.objectName}
+Current State: {targetObject.objectState}
 
-            // 3. 결정 파싱 및 실행
-            bool success = ExecuteObjectInteraction(targetObject, decision);
+Describe the NEW state of the object after this action.
+Answer in one short phrase (e.g., ""brewing coffee"", ""eaten and empty"", ""turned on"").
+New State:";
 
-            // 4. 메모리에 기록
+            string newState = "";
+            yield return llmClient.GetChatCompletion(statePrompt, (response) => {
+                newState = response.Trim();
+                // 따옴표나 불필요한 설명 제거
+                newState = newState.Replace("The object is now ", "").Replace("\"", "").Replace(".", "");
+            }, temperature: 0.3f, maxTokens: 30);
+
+            Debug.Log($"[NPCAgent] New State Inferred: {newState}");
+
+            // 4. 오브젝트 상태 업데이트 (실제 반영)
+            targetObject.UpdateState(newState);
+
+            // 5. 기억 저장
             MemoryMgr.AddMemory(
                 MemoryType.Event,
-                $"'{targetObject.objectName}'과(와) 상호작용했다. 행동: {decision}",
-                importance: 6,
+                $"{targetObject.objectName}에 대해 행동했다: '{actionDescription}'. 결과 상태: '{newState}'",
+                6,
                 this
             );
 
-            callback?.Invoke(success);
+            callback?.Invoke(true);
         }
-
-        /// <summary>
-        /// 오브젝트 상호작용 실행
-        /// </summary>
-        private bool ExecuteObjectInteraction(WorldObject obj, string decision)
-        {
-            decision = decision.ToLower();
-
-            // "대상 상태: cleanliness" 같은 패턴 찾기
-            if (decision.Contains("대상 상태:") && decision.Contains("새 값:"))
-            {
-                string[] lines = decision.Split('\n');
-                string stateName = "";
-                string newValue = "";
-
-                foreach (string line in lines)
-                {
-                    if (line.Contains("대상 상태:"))
-                    {
-                        stateName = line.Split(':')[1].Trim();
-                    }
-                    else if (line.Contains("새 값:"))
-                    {
-                        newValue = line.Split(':')[1].Trim();
-                    }
-                }
-
-                if (!string.IsNullOrEmpty(stateName) && !string.IsNullOrEmpty(newValue))
-                {
-                    return obj.SetState(stateName, newValue);
-                }
-            }
-
-            // 기본 동작
-            Debug.Log($"[NPCAgent] Executed basic interaction with {obj.objectName}");
-            return true;
-        }
-
+        
         /// <summary>
         /// 특정 타입의 오브젝트 찾아서 이동
         /// </summary>
-        public void FindAndMoveToObjectType(ObjectType type, Action<WorldObject> callback)
+        public void FindAndMoveToObjectType(string type, Action<WorldObject> callback)
         {
             StartCoroutine(FindAndMoveToObjectTypeCoroutine(type, callback));
         }
 
-        private IEnumerator FindAndMoveToObjectTypeCoroutine(ObjectType type, Action<WorldObject> callback)
+        private IEnumerator FindAndMoveToObjectTypeCoroutine(string type, Action<WorldObject> callback)
         {
             // Perception으로 주변 감지
             Perception.PerceiveEnvironment();

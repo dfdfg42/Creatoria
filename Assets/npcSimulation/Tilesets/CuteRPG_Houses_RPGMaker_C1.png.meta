@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CuteRPG_Houses_RPGMaker_C1_0: 8477041937245764570
+      CuteRPG_Houses_RPGMaker_C1_1: -4139416139345946521
+      CuteRPG_Houses_RPGMaker_C1_2: -9029624040952820417
+      CuteRPG_Houses_RPGMaker_C1_3: -7772567150931061676
+      CuteRPG_Houses_RPGMaker_C1_4: 842018860953639248
+      CuteRPG_Houses_RPGMaker_C1_5: -303619432442591146
+      CuteRPG_Houses_RPGMaker_C1_6: 336831766660813244
+      CuteRPG_Houses_RPGMaker_C1_7: -6292403151751492590
+      CuteRPG_Houses_RPGMaker_C1_8: 3585701198819283615
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

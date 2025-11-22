@@ -772,7 +772,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CuteRPG_Mountains_B_0: 4092295234595050624
+      CuteRPG_Mountains_B_1: -1054330796692544712
+      CuteRPG_Mountains_B_10: -6883847655425463731
+      CuteRPG_Mountains_B_11: 4407113495060452334
+      CuteRPG_Mountains_B_12: -4387013752308614316
+      CuteRPG_Mountains_B_13: -1160200629291893398
+      CuteRPG_Mountains_B_14: -4789191875842180700
+      CuteRPG_Mountains_B_15: 7070801998807541613
+      CuteRPG_Mountains_B_16: 7070210865434567509
+      CuteRPG_Mountains_B_17: -8095956372137193020
+      CuteRPG_Mountains_B_18: -5860690785569997410
+      CuteRPG_Mountains_B_19: -1017969089303006857
+      CuteRPG_Mountains_B_2: -8389160237899283689
+      CuteRPG_Mountains_B_20: -1937309221053943232
+      CuteRPG_Mountains_B_21: 8288991316653504522
+      CuteRPG_Mountains_B_22: -6580086918190091678
+      CuteRPG_Mountains_B_23: 8670875548688188027
+      CuteRPG_Mountains_B_24: -2618158052844646654
+      CuteRPG_Mountains_B_25: 955725421754355845
+      CuteRPG_Mountains_B_3: -1303549739322202152
+      CuteRPG_Mountains_B_4: 7174891693739206878
+      CuteRPG_Mountains_B_5: 8091350197973023457
+      CuteRPG_Mountains_B_6: 438088928700169404
+      CuteRPG_Mountains_B_7: 6188305984320026474
+      CuteRPG_Mountains_B_8: -8531635009459076016
+      CuteRPG_Mountains_B_9: 92813161962637113
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

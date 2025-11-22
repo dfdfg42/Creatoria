@@ -747,7 +747,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CuteRPG_Harbor_B_0: 8039465215994597747
+      CuteRPG_Harbor_B_1: -2372954058596274216
+      CuteRPG_Harbor_B_10: 7170141229014172609
+      CuteRPG_Harbor_B_11: 7851281425549850679
+      CuteRPG_Harbor_B_12: -737933003205636819
+      CuteRPG_Harbor_B_13: -4979431280916174809
+      CuteRPG_Harbor_B_14: 3193226393506235138
+      CuteRPG_Harbor_B_15: 955647394614574142
+      CuteRPG_Harbor_B_16: -5155333239632312884
+      CuteRPG_Harbor_B_17: 5963004665742577874
+      CuteRPG_Harbor_B_18: -4834710483145001762
+      CuteRPG_Harbor_B_19: 4535761495129430661
+      CuteRPG_Harbor_B_2: 3462942378399738838
+      CuteRPG_Harbor_B_20: 1801178379917062415
+      CuteRPG_Harbor_B_21: 2694226812511552509
+      CuteRPG_Harbor_B_22: 4584294243592425061
+      CuteRPG_Harbor_B_23: -3583111191101329719
+      CuteRPG_Harbor_B_24: -5764425229612162641
+      CuteRPG_Harbor_B_3: 763258118853050273
+      CuteRPG_Harbor_B_4: -1874659672792521722
+      CuteRPG_Harbor_B_5: 3289973729245318450
+      CuteRPG_Harbor_B_6: -6441231610431212523
+      CuteRPG_Harbor_B_7: -472316696348192584
+      CuteRPG_Harbor_B_8: 2099212644975381393
+      CuteRPG_Harbor_B_9: -6988838803088966793
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

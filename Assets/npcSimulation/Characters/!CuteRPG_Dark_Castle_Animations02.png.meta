@@ -1322,7 +1322,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!CuteRPG_Dark_Castle_Animations02_0': -4530243196950547935
+      '!CuteRPG_Dark_Castle_Animations02_1': 8449132180813128957
+      '!CuteRPG_Dark_Castle_Animations02_10': 6400747836565501201
+      '!CuteRPG_Dark_Castle_Animations02_11': 1000253577633144792
+      '!CuteRPG_Dark_Castle_Animations02_12': 8160257851971709194
+      '!CuteRPG_Dark_Castle_Animations02_13': -6302862508748063689
+      '!CuteRPG_Dark_Castle_Animations02_14': 7255141759796111059
+      '!CuteRPG_Dark_Castle_Animations02_15': -5229596869143213328
+      '!CuteRPG_Dark_Castle_Animations02_16': -5116388594067787490
+      '!CuteRPG_Dark_Castle_Animations02_17': 3455612729115218023
+      '!CuteRPG_Dark_Castle_Animations02_18': -6093625521011560063
+      '!CuteRPG_Dark_Castle_Animations02_19': -8904187179967267906
+      '!CuteRPG_Dark_Castle_Animations02_2': -3016509963937943964
+      '!CuteRPG_Dark_Castle_Animations02_20': 694705271038759465
+      '!CuteRPG_Dark_Castle_Animations02_21': -8123314637742885666
+      '!CuteRPG_Dark_Castle_Animations02_22': 1191476533056866920
+      '!CuteRPG_Dark_Castle_Animations02_23': 7099298159241728400
+      '!CuteRPG_Dark_Castle_Animations02_24': 605606719163970007
+      '!CuteRPG_Dark_Castle_Animations02_25': 504965612618253807
+      '!CuteRPG_Dark_Castle_Animations02_26': -4771004953311938304
+      '!CuteRPG_Dark_Castle_Animations02_27': -4939087155778568580
+      '!CuteRPG_Dark_Castle_Animations02_28': -358162418610882269
+      '!CuteRPG_Dark_Castle_Animations02_29': 4075914538573637071
+      '!CuteRPG_Dark_Castle_Animations02_3': -7148832129360567445
+      '!CuteRPG_Dark_Castle_Animations02_30': 3619637088695300966
+      '!CuteRPG_Dark_Castle_Animations02_31': 5863030397926966320
+      '!CuteRPG_Dark_Castle_Animations02_32': 5231086933028799965
+      '!CuteRPG_Dark_Castle_Animations02_33': 8501435263852087105
+      '!CuteRPG_Dark_Castle_Animations02_34': -7061078541258865265
+      '!CuteRPG_Dark_Castle_Animations02_35': -8376595141771041807
+      '!CuteRPG_Dark_Castle_Animations02_36': 677969933181773359
+      '!CuteRPG_Dark_Castle_Animations02_37': 2111732252572878497
+      '!CuteRPG_Dark_Castle_Animations02_38': 2582644627874590837
+      '!CuteRPG_Dark_Castle_Animations02_39': 1553094735996032594
+      '!CuteRPG_Dark_Castle_Animations02_4': 7273834860632426886
+      '!CuteRPG_Dark_Castle_Animations02_40': -1495858128616390822
+      '!CuteRPG_Dark_Castle_Animations02_41': -3349559145424215128
+      '!CuteRPG_Dark_Castle_Animations02_42': -4928869215847506678
+      '!CuteRPG_Dark_Castle_Animations02_43': -3112256149171954778
+      '!CuteRPG_Dark_Castle_Animations02_44': 4054532180419759949
+      '!CuteRPG_Dark_Castle_Animations02_45': 6192278646252118922
+      '!CuteRPG_Dark_Castle_Animations02_46': 6314720289835555914
+      '!CuteRPG_Dark_Castle_Animations02_47': 6841387807305885847
+      '!CuteRPG_Dark_Castle_Animations02_5': 2581755989063365024
+      '!CuteRPG_Dark_Castle_Animations02_6': 5686639683043927807
+      '!CuteRPG_Dark_Castle_Animations02_7': -7096672613732180399
+      '!CuteRPG_Dark_Castle_Animations02_8': -5571110886023666563
+      '!CuteRPG_Dark_Castle_Animations02_9': -727636027426371989
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

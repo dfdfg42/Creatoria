@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CuteRPG_Mountains_A5_0: -7039559101365774531
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

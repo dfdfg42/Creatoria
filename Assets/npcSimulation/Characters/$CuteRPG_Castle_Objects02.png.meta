@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $CuteRPG_Castle_Objects02_0: -981446047375346295
+      $CuteRPG_Castle_Objects02_1: -9145500454841194242
+      $CuteRPG_Castle_Objects02_10: -4374059388871367300
+      $CuteRPG_Castle_Objects02_11: -2848165476421728769
+      $CuteRPG_Castle_Objects02_2: -8559760177696345397
+      $CuteRPG_Castle_Objects02_3: -1931749609648111336
+      $CuteRPG_Castle_Objects02_4: 2211920767646772033
+      $CuteRPG_Castle_Objects02_5: -3142746701608999485
+      $CuteRPG_Castle_Objects02_6: 5101463368907552324
+      $CuteRPG_Castle_Objects02_7: 2373893520153929837
+      $CuteRPG_Castle_Objects02_8: -7638152905215314461
+      $CuteRPG_Castle_Objects02_9: -6082720061189806671
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

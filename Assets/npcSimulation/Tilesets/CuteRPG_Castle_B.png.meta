@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CuteRPG_Castle_B_0: 3541260847775817903
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -43,6 +43,8 @@ namespace NPCSimulation.Core
         {
             // 시작할 때 정면(Down) 정지(1번) 모습 보여주기
             SetDirection(Direction.Down);
+
+
         }
 
         private void Update()

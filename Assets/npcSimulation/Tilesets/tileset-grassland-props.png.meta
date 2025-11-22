@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tileset-grassland-props_0: -5851537703354109551
+      tileset-grassland-props_1: 948378350651280470
+      tileset-grassland-props_2: -5657158175928127461
+      tileset-grassland-props_3: 2287270144999717020
+      tileset-grassland-props_4: -901739701798525973
+      tileset-grassland-props_5: 1308608811296759188
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
