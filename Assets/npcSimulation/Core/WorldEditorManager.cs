@@ -1,7 +1,7 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.Networking; // [ÇÊ¼ö] ÀÌ¹ÌÁö ´Ù¿î·Îµå¿ë
-using System.Collections;       // [ÇÊ¼ö] ÄÚ·çÆ¾¿ë
+using UnityEngine.Networking; // [í•„ìˆ˜] ì´ë¯¸ì§€ ë‹¤ìš´ë¡œë“œìš©
+using System.Collections;       // [í•„ìˆ˜] ì½”ë£¨í‹´ìš©
 using UnityEngine.EventSystems;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,8 +13,8 @@ public class WorldEditorManager : MonoBehaviour
     public static WorldEditorManager Instance { get; private set; }
 
     [Header("OpenAI Settings")]
-    [Tooltip("ÀÌ¹ÌÁö »ı¼ºÀ» À§ÇÑ API Key¸¦ ¿©±â¿¡ ÀÔ·ÂÇÏ¼¼¿ä")]
-    public string openAIKey = ""; // [Áß¿ä] ÀÎ½ºÆåÅÍ¿¡¼­ Å°¸¦ ÀÔ·ÂÇØ¾ß ÇÕ´Ï´Ù!
+    [Tooltip("ì´ë¯¸ì§€ ìƒì„±ì„ ìœ„í•œ API Keyë¥¼ ì—¬ê¸°ì— ì…ë ¥í•˜ì„¸ìš”")]
+    public string openAIKey = ""; // [ì¤‘ìš”] ì¸ìŠ¤í™í„°ì—ì„œ í‚¤ë¥¼ ì…ë ¥í•´ì•¼ í•©ë‹ˆë‹¤!
 
     [Header("UI Panels")]
     public GameObject worldEditorPanel;
@@ -36,7 +36,7 @@ public class WorldEditorManager : MonoBehaviour
 
     [Header("Object UI (TMP)")]
     public TMP_InputField objectNameInputField;
-    public TMP_InputField objectTypeInputField; // [Ãß°¡] Å¸ÀÔ ÀÔ·Â ÇÊµå
+    public TMP_InputField objectTypeInputField; // [ì¶”ê°€] íƒ€ì… ì…ë ¥ í•„ë“œ
     public TMP_InputField objectStateInputField;
     public Image objectSpritePreview;
     public TMP_Dropdown objectSpriteDropdown;
@@ -58,7 +58,7 @@ public class WorldEditorManager : MonoBehaviour
     public Color normalColor = Color.white;
     public bool showModeOutlines = true;
 
-    // --- »óÅÂ º¯¼ö ---
+    // --- ìƒíƒœ ë³€ìˆ˜ ---
     public enum EditorMode { Default, AreaEdit, ObjectEdit }
     public enum ManipulationMode { None, Move, Resize_TopLeft, Resize_TopRight, Resize_BottomLeft, Resize_BottomRight }
 
@@ -71,17 +71,17 @@ public class WorldEditorManager : MonoBehaviour
     private List<Sprite> availableSprites = new List<Sprite>();
     private Sprite selectedNewSprite = null;
 
-    // µå·¡±×/¸®»çÀÌÂ¡ °ü·Ã
+    // ë“œë˜ê·¸/ë¦¬ì‚¬ì´ì§• ê´€ë ¨
     private Vector3 startMousePos;
     private Vector3 startObjectPos;
     private Bounds startBounds;
     private List<GameObject> activeHandles = new List<GameObject>();
 
-    // Ä³½Ì¿ë ¸®½ºÆ®
+    // ìºì‹±ìš© ë¦¬ìŠ¤íŠ¸
     private List<WorldArea> cachedAreas = new List<WorldArea>();
     private List<WorldObject> cachedObjects = new List<WorldObject>();
 
-    // OpenAI Å¬¶óÀÌ¾ğÆ® (ÀÌ¹ÌÁö »ı¼º¿ë)
+    // OpenAI í´ë¼ì´ì–¸íŠ¸ (ì´ë¯¸ì§€ ìƒì„±ìš©)
     private OpenAIClient editorClient;
 
     private void Awake()
@@ -106,11 +106,11 @@ public class WorldEditorManager : MonoBehaviour
         HandleInput();
     }
 
-    // --- ÃÊ±âÈ­ ¹× UI ¼³Á¤ ---
+    // --- ì´ˆê¸°í™” ë° UI ì„¤ì • ---
     private void LoadAvailableSprites()
     {
         availableSprites = Resources.LoadAll<Sprite>(spritesFolderPath).ToList();
-        Debug.Log($"[WorldEditor] '{spritesFolderPath}'¿¡¼­ ½ºÇÁ¶óÀÌÆ® {availableSprites.Count}°³¸¦ ·ÎµåÇß½À´Ï´Ù.");
+        Debug.Log($"[WorldEditor] '{spritesFolderPath}'ì—ì„œ ìŠ¤í”„ë¼ì´íŠ¸ {availableSprites.Count}ê°œë¥¼ ë¡œë“œí–ˆìŠµë‹ˆë‹¤.");
 
         objectSpriteDropdown.ClearOptions();
         List<string> options = new List<string> { "None" };
@@ -122,23 +122,23 @@ public class WorldEditorManager : MonoBehaviour
 
     private void InitUI()
     {
-        // ¸ğµå ¹öÆ°
+        // ëª¨ë“œ ë²„íŠ¼
         toggleAreaEditButton.onClick.AddListener(() => SetEditorMode(EditorMode.AreaEdit));
         toggleObjectEditButton.onClick.AddListener(() => SetEditorMode(EditorMode.ObjectEdit));
         toggleDefaultModeButton.onClick.AddListener(() => SetEditorMode(EditorMode.Default));
 
-        // »ı¼º/»èÁ¦ ¹öÆ°
+        // ìƒì„±/ì‚­ì œ ë²„íŠ¼
         createAreaButton.onClick.AddListener(OnCreateAreaClicked);
         deleteAreaButton.onClick.AddListener(OnDeleteAreaClicked);
         createObjectButton.onClick.AddListener(OnCreateObjectClicked);
         deleteObjectButton.onClick.AddListener(OnDeleteObjectClicked);
         generateImageButton.onClick.AddListener(OnGenerateImageClicked);
 
-        // [Ãß°¡] ÀÔ·Â ÇÊµå ½Ç½Ã°£ ¹İ¿µ ÀÌº¥Æ®
+        // [ì¶”ê°€] ì…ë ¥ í•„ë“œ ì‹¤ì‹œê°„ ë°˜ì˜ ì´ë²¤íŠ¸
         if (objectStateInputField != null)
         {
             objectStateInputField.onEndEdit.AddListener((val) => {
-                if (selectedObject != null) selectedObject.UpdateState(val); // »óÅÂ ¾÷µ¥ÀÌÆ®
+                if (selectedObject != null) selectedObject.UpdateState(val); // ìƒíƒœ ì—…ë°ì´íŠ¸
             });
         }
         if (objectNameInputField != null)
@@ -156,10 +156,10 @@ public class WorldEditorManager : MonoBehaviour
         RefreshLists();
     }
 
-    // --- ¸ğµå °ü¸® ---
+    // --- ëª¨ë“œ ê´€ë¦¬ ---
     public void SetEditorMode(EditorMode mode)
     {
-        Debug.Log($"[WorldEditor] ¸ğµå º¯°æ: {currentMode} -> {mode}");
+        Debug.Log($"[WorldEditor] ëª¨ë“œ ë³€ê²½: {currentMode} -> {mode}");
         currentMode = mode;
         DeselectAll();
 
@@ -178,7 +178,7 @@ public class WorldEditorManager : MonoBehaviour
         cachedAreas.Clear();
         cachedObjects.Clear();
 
-        // Area ¸ñ·Ï °»½Å
+        // Area ëª©ë¡ ê°±ì‹ 
         foreach (Transform t in areaListContent) Destroy(t.gameObject);
         var areas = FindObjectsOfType<WorldArea>();
         cachedAreas.AddRange(areas);
@@ -192,7 +192,7 @@ public class WorldEditorManager : MonoBehaviour
             item.GetComponent<Button>().onClick.AddListener(() => SelectTarget(area.GetComponent<Collider2D>()));
         }
 
-        // Object ¸ñ·Ï °»½Å
+        // Object ëª©ë¡ ê°±ì‹ 
         foreach (Transform t in objectListContent) Destroy(t.gameObject);
         var objects = FindObjectsOfType<WorldObject>();
         cachedObjects.AddRange(objects);
@@ -207,7 +207,7 @@ public class WorldEditorManager : MonoBehaviour
         }
     }
 
-    // --- ½Ã°¢Àû ÇÇµå¹é ---
+    // --- ì‹œê°ì  í”¼ë“œë°± ---
     private void DrawEditorModeOutlines()
     {
         if (!showModeOutlines) return;
@@ -237,7 +237,7 @@ public class WorldEditorManager : MonoBehaviour
         Debug.DrawLine(p1, p2, c); Debug.DrawLine(p2, p3, c); Debug.DrawLine(p3, p4, c); Debug.DrawLine(p4, p1, c);
     }
 
-    // --- ÀÔ·Â Ã³¸® ---
+    // --- ì…ë ¥ ì²˜ë¦¬ ---
     private void HandleInput()
     {
         if (EventSystem.current.IsPointerOverGameObject()) return;
@@ -248,7 +248,7 @@ public class WorldEditorManager : MonoBehaviour
         {
             startMousePos = mousePos;
 
-            // 1. ÇÚµé Å¬¸¯
+            // 1. í•¸ë“¤ í´ë¦­
             GameObject hitHandle = CheckHandleClick(mousePos);
             if (hitHandle != null)
             {
@@ -262,7 +262,7 @@ public class WorldEditorManager : MonoBehaviour
                 }
             }
 
-            // 2. °´Ã¼ Å¬¸¯
+            // 2. ê°ì²´ í´ë¦­
             Collider2D hitCol = Physics2D.OverlapPoint(mousePos, clickableLayer);
             if (hitCol != null)
             {
@@ -297,7 +297,7 @@ public class WorldEditorManager : MonoBehaviour
         }
     }
 
-    // --- ÀÌµ¿ ¹× ¸®»çÀÌÂ¡ ---
+    // --- ì´ë™ ë° ë¦¬ì‚¬ì´ì§• ---
     private void MoveTarget(Vector3 currentMousePos)
     {
         Vector3 delta = currentMousePos - startMousePos;
@@ -354,11 +354,11 @@ public class WorldEditorManager : MonoBehaviour
 
         if (targetTr.TryGetComponent<SpriteRenderer>(out SpriteRenderer sr))
         {
-            sr.size = bounds.size; // Sliced ¸ğµå °¡Á¤
+            sr.size = bounds.size; // Sliced ëª¨ë“œ ê°€ì •
         }
     }
 
-    // --- ¼±ÅÃ ¹× ÇÚµé °ü¸® ---
+    // --- ì„ íƒ ë° í•¸ë“¤ ê´€ë¦¬ ---
     private void SelectTarget(Collider2D col)
     {
         DeselectAll();
@@ -379,7 +379,7 @@ public class WorldEditorManager : MonoBehaviour
             if (objectNameInputField != null) objectNameInputField.text = obj.objectName;
             if (objectTypeInputField != null) objectTypeInputField.text = obj.objectType;
 
-            // [¼öÁ¤] State ºÒ·¯¿À±â
+            // [ìˆ˜ì •] State ë¶ˆëŸ¬ì˜¤ê¸°
             if (objectStateInputField != null) objectStateInputField.text = obj.objectState;
 
             Highlight(obj.transform, true);
@@ -400,7 +400,7 @@ public class WorldEditorManager : MonoBehaviour
         if (objectNameInputField != null) objectNameInputField.text = "";
         if (objectTypeInputField != null) objectTypeInputField.text = "";
         
-        // [¼öÁ¤] State UI ÃÊ±âÈ­
+        // [ìˆ˜ì •] State UI ì´ˆê¸°í™”
         if (objectStateInputField != null) objectStateInputField.text = "";
     }
 
@@ -452,12 +452,12 @@ public class WorldEditorManager : MonoBehaviour
         return null;
     }
 
-    // --- »ı¼º ·ÎÁ÷ ---
+    // --- ìƒì„± ë¡œì§ ---
     private void OnCreateAreaClicked()
     {
         createAreaButton.interactable = false;
         DeselectAll();
-        Debug.Log("[WorldEditor] Area »ı¼º ¸ğµå ½ÃÀÛ");
+        Debug.Log("[WorldEditor] Area ìƒì„± ëª¨ë“œ ì‹œì‘");
     }
 
     private void FinishCreatingArea(Vector3 start, Vector3 end)
@@ -485,14 +485,14 @@ public class WorldEditorManager : MonoBehaviour
 
         RefreshLists();
         SelectTarget(col);
-        Debug.Log($"[WorldEditor] Area »ı¼º ¿Ï·á: {go.name}");
+        Debug.Log($"[WorldEditor] Area ìƒì„± ì™„ë£Œ: {go.name}");
     }
 
     private void OnCreateObjectClicked()
     {
         createObjectButton.interactable = false;
         DeselectAll();
-        Debug.Log("[WorldEditor] Object »ı¼º ¸ğµå ½ÃÀÛ");
+        Debug.Log("[WorldEditor] Object ìƒì„± ëª¨ë“œ ì‹œì‘");
     }
 
     private void FinishCreatingObject(Vector3 pos)
@@ -502,7 +502,7 @@ public class WorldEditorManager : MonoBehaviour
         GameObject go = new GameObject("New Object");
         go.transform.position = pos;
 
-        // [¼öÁ¤] ¼ø¼­ Áß¿ä: Collider -> WorldObject
+        // [ìˆ˜ì •] ìˆœì„œ ì¤‘ìš”: Collider -> WorldObject
         var col = go.AddComponent<BoxCollider2D>();
 
         var obj = go.AddComponent<WorldObject>();
@@ -518,8 +518,8 @@ public class WorldEditorManager : MonoBehaviour
         go.layer = LayerMask.NameToLayer("Clickable");
 
         RefreshLists();
-        SelectTarget(col); // »ı¼º ÈÄ ¹Ù·Î ¼±ÅÃÇÏ¿© ¼Ó¼º Ãß°¡ °¡´ÉÇÏ°Ô ÇÔ
-        Debug.Log($"[WorldEditor] Object »ı¼º ¿Ï·á: {go.name}");
+        SelectTarget(col); // ìƒì„± í›„ ë°”ë¡œ ì„ íƒí•˜ì—¬ ì†ì„± ì¶”ê°€ ê°€ëŠ¥í•˜ê²Œ í•¨
+        Debug.Log($"[WorldEditor] Object ìƒì„± ì™„ë£Œ: {go.name}");
     }
 
     private void OnDeleteAreaClicked()
@@ -542,7 +542,7 @@ public class WorldEditorManager : MonoBehaviour
         }
     }
 
-    // --- ±âÅ¸ ---
+    // --- ê¸°íƒ€ ---
     private void OnSpriteDropdownChanged(int index)
     {
         if (index > 0 && index <= availableSprites.Count)
@@ -576,7 +576,7 @@ public class WorldEditorManager : MonoBehaviour
     }
 
     // ============================================================
-    // [»õ·Î ±¸ÇöµÈ ÀÌ¹ÌÁö »ı¼º ºÎºĞ]
+    // [ìƒˆë¡œ êµ¬í˜„ëœ ì´ë¯¸ì§€ ìƒì„± ë¶€ë¶„]
     // ============================================================
 
     private void OnGenerateImageClicked()
@@ -584,39 +584,39 @@ public class WorldEditorManager : MonoBehaviour
         string prompt = imagePromptInputField.text.Trim();
         if (string.IsNullOrEmpty(prompt))
         {
-            Debug.LogWarning("ÀÌ¹ÌÁö »ı¼ºÀ» À§ÇÑ ÇÁ·ÒÇÁÆ®¸¦ ÀÔ·ÂÇØÁÖ¼¼¿ä.");
+            Debug.LogWarning("ì´ë¯¸ì§€ ìƒì„±ì„ ìœ„í•œ í”„ë¡¬í”„íŠ¸ë¥¼ ì…ë ¥í•´ì£¼ì„¸ìš”.");
             return;
         }
 
         if (editorClient == null)
         {
-            // Å°°¡ ¾øÀ¸¸é ·±Å¸ÀÓ¿¡ Ã£°Å³ª »õ·Î »ı¼º ½Ãµµ
+            // í‚¤ê°€ ì—†ìœ¼ë©´ ëŸ°íƒ€ì„ì— ì°¾ê±°ë‚˜ ìƒˆë¡œ ìƒì„± ì‹œë„
             if (!string.IsNullOrEmpty(openAIKey))
                 editorClient = new OpenAIClient(openAIKey);
             else
             {
-                Debug.LogError("OpenAI API Key°¡ ¼³Á¤µÇÁö ¾Ê¾Ò½À´Ï´Ù. WorldEditorManagerÀÇ Inspector¸¦ È®ÀÎÇØÁÖ¼¼¿ä.");
+                Debug.LogError("OpenAI API Keyê°€ ì„¤ì •ë˜ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤. WorldEditorManagerì˜ Inspectorë¥¼ í™•ì¸í•´ì£¼ì„¸ìš”.");
                 return;
             }
         }
 
-        // UI ºñÈ°¼ºÈ­ (Áßº¹ Å¬¸¯ ¹æÁö)
+        // UI ë¹„í™œì„±í™” (ì¤‘ë³µ í´ë¦­ ë°©ì§€)
         generateImageButton.interactable = false;
-        Debug.Log($"[WorldEditor] ÀÌ¹ÌÁö »ı¼º ¿äÃ» Áß... Prompt: {prompt}");
+        Debug.Log($"[WorldEditor] ì´ë¯¸ì§€ ìƒì„± ìš”ì²­ ì¤‘... Prompt: {prompt}");
 
-        // ÇÈ¼¿ ¾ÆÆ® ½ºÅ¸ÀÏ ÀÚµ¿ Ãß°¡ (¼±ÅÃ »çÇ×)
+        // í”½ì…€ ì•„íŠ¸ ìŠ¤íƒ€ì¼ ìë™ ì¶”ê°€ (ì„ íƒ ì‚¬í•­)
         string fullPrompt = prompt + ", pixel art style, top-down view, white background, game asset";
 
         StartCoroutine(editorClient.GenerateImage(fullPrompt, (url) =>
         {
             if (!string.IsNullOrEmpty(url))
             {
-                Debug.Log($"[WorldEditor] ÀÌ¹ÌÁö URL ¼ö½Å ¿Ï·á. ´Ù¿î·Îµå ½ÃÀÛ...");
+                Debug.Log($"[WorldEditor] ì´ë¯¸ì§€ URL ìˆ˜ì‹  ì™„ë£Œ. ë‹¤ìš´ë¡œë“œ ì‹œì‘...");
                 StartCoroutine(DownloadAndCreateSprite(url));
             }
             else
             {
-                Debug.LogError("[WorldEditor] ÀÌ¹ÌÁö »ı¼º ½ÇÆĞ (URL ¾øÀ½)");
+                Debug.LogError("[WorldEditor] ì´ë¯¸ì§€ ìƒì„± ì‹¤íŒ¨ (URL ì—†ìŒ)");
                 generateImageButton.interactable = true;
             }
         }, size: "1024x1024", quality: "standard"));
@@ -632,39 +632,39 @@ public class WorldEditorManager : MonoBehaviour
             {
                 Texture2D texture = DownloadHandlerTexture.GetContent(www);
 
-                // [Áß¿ä] ÇÈ¼¿ ¾ÆÆ®¿ë ÇÊÅÍ ¼³Á¤
+                // [ì¤‘ìš”] í”½ì…€ ì•„íŠ¸ìš© í•„í„° ì„¤ì •
                 texture.filterMode = FilterMode.Point;
 
-                // ½ºÇÁ¶óÀÌÆ® »ı¼º (Áß½ÉÁ¡ 0.5, 0.5 / 32 PPU)
-                // DALL-E´Â 1024pxÀÌ¹Ç·Î PPU¸¦ Á¶ÀıÇÏ°Å³ª ÅØ½ºÃ³¸¦ ¸®»çÀÌÂ¡ÇØ¾ß ÇÏÁö¸¸,
-                // ÀÏ´Ü ±×´ë·Î »ı¼º ÈÄ ¿¡µğÅÍ¿¡¼­ Å©±â¸¦ ÁÙÀÌ´Â ¹æ½ÄÀ» »ç¿ëÇÕ´Ï´Ù.
+                // ìŠ¤í”„ë¼ì´íŠ¸ ìƒì„± (ì¤‘ì‹¬ì  0.5, 0.5 / 32 PPU)
+                // DALL-EëŠ” 1024pxì´ë¯€ë¡œ PPUë¥¼ ì¡°ì ˆí•˜ê±°ë‚˜ í…ìŠ¤ì²˜ë¥¼ ë¦¬ì‚¬ì´ì§•í•´ì•¼ í•˜ì§€ë§Œ,
+                // ì¼ë‹¨ ê·¸ëŒ€ë¡œ ìƒì„± í›„ ì—ë””í„°ì—ì„œ í¬ê¸°ë¥¼ ì¤„ì´ëŠ” ë°©ì‹ì„ ì‚¬ìš©í•©ë‹ˆë‹¤.
                 Sprite newSprite = Sprite.Create(
                     texture,
                     new Rect(0, 0, texture.width, texture.height),
                     new Vector2(0.5f, 0.5f),
-                    100 // PPU (±âº» 100)
+                    100 // PPU (ê¸°ë³¸ 100)
                 );
                 newSprite.name = "Generated_" + System.DateTime.Now.ToString("HHmmss");
 
-                // »ı¼ºµÈ ½ºÇÁ¶óÀÌÆ® ¼±ÅÃ
+                // ìƒì„±ëœ ìŠ¤í”„ë¼ì´íŠ¸ ì„ íƒ
                 selectedNewSprite = newSprite;
                 objectSpritePreview.sprite = newSprite;
 
-                // ¸¸¾à ÇöÀç ¼±ÅÃµÈ ¿ÀºêÁ§Æ®°¡ ÀÖ´Ù¸é ¹Ù·Î Àû¿ë
+                // ë§Œì•½ í˜„ì¬ ì„ íƒëœ ì˜¤ë¸Œì íŠ¸ê°€ ìˆë‹¤ë©´ ë°”ë¡œ ì ìš©
                 if (selectedObject != null)
                 {
                     var sr = selectedObject.GetComponent<SpriteRenderer>();
                     sr.sprite = newSprite;
                     sr.drawMode = SpriteDrawMode.Sliced;
-                    // Å©±â ÀçÁ¶Á¤ (Äİ¶óÀÌ´õ Æ÷ÇÔ)
+                    // í¬ê¸° ì¬ì¡°ì • (ì½œë¼ì´ë” í¬í•¨)
                     selectedObject.RefreshVisuals();
                 }
 
-                Debug.Log("[WorldEditor] ÀÌ¹ÌÁö »ı¼º ¹× Àû¿ë ¿Ï·á!");
+                Debug.Log("[WorldEditor] ì´ë¯¸ì§€ ìƒì„± ë° ì ìš© ì™„ë£Œ!");
             }
             else
             {
-                Debug.LogError($"[WorldEditor] ÀÌ¹ÌÁö ´Ù¿î·Îµå ½ÇÆĞ: {www.error}");
+                Debug.LogError($"[WorldEditor] ì´ë¯¸ì§€ ë‹¤ìš´ë¡œë“œ ì‹¤íŒ¨: {www.error}");
             }
 
             generateImageButton.interactable = true;

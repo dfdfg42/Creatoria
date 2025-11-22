@@ -1,6 +1,6 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 
-// ÇÚµé ÇÁ¸®ÆÕ¿¡ ÀÌ ½ºÅ©¸³Æ®¸¦ ºÙ¿©ÁÖ¼¼¿ä.
+// í•¸ë“¤ í”„ë¦¬íŒ¹ì— ì´ ìŠ¤í¬ë¦½íŠ¸ë¥¼ ë¶™ì—¬ì£¼ì„¸ìš”.
 public class EditorResizeHandle : MonoBehaviour
 {
     public WorldEditorManager.ManipulationMode handleType;
