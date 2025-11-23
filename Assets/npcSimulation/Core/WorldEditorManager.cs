@@ -58,6 +58,11 @@ public class WorldEditorManager : MonoBehaviour
     public Color normalColor = Color.white;
     public bool showModeOutlines = true;
 
+    [Header("Grid Settings")]
+    public bool useGridSnap = true;      // 그리드 스냅 사용 여부
+    public float gridSize = 1.0f;        // 그리드 한 칸의 크기 (보통 1 또는 0.5)
+    public bool snapSizeToGrid = true;   // 크기 조절도 그리드에 맞출지 여부
+
     // --- 상태 변수 ---
     public enum EditorMode { Default, AreaEdit, ObjectEdit }
     public enum ManipulationMode { None, Move, Resize_TopLeft, Resize_TopRight, Resize_BottomLeft, Resize_BottomRight }
@@ -300,15 +305,24 @@ public class WorldEditorManager : MonoBehaviour
     // --- 이동 및 리사이징 ---
     private void MoveTarget(Vector3 currentMousePos)
     {
+        // 1. 원래 이동 로직 (델타 값 계산)
         Vector3 delta = currentMousePos - startMousePos;
+        Vector3 targetPos = startObjectPos + delta;
+
+        // 2. [수정] 스냅 적용
+        if (useGridSnap)
+        {
+            targetPos = GetSnappedPosition(targetPos);
+        }
+
         if (selectedArea != null)
         {
-            selectedArea.transform.position = startObjectPos + delta;
+            selectedArea.transform.position = targetPos;
             UpdateHandles(selectedArea.GetComponent<BoxCollider2D>().bounds);
         }
         else if (selectedObject != null)
         {
-            selectedObject.transform.position = startObjectPos + delta;
+            selectedObject.transform.position = targetPos;
             UpdateHandles(selectedObject.GetComponent<Collider2D>().bounds);
         }
     }
@@ -669,5 +683,31 @@ public class WorldEditorManager : MonoBehaviour
 
             generateImageButton.interactable = true;
         }
+    }
+
+    // 입력받은 위치를 가장 가까운 그리드 좌표로 반환
+    private Vector3 GetSnappedPosition(Vector3 originalPos)
+    {
+        if (!useGridSnap) return originalPos;
+
+        float x = Mathf.Round(originalPos.x / gridSize) * gridSize;
+        float y = Mathf.Round(originalPos.y / gridSize) * gridSize;
+
+        // 타일 중심에 맞추고 싶다면 아래처럼 오프셋이 필요할 수 있습니다. 
+        // (예: 타일이 (0,0)이 아니라 (0.5, 0.5)가 중심인 경우)
+        // return new Vector3(x + (gridSize * 0.5f), y + (gridSize * 0.5f), 0);
+
+        return new Vector3(x, y, 0);
+    }
+
+    // 입력받은 크기(마우스 좌표)를 그리드 단위로 반환 (리사이징용)
+    private Vector3 GetSnappedMousePosForResize(Vector3 mousePos)
+    {
+        if (!useGridSnap || !snapSizeToGrid) return mousePos;
+
+        float x = Mathf.Round(mousePos.x / gridSize) * gridSize;
+        float y = Mathf.Round(mousePos.y / gridSize) * gridSize;
+
+        return new Vector3(x, y, 0);
     }
 }
