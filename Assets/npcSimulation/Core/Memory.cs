@@ -25,7 +25,10 @@ namespace NPCSimulation.Core
             this.type = type;
             this.description = description;
             this.importance = importance;
-            this.timestamp = DateTime.Now;
+            if (WorldTimeManager.Instance != null)
+                this.timestamp = WorldTimeManager.Instance.CurrentTime;
+            else
+                this.timestamp = DateTime.Now; // fallback
             this.embedding = embedding;
             this.keywords = keywords ?? new List<string>();
             this.evidenceIds = evidenceIds ?? new List<string>();
@@ -36,7 +39,8 @@ namespace NPCSimulation.Core
         /// </summary>
         public float GetRecencyScore(float decayRate = 0.99f)
         {
-            TimeSpan elapsed = DateTime.Now - timestamp;
+            DateTime now = (WorldTimeManager.Instance != null) ? WorldTimeManager.Instance.CurrentTime : DateTime.Now;
+            TimeSpan elapsed = now - timestamp;
             int hoursElapsed = (int)elapsed.TotalHours;
             return Mathf.Pow(decayRate, hoursElapsed);
         }

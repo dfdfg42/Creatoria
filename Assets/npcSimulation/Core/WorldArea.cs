@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 namespace NPCSimulation.Core
@@ -31,6 +32,10 @@ namespace NPCSimulation.Core
         {
             // 자동으로 구역 내 오브젝트 탐지
             RefreshObjectsInArea();
+            Debug.Log(
+                $"[WorldArea] {GetFullName()} has {objectsInArea.Count} objects: " +
+                string.Join(", ", objectsInArea.Select(o => o?.objectName))
+            );
         }
         
         /// <summary>

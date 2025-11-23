@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Linq;
 
 namespace NPCSimulation.Core
 {
@@ -20,7 +21,7 @@ namespace NPCSimulation.Core
 
         [Header("자율 행동 설정")]
         public bool enableAutonomousBehavior = true;
-        public float autonomousUpdateInterval = 60f; // 60초마다 업데이트
+        public float autonomousUpdateInterval = 5f; // 60초마다 업데이트
 
         // 컴포넌트들
         private OpenAIClient llmClient;
@@ -241,226 +242,149 @@ namespace NPCSimulation.Core
 
         #region Autonomous Behavior
 
-        /// <summary>
-        /// 자율 행동 업데이트
-        /// </summary>
+        // 상태 변수 추가
+        private bool isDecomposing = false;
+        private float currentActionTimer = 0f;
+
         private void AutonomousUpdate()
         {
-            if (IsInteractingWithPlayer)
-            {
-                Debug.Log("[NPCAgent] Skipping autonomous update (interacting with player)");
-                return;
-            }
+            if (IsInteractingWithPlayer || Planner.IsPlanningInProgress || isDecomposing) return;
 
-            Debug.Log("[NPCAgent] Performing autonomous update...");
+            DateTime currentTime = WorldTimeManager.Instance.CurrentTime;
 
-            // 현재 시간 기준으로 계획 확인
-            DateTime currentTime = DateTime.Now;
-
-            // 재계획 필요 여부 확인
+            // 1. [High-Level] 일일 계획 갱신 체크 (기존 로직)
             if (Planner.ShouldReplan(currentTime))
             {
-                Debug.Log("[NPCAgent] 새로운 일일 계획이 필요합니다. 계획 생성을 시작합니다...");
                 Planner.CreateNewDailyPlan(currentTime, this);
-                return; // 계획이 생성되는 동안은 이동하지 않음
-            }
-            
-            // 계획 생성 중이면 이동하지 않음
-            if (Planner.IsPlanningInProgress)
-            {
-                Debug.Log("[NPCAgent] 계획 생성 중입니다. 완료될 때까지 대기합니다...");
                 return;
             }
-            
-            // 계획이 준비되지 않았으면 이동하지 않음
-            if (!Planner.IsPlanReady)
+            if (!Planner.IsPlanReady) return;
+
+            // 2. [Sub-Level] 현재 실행 중인 세부 행동(Sub-Action)이 있는지 확인
+            if (currentActionTimer > 0)
             {
-                Debug.Log("[NPCAgent] 계획이 아직 준비되지 않았습니다.");
+                // 행동 진행 중... 타이머 감소
+                currentActionTimer -= autonomousUpdateInterval; // interval(초) 만큼 감소
                 return;
             }
 
-            // 현재 활동 확인
-            PlanItem currentActivity = Planner.GetCurrentActivity(currentTime);
-            if (currentActivity != null)
+            // 3. 다음 세부 행동 가져오기
+            SubPlanItem nextSubAction = Planner.GetNextSubAction();
+
+            if (nextSubAction != null)
             {
-                Debug.Log($"[NPCAgent] 📅 Current activity: {currentActivity.activity} @ {currentActivity.location}");
-                
-                // 이미 목표 장소에 있는지 확인
-                NPCMovement movement = GetComponent<NPCMovement>();
-                if (movement != null && movement.currentArea != null)
-                {
-                    string currentAreaName = movement.currentArea.GetFullName();
-                    if (currentAreaName.Equals(currentActivity.location, System.StringComparison.OrdinalIgnoreCase) ||
-                        movement.currentArea.areaName.Equals(currentActivity.location, System.StringComparison.OrdinalIgnoreCase))
-                    {
-                        Debug.Log($"[NPCAgent] ✅ Already at target location: {currentAreaName}");
-                        
-                        // 위치 업데이트
-                        CurrentLocation = currentActivity.location;
-                        
-                        // 🆕 GameObject 선택 및 상호작용 (논문 방식)
-                        if (string.IsNullOrEmpty(currentActivity.targetObject))
-                        {
-                            // AI가 활동에 맞는 오브젝트 자동 선택
-                            StartCoroutine(SelectAndInteractWithObject(currentActivity, movement.currentArea));
-                        }
-                        else
-                        {
-                            // 계획에 이미 오브젝트가 지정되어 있으면 바로 사용
-                            WorldObject targetObj = movement.currentArea.FindObjectByName(currentActivity.targetObject);
-                            if (targetObj != null)
-                            {
-                                InteractWithObject(targetObj, (success) =>
-                                {
-                                    Debug.Log($"[NPCAgent] Interaction with {targetObj.objectName}: {(success ? "Success" : "Failed")}");
-                                });
-                            }
-                        }
-                        
-                        // 메모리에 활동 기록 (첫 진입 시만)
-                        if (!string.IsNullOrEmpty(currentActivity.activity))
-                        {
-                            MemoryMgr.AddMemory(
-                                MemoryType.Event,
-                                $"나는 {currentActivity.location}에서 '{currentActivity.activity}' 활동을 하고 있다.",
-                                6,
-                                this
-                            );
-                        }
-                        return;
-                    }
-                }
-                
-                // 목표 장소로 이동
-                Debug.Log($"[NPCAgent] 🚶 Moving to: {currentActivity.location}");
-                CurrentLocation = currentActivity.location;
-                
-                if (movement != null)
-                {
-                    movement.MoveToArea(currentActivity.location, () =>
-                    {
-                        Debug.Log($"[NPCAgent] ✅ Arrived at {currentActivity.location}, starting activity: {currentActivity.activity}");
-                        
-                        // 도착 후 GameObject 선택 및 상호작용
-                        if (string.IsNullOrEmpty(currentActivity.targetObject))
-                        {
-                            StartCoroutine(SelectAndInteractWithObject(currentActivity, movement.currentArea));
-                        }
-                        else
-                        {
-                            WorldObject targetObj = movement.currentArea.FindObjectByName(currentActivity.targetObject);
-                            if (targetObj != null)
-                            {
-                                InteractWithObject(targetObj, null);
-                            }
-                        }
-                        
-                        // 메모리에 활동 기록
-                        MemoryMgr.AddMemory(
-                            MemoryType.Event,
-                            $"나는 {currentActivity.location}에 도착해서 '{currentActivity.activity}' 활동을 시작했다.",
-                            7,
-                            this
-                        );
-                    });
-                }
-                else
-                {
-                    Debug.LogWarning("[NPCAgent] ⚠️ NPCMovement component not found!");
-                }
+                // 세부 행동 실행 시작
+                ExecuteSubAction(nextSubAction);
             }
             else
             {
-                Debug.LogWarning($"[NPCAgent] ⚠️ No activity found for current time: {currentTime:HH:mm}");
+                // 큐가 비었음 -> 현재 시간의 High-Level 계획을 가져와서 분해(Decompose) 요청
+                PlanItem currentActivity = Planner.GetCurrentActivity(currentTime);
+                if (currentActivity != null)
+                {
+                    // 이미 해당 장소에 있는지 확인 후 이동 or 분해
+                    if (CurrentLocation != currentActivity.location)
+                    {
+                        // 장소 이동 먼저
+                        MoveToLocation(currentActivity.location);
+                    }
+                    else
+                    {
+                        // 장소 도착 완료 -> 분해 시작
+                        isDecomposing = true;
+                        Planner.DecomposeCurrentActivity(currentActivity, this, () =>
+                        {
+                            isDecomposing = false;
+                            // 완료되면 다음 틱에 큐에서 꺼내서 실행됨
+                        });
+                    }
+                }
             }
         }
-        
-        /// <summary>
-        /// 활동에 맞는 GameObject를 AI로 선택하고 상호작용 (논문 방식)
-        /// </summary>
-        private IEnumerator SelectAndInteractWithObject(PlanItem activity, WorldArea currentArea)
+
+        private void ExecuteSubAction(SubPlanItem subItem)
         {
-            if (currentArea == null || currentArea.objectsInArea.Count == 0)
-            {
-                Debug.Log($"[NPCAgent] No objects in {currentArea?.GetFullName() ?? "current area"}");
-                yield break;
-            }
-            
-            Debug.Log($"[NPCAgent] 🔍 Selecting object for activity: {activity.activity}");
-            
-            // 현재 Area의 오브젝트 목록
-            List<string> availableObjects = new List<string>();
-            foreach (var obj in currentArea.objectsInArea)
-            {
-                availableObjects.Add($"{obj.objectName} ({obj.objectType})");
-            }
-            string objectsStr = string.Join(", ", availableObjects);
-            
-            // AI에게 오브젝트 선택 요청
-            string prompt = $@"
-### Current Activity ###
-{activity.activity}
+            Debug.Log($"[NPCAgent] ▶ Performing Sub-Action: {subItem.emoji} {subItem.description} ({subItem.durationMin}m)");
 
-### Available Objects in {currentArea.GetFullName()} ###
-{objectsStr}
+            // 타이머 설정 (게임 시간 vs 현실 시간 조절 필요. 여기선 간단히 1분=1초로 가정하거나 interval 비례)
+            currentActionTimer = subItem.durationMin * 1.0f; // 테스트용: 분 * 1초
 
-### Task ###
-Which object should be used for this activity?
-Answer with ONLY the object name (without type).
-If no object is needed, answer ""none"".
+            // 메모리 기록
+            MemoryMgr.AddMemory(MemoryType.Event, $"나는 {CurrentLocation}에서 '{subItem.description}' 행동을 시작했다.", 4, this);
 
-Answer:";
 
-            string selectedObjectName = "";
-            yield return llmClient.GetChatCompletion(prompt, (response) =>
+            // 오브젝트 상호작용이 명시된 경우
+            if (!string.IsNullOrEmpty(subItem.targetObject)) 
             {
-                selectedObjectName = response.Trim().ToLower();
-                Debug.Log($"[NPCAgent] AI selected object: {selectedObjectName}");
-            }, temperature: 0.3f, maxTokens: 30);
-            
-            if (selectedObjectName == "none" || string.IsNullOrEmpty(selectedObjectName))
-            {
-                Debug.Log("[NPCAgent] No object needed for this activity");
-                yield break;
-            }
-            
-            // 선택된 오브젝트 찾기
-            WorldObject targetObject = null;
-            foreach (var obj in currentArea.objectsInArea)
-            {
-                if (obj.objectName.ToLower().Contains(selectedObjectName) || 
-                    selectedObjectName.Contains(obj.objectName.ToLower()))
+                Debug.Log($"오브젝트 상호작용 하러왔음 ");
+                // 현재 구역에서 오브젝트 찾기
+                // (이전에 구현한 InteractWithObject 로직 활용)
+                var currentArea = FindObjectsOfType<WorldArea>().FirstOrDefault(a => a.GetFullName() == CurrentLocation);
+                if (currentArea != null)
                 {
-                    targetObject = obj;
-                    break;
+                    var targetObj = currentArea.FindObjectByName(subItem.targetObject);
+                    if (targetObj != null)
+                    {
+                        InteractWithObject(targetObj, null); // 상호작용 실행
+                    }
                 }
             }
-            
-            if (targetObject != null)
+        }
+
+        private void MoveToLocation(string locationName)
+        {
+            // (기존 이동 로직을 함수로 분리)
+            Debug.Log($"[NPCAgent] 🚶 Moving to location: {locationName}");
+            CurrentLocation = locationName; // 즉시 이동 처리 (실제 이동은 Pathfinding 호출)
+
+            if (Pathfinding != null)
             {
-                Debug.Log($"[NPCAgent] 🎯 Found object: {targetObject.objectName}");
-                
-                // 오브젝트와 상호작용
-                InteractWithObject(targetObject, (success) =>
-                {
-                    if (success)
-                    {
-                        // 계획에 오브젝트 저장 (다음번에 다시 선택 안 하도록)
-                        activity.targetObject = targetObject.objectName;
-                        
-                        MemoryMgr.AddMemory(
-                            MemoryType.Event,
-                            $"'{activity.activity}' 활동을 위해 '{targetObject.objectName}'을(를) 사용했다.",
-                            6,
-                            this
-                        );
-                    }
+                Pathfinding.MoveToArea(locationName, () => {
+                    Debug.Log($"[NPCAgent] Arrived at {locationName}");
                 });
             }
-            else
+        }
+
+        #endregion
+
+        #region Reacting (Perception Integration)
+
+        // PerceptionSystem이나 다른 곳에서 호출해줘야 함
+        public void OnPerceiveEnvironment(string observation)
+        {
+            if (IsInteractingWithPlayer || Planner.IsPlanningInProgress) return;
+
+            // 반응 평가 요청
+            Planner.EvaluateReaction(observation, this, (shouldReact, newActionDesc) =>
             {
-                Debug.LogWarning($"[NPCAgent] Could not find object matching: {selectedObjectName}");
-            }
+                if (shouldReact)
+                {
+                    InterruptAndReact(newActionDesc);
+                }
+            });
+        }
+
+        private void InterruptAndReact(string newActionDesc)
+        {
+            Debug.LogWarning($"[NPCAgent] ⚡ INTERRUPTED! New Goal: {newActionDesc}");
+
+            // 1. 현재 행동 중단
+            StopAllCoroutines(); // 이동/상호작용 중단 (주의: 필수 코루틴은 제외해야 함)
+            isDecomposing = false;
+            currentActionTimer = 0;
+
+            // 2. 큐 비우기 (기존 계획 폐기)
+            Planner.CurrentSubQueue.Clear();
+
+            // 3. 새로운 긴급 행동을 큐 맨 앞에 추가
+            // (임시로 10분짜리 행동으로 생성)
+            var reactionItem = new SubPlanItem(newActionDesc, 10, null, "❗");
+            Planner.CurrentSubQueue.Enqueue(reactionItem);
+
+            // 4. 메모리 기록
+            MemoryMgr.AddMemory(MemoryType.Event, $"갑작스러운 상황 발생: 상황을 인지하고 '{newActionDesc}' 행동을 하기로 결정했다.", 8, this);
+
+            // 다음 틱에 ExecuteSubAction이 실행됨
         }
 
         #endregion

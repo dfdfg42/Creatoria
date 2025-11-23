@@ -1,5 +1,8 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System;
+using System.Collections.Generic;
 using UnityEngine;
+using System.Linq;
 
 namespace NPCSimulation.Core
 {
@@ -59,6 +62,47 @@ namespace NPCSimulation.Core
             }
 
             return MoveTo(target.transform.position);
+        }
+
+        public void MoveToArea(string areaName, Action onComplete)
+        {
+            // 1. 씬에 있는 모든 WorldArea 중에서 이름이 일치하는 곳을 찾음
+            WorldArea targetArea = FindObjectsOfType<WorldArea>()
+                .FirstOrDefault(a => a.GetFullName() == areaName || a.areaName == areaName);
+
+            if (targetArea != null)
+            {
+                // 2. 해당 구역의 위치로 이동 (기존에 작성된 MoveTo 사용)
+                // 만약 MoveTo가 코루틴 방식이 아니라면, 여기서 직접 코루틴을 실행해야 합니다.
+                // 아래는 MoveTo가 위치를 설정하고 이동을 시작하는 함수라고 가정한 코드입니다.
+                MoveTo(targetArea.transform.position);
+
+                // 3. 도착 확인을 위한 코루틴 실행
+                StartCoroutine(WaitForArrival(onComplete));
+            }
+            else
+            {
+                Debug.LogWarning($"[Pathfinding] '{areaName}' 구역을 찾을 수 없습니다.");
+                // 찾지 못했어도 멈추지 않게 콜백은 실행
+                onComplete?.Invoke();
+            }
+        }
+
+        // 도착할 때까지 대기하는 코루틴
+        private IEnumerator WaitForArrival(Action onComplete)
+        {
+            // IsMoving이 true가 될 때까지 잠시 대기 (이동 시작 딜레이 고려)
+            yield return new WaitForEndOfFrame();
+
+            // 이동 중이라면 계속 대기
+            // (주의: PathfindingSystem에 'IsMoving' 프로퍼티가 있어야 합니다)
+            while (IsMoving)
+            {
+                yield return null;
+            }
+
+            // 도착 완료
+            onComplete?.Invoke();
         }
 
         /// <summary>
