@@ -1,43 +1,43 @@
 fileFormatVersion: 2
-guid: e196aa9da3b63404995f094d81467862
+guid: 4168f767d26a3b440ac6bcedb5db7a9b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8656603654595145460
-    second: Isabella_Rodriguez_0
+      213: -6058559991267070421
+    second: Carlos_Gomez_0
   - first:
-      213: 7815040304180500951
-    second: Isabella_Rodriguez_1
+      213: 1262364966253524848
+    second: Carlos_Gomez_1
   - first:
-      213: 4549208731739507731
-    second: Isabella_Rodriguez_2
+      213: 2624186209606963381
+    second: Carlos_Gomez_2
   - first:
-      213: 8786903862649773593
-    second: Isabella_Rodriguez_3
+      213: -4597927834743749364
+    second: Carlos_Gomez_3
   - first:
-      213: 1310652147614096559
-    second: Isabella_Rodriguez_4
+      213: 5006004790603157819
+    second: Carlos_Gomez_4
   - first:
-      213: 236868909758529091
-    second: Isabella_Rodriguez_5
+      213: -348173005154769639
+    second: Carlos_Gomez_5
   - first:
-      213: 2898649943563111141
-    second: Isabella_Rodriguez_6
+      213: 3729938453888951011
+    second: Carlos_Gomez_6
   - first:
-      213: -5115908817465174567
-    second: Isabella_Rodriguez_7
+      213: 8480866093046478673
+    second: Carlos_Gomez_7
   - first:
-      213: -4927446198938083864
-    second: Isabella_Rodriguez_8
+      213: -2897130292681241578
+    second: Carlos_Gomez_8
   - first:
-      213: -6664345824237808027
-    second: Isabella_Rodriguez_9
+      213: -6340515156834557321
+    second: Carlos_Gomez_9
   - first:
-      213: -8522417273322928771
-    second: Isabella_Rodriguez_10
+      213: 3971782742333072730
+    second: Carlos_Gomez_10
   - first:
-      213: -994273224547299197
-    second: Isabella_Rodriguez_11
+      213: 5245964741007168217
+    second: Carlos_Gomez_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -133,12 +133,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Isabella_Rodriguez_0
+      name: Carlos_Gomez_0
       rect:
         serializedVersion: 2
         x: 3
         y: 95
-        width: 29
+        width: 26
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -148,17 +148,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c01128e37d09dd780800000000000000
-      internalID: -8656603654595145460
+      spriteID: b2ee12e99cbabeba0800000000000000
+      internalID: -6058559991267070421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Isabella_Rodriguez_1
+      name: Carlos_Gomez_1
       rect:
         serializedVersion: 2
-        x: 4
+        x: 3
         y: 63
         width: 27
         height: 32
@@ -170,19 +170,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d91a0430c9947c60800000000000000
-      internalID: 7815040304180500951
+      spriteID: 077707e9f32d48110800000000000000
+      internalID: 1262364966253524848
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Isabella_Rodriguez_2
+      name: Carlos_Gomez_2
       rect:
         serializedVersion: 2
-        x: 34
+        x: 35
         y: 95
-        width: 29
+        width: 27
         height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -192,19 +192,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 31c40702d39022f30800000000000000
-      internalID: 4549208731739507731
+      spriteID: 5b01a10447bfa6420800000000000000
+      internalID: 2624186209606963381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Isabella_Rodriguez_3
+      name: Carlos_Gomez_3
       rect:
         serializedVersion: 2
-        x: 36
+        x: 35
         y: 63
-        width: 26
+        width: 27
         height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -214,19 +214,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 91e5fb0128a51f970800000000000000
-      internalID: 8786903862649773593
+      spriteID: c05c733cef0e030c0800000000000000
+      internalID: -4597927834743749364
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Isabella_Rodriguez_4
+      name: Carlos_Gomez_4
       rect:
         serializedVersion: 2
-        x: 65
-        y: 95
-        width: 29
+        x: 67
+        y: 63
+        width: 27
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -236,19 +236,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fac14a22f2f503210800000000000000
-      internalID: 1310652147614096559
+      spriteID: b311ec785d6e87540800000000000000
+      internalID: 5006004790603157819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Isabella_Rodriguez_5
+      name: Carlos_Gomez_5
       rect:
         serializedVersion: 2
         x: 68
-        y: 63
-        width: 27
+        y: 95
+        width: 26
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -258,39 +258,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 34ebd78b407894300800000000000000
-      internalID: 236868909758529091
+      spriteID: 915ae5b1f7a0b2bf0800000000000000
+      internalID: -348173005154769639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Isabella_Rodriguez_6
+      name: Carlos_Gomez_6
       rect:
         serializedVersion: 2
-        x: 1
-        y: 0
-        width: 29
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5ea094614c21a3820800000000000000
-      internalID: 2898649943563111141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Isabella_Rodriguez_7
-      rect:
-        serializedVersion: 2
-        x: 2
+        x: 3
         y: 31
         width: 27
         height: 32
@@ -302,20 +280,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9d513b72904a009b0800000000000000
-      internalID: -5115908817465174567
+      spriteID: 3e2ee12034763c330800000000000000
+      internalID: 3729938453888951011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Isabella_Rodriguez_8
+      name: Carlos_Gomez_7
       rect:
         serializedVersion: 2
-        x: 34
+        x: 3
         y: 0
-        width: 29
-        height: 32
+        width: 26
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,19 +302,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ed527ee9c13e9bb0800000000000000
-      internalID: -4927446198938083864
+      spriteID: 157b0bf27c612b570800000000000000
+      internalID: 8480866093046478673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Isabella_Rodriguez_9
+      name: Carlos_Gomez_8
       rect:
         serializedVersion: 2
         x: 35
         y: 31
-        width: 26
+        width: 27
         height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -346,17 +324,39 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 56692f538cc7383a0800000000000000
-      internalID: -6664345824237808027
+      spriteID: 61c06b439535bc7d0800000000000000
+      internalID: -2897130292681241578
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Isabella_Rodriguez_10
+      name: Carlos_Gomez_9
       rect:
         serializedVersion: 2
-        x: 66
+        x: 35
+        y: 0
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77265efee07f108a0800000000000000
+      internalID: -6340515156834557321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carlos_Gomez_10
+      rect:
+        serializedVersion: 2
+        x: 67
         y: 31
         width: 27
         height: 32
@@ -368,19 +368,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d750fe3c4aa4ab980800000000000000
-      internalID: -8522417273322928771
+      spriteID: a552ac95c5b9e1730800000000000000
+      internalID: 3971782742333072730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Isabella_Rodriguez_11
+      name: Carlos_Gomez_11
       rect:
         serializedVersion: 2
-        x: 67
+        x: 68
         y: 0
-        width: 29
+        width: 26
         height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -390,8 +390,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3801d2925c1a332f0800000000000000
-      internalID: -994273224547299197
+      spriteID: 9d2d4fb33296dc840800000000000000
+      internalID: 5245964741007168217
       vertices: []
       indices: 
       edges: []
@@ -410,18 +410,18 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Isabella_Rodriguez_0: -8656603654595145460
-      Isabella_Rodriguez_1: 7815040304180500951
-      Isabella_Rodriguez_10: -8522417273322928771
-      Isabella_Rodriguez_11: -994273224547299197
-      Isabella_Rodriguez_2: 4549208731739507731
-      Isabella_Rodriguez_3: 8786903862649773593
-      Isabella_Rodriguez_4: 1310652147614096559
-      Isabella_Rodriguez_5: 236868909758529091
-      Isabella_Rodriguez_6: 2898649943563111141
-      Isabella_Rodriguez_7: -5115908817465174567
-      Isabella_Rodriguez_8: -4927446198938083864
-      Isabella_Rodriguez_9: -6664345824237808027
+      Carlos_Gomez_0: -6058559991267070421
+      Carlos_Gomez_1: 1262364966253524848
+      Carlos_Gomez_10: 3971782742333072730
+      Carlos_Gomez_11: 5245964741007168217
+      Carlos_Gomez_2: 2624186209606963381
+      Carlos_Gomez_3: -4597927834743749364
+      Carlos_Gomez_4: 5006004790603157819
+      Carlos_Gomez_5: -348173005154769639
+      Carlos_Gomez_6: 3729938453888951011
+      Carlos_Gomez_7: 8480866093046478673
+      Carlos_Gomez_8: -2897130292681241578
+      Carlos_Gomez_9: -6340515156834557321
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
