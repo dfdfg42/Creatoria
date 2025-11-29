@@ -353,7 +353,7 @@ namespace NPCSimulation.Environment
                 WorldObject worldObject = obj.AddComponent<WorldObject>();
                 worldObject.objectName = decision.objectName;
                 worldObject.objectType = MapDecisionToObjectType(decision.objectName);
-                worldObject.isInteractable = true;
+                //worldObject.isInteractable = true;
                 worldObject.isVisible = true;
                 worldObject.objectState = $"{decision.reason}.";
 

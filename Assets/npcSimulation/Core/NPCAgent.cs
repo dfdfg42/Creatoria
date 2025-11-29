@@ -15,13 +15,16 @@ namespace NPCSimulation.Core
         public string npcName = "이서아";
         [TextArea(3, 10)]
         public string persona = "21살의 대학생. 시각 디자인을 전공하며 졸업 작품으로 고민이 많다. 성격은 내향적이지만 친근하고, 도움을 요청받으면 기꺼이 도와준다.";
-        
+
         [Header("OpenAI 설정")]
         public string openAIKey = "";
 
         [Header("자율 행동 설정")]
         public bool enableAutonomousBehavior = true;
         public float autonomousUpdateInterval = 5f; // 60초마다 업데이트
+
+        [Header("UI References")]
+        public ChatBubbleDisplay chatBubble; // [추가] 인스펙터에서 연결
 
         // 컴포넌트들
         private OpenAIClient llmClient;
@@ -39,6 +42,8 @@ namespace NPCSimulation.Core
 
         // 플레이어 상호작용 상태
         public bool IsInteractingWithPlayer { get; private set; } = false;
+
+        public bool IsTalking { get; private set; } = false;
 
         // 리플렉션
         private int reflectionImportanceSum = 0;
@@ -73,14 +78,14 @@ namespace NPCSimulation.Core
             MemoryMgr = new MemoryManager(llmClient, npcName, persona);
             ConversationMgr = new ConversationManager(llmClient);
             Planner = new AutonomousPlanner(this, llmClient);
-            
+
             // Perception & Pathfinding (컴포넌트로 추가되어야 함)
             Perception = GetComponent<PerceptionSystem>();
             if (Perception == null)
             {
                 Perception = gameObject.AddComponent<PerceptionSystem>();
             }
-            
+
             Pathfinding = GetComponent<PathfindingSystem>();
             if (Pathfinding == null)
             {
@@ -89,7 +94,7 @@ namespace NPCSimulation.Core
 
             // 초기 기억 설정
             InitializeMemories();
-            
+
             // 현재 위치 초기화 (가장 가까운 WorldArea 찾기)
             InitializeCurrentLocation();
 
@@ -105,8 +110,6 @@ namespace NPCSimulation.Core
             var spriteMgr = GetComponent<CharacterSpriteManager>();
             if (spriteMgr != null)
             {
-                // 예: NPC 이름이 "이서아"라면 "Resources/Characters/이서아"를 찾음
-                // 혹은 영어 ID가 따로 있다면 그것을 사용 (npcID 등)
                 spriteMgr.LoadCharacterSprite(npcName);
             }
         }
@@ -123,11 +126,11 @@ namespace NPCSimulation.Core
                 Debug.LogWarning("[NPCAgent] Scene에 WorldArea가 없습니다!");
                 return;
             }
-            
+
             // 가장 가까운 Area 찾기
             WorldArea nearestArea = allAreas[0];
             float minDistance = Vector3.Distance(transform.position, nearestArea.transform.position);
-            
+
             foreach (var area in allAreas)
             {
                 float distance = Vector3.Distance(transform.position, area.transform.position);
@@ -137,7 +140,7 @@ namespace NPCSimulation.Core
                     nearestArea = area;
                 }
             }
-            
+
             CurrentLocation = nearestArea.GetFullName();
             Debug.Log($"[NPCAgent] 시작 위치: {CurrentLocation}");
         }
@@ -204,6 +207,11 @@ namespace NPCSimulation.Core
                 response = generatedResponse;
             }, temperature: 0.7f, maxTokens: 150);
 
+            if (chatBubble != null)
+            {
+                chatBubble.ShowMessage(response, isToPlayer: true);
+            }
+
             // 5. 응답을 대화 버퍼에 추가
             ConversationMgr.AddTurn(npcName, response);
 
@@ -250,9 +258,12 @@ namespace NPCSimulation.Core
         {
             if (IsInteractingWithPlayer || Planner.IsPlanningInProgress || isDecomposing) return;
 
+            // [추가] 주변 에이전트 체크
+            CheckForOtherAgents();
+
             DateTime currentTime = WorldTimeManager.Instance.CurrentTime;
 
-            // 1. [High-Level] 일일 계획 갱신 체크 (기존 로직)
+            // 1. [High-Level] 일일 계획 갱신 체크
             if (Planner.ShouldReplan(currentTime))
             {
                 Planner.CreateNewDailyPlan(currentTime, this);
@@ -263,8 +274,7 @@ namespace NPCSimulation.Core
             // 2. [Sub-Level] 현재 실행 중인 세부 행동(Sub-Action)이 있는지 확인
             if (currentActionTimer > 0)
             {
-                // 행동 진행 중... 타이머 감소
-                currentActionTimer -= autonomousUpdateInterval; // interval(초) 만큼 감소
+                currentActionTimer -= autonomousUpdateInterval;
                 return;
             }
 
@@ -273,32 +283,66 @@ namespace NPCSimulation.Core
 
             if (nextSubAction != null)
             {
-                // 세부 행동 실행 시작
                 ExecuteSubAction(nextSubAction);
             }
             else
             {
-                // 큐가 비었음 -> 현재 시간의 High-Level 계획을 가져와서 분해(Decompose) 요청
+                // 큐가 비었음 -> 현재 시간의 High-Level 계획을 가져와서 분해 요청
                 PlanItem currentActivity = Planner.GetCurrentActivity(currentTime);
                 if (currentActivity != null)
                 {
-                    // 이미 해당 장소에 있는지 확인 후 이동 or 분해
                     if (CurrentLocation != currentActivity.location)
                     {
-                        // 장소 이동 먼저
                         MoveToLocation(currentActivity.location);
                     }
                     else
                     {
-                        // 장소 도착 완료 -> 분해 시작
                         isDecomposing = true;
                         Planner.DecomposeCurrentActivity(currentActivity, this, () =>
                         {
                             isDecomposing = false;
-                            // 완료되면 다음 틱에 큐에서 꺼내서 실행됨
                         });
                     }
                 }
+            }
+        }
+
+        // [추가] 주변에 다른 에이전트가 있는지 확인하고 말을 걸지 결정하는 함수
+        private void CheckForOtherAgents()
+        {
+            if (IsTalking || Planner.IsPlanningInProgress) return;
+
+            // Perception을 통해 가장 가까운 에이전트 찾기
+            NPCAgent otherAgent = Perception.FindNearestAgent(3.0f); // 3미터 이내
+
+            if (otherAgent != null && !otherAgent.IsTalking)
+            {
+                // 리액션 평가
+                Planner.EvaluateReaction($"I saw {otherAgent.Name} standing nearby.", this, (shouldReact, actionDesc) =>
+                {
+                    string action = actionDesc.ToLower();
+
+                    if (shouldReact && (
+                        action.Contains("talk") ||
+                        action.Contains("chat") ||
+                        action.Contains("greet") ||
+                        action.Contains("say") ||      // 말하다
+                        action.Contains("ask") ||      // 묻다
+                        action.Contains("tell") ||     // 말해주다
+                        action.Contains("discuss") ||  // 논의하다 (졸업작품 예시에서 나온 것)
+                        action.Contains("invite") ||   // 초대하다
+                        action.Contains("wave") ||     // 손흔들기 (보통 인사 후 대화로 이어짐)
+                        action.Contains("approach")    // 다가가다
+                    ))
+                    {
+                        StartCoroutine(InitiateConversation(otherAgent));
+                    }
+
+                    //if (shouldReact && (actionDesc.ToLower().Contains("talk") || actionDesc.ToLower().Contains("chat") || actionDesc.ToLower().Contains("greet")))
+                    //{
+                    //    StartCoroutine(InitiateConversation(otherAgent));
+                    //}
+                });
             }
         }
 
@@ -306,26 +350,19 @@ namespace NPCSimulation.Core
         {
             Debug.Log($"[NPCAgent] ▶ Performing Sub-Action: {subItem.emoji} {subItem.description} ({subItem.durationMin}m)");
 
-            // 타이머 설정 (게임 시간 vs 현실 시간 조절 필요. 여기선 간단히 1분=1초로 가정하거나 interval 비례)
-            currentActionTimer = subItem.durationMin * 1.0f; // 테스트용: 분 * 1초
+            currentActionTimer = subItem.durationMin * 1.0f;
 
-            // 메모리 기록
             MemoryMgr.AddMemory(MemoryType.Event, $"나는 {CurrentLocation}에서 '{subItem.description}' 행동을 시작했다.", 4, this);
 
-
-            // 오브젝트 상호작용이 명시된 경우
-            if (!string.IsNullOrEmpty(subItem.targetObject)) 
+            if (!string.IsNullOrEmpty(subItem.targetObject))
             {
-                Debug.Log($"오브젝트 상호작용 하러왔음 ");
-                // 현재 구역에서 오브젝트 찾기
-                // (이전에 구현한 InteractWithObject 로직 활용)
                 var currentArea = FindObjectsOfType<WorldArea>().FirstOrDefault(a => a.GetFullName() == CurrentLocation);
                 if (currentArea != null)
                 {
                     var targetObj = currentArea.FindObjectByName(subItem.targetObject);
                     if (targetObj != null)
                     {
-                        InteractWithObject(targetObj, null); // 상호작용 실행
+                        InteractWithObject(targetObj, null);
                     }
                 }
             }
@@ -333,9 +370,8 @@ namespace NPCSimulation.Core
 
         private void MoveToLocation(string locationName)
         {
-            // (기존 이동 로직을 함수로 분리)
             Debug.Log($"[NPCAgent] 🚶 Moving to location: {locationName}");
-            CurrentLocation = locationName; // 즉시 이동 처리 (실제 이동은 Pathfinding 호출)
+            CurrentLocation = locationName;
 
             if (Pathfinding != null)
             {
@@ -349,12 +385,10 @@ namespace NPCSimulation.Core
 
         #region Reacting (Perception Integration)
 
-        // PerceptionSystem이나 다른 곳에서 호출해줘야 함
         public void OnPerceiveEnvironment(string observation)
         {
             if (IsInteractingWithPlayer || Planner.IsPlanningInProgress) return;
 
-            // 반응 평가 요청
             Planner.EvaluateReaction(observation, this, (shouldReact, newActionDesc) =>
             {
                 if (shouldReact)
@@ -368,39 +402,27 @@ namespace NPCSimulation.Core
         {
             Debug.LogWarning($"[NPCAgent] ⚡ INTERRUPTED! New Goal: {newActionDesc}");
 
-            // 1. 현재 행동 중단
-            StopAllCoroutines(); // 이동/상호작용 중단 (주의: 필수 코루틴은 제외해야 함)
+            StopAllCoroutines();
             isDecomposing = false;
             currentActionTimer = 0;
 
-            // 2. 큐 비우기 (기존 계획 폐기)
             Planner.CurrentSubQueue.Clear();
 
-            // 3. 새로운 긴급 행동을 큐 맨 앞에 추가
-            // (임시로 10분짜리 행동으로 생성)
             var reactionItem = new SubPlanItem(newActionDesc, 10, null, "❗");
             Planner.CurrentSubQueue.Enqueue(reactionItem);
 
-            // 4. 메모리 기록
             MemoryMgr.AddMemory(MemoryType.Event, $"갑작스러운 상황 발생: 상황을 인지하고 '{newActionDesc}' 행동을 하기로 결정했다.", 8, this);
-
-            // 다음 틱에 ExecuteSubAction이 실행됨
         }
 
         #endregion
 
         #region Emotion
 
-        /// <summary>
-        /// 감정 상태 업데이트
-        /// </summary>
         public void UpdateEmotion(string newEmotion)
         {
             string oldEmotion = CurrentEmotion;
             CurrentEmotion = newEmotion;
-
             Debug.Log($"[NPCAgent] Emotion changed: {oldEmotion} → {newEmotion}");
-
             MemoryMgr.AddMemory(MemoryType.Thought, $"나의 감정이 '{oldEmotion}'에서 '{newEmotion}'로 변했다.", 6, this);
         }
 
@@ -408,9 +430,6 @@ namespace NPCSimulation.Core
 
         #region Object Interaction
 
-        /// <summary>
-        /// 오브젝트와 상호작용
-        /// </summary>
         public void InteractWithObject(WorldObject targetObject, Action<bool> callback)
         {
             StartCoroutine(GenerativeInteractionCoroutine(targetObject, callback));
@@ -420,7 +439,6 @@ namespace NPCSimulation.Core
         {
             if (targetObject == null) { callback?.Invoke(false); yield break; }
 
-            // 1. 이동 (기존과 동일)
             float distance = Vector3.Distance(transform.position, targetObject.transform.position);
             if (distance > targetObject.interactionRange)
             {
@@ -430,8 +448,6 @@ namespace NPCSimulation.Core
 
             Debug.Log($"[NPCAgent] {Name} interacting with {targetObject.objectName}...");
 
-            // 2. [STEP 1] 행동 결정하기
-            // "이 물건으로 무엇을 할 것인가?"
             string actionPrompt = $@"
 You are {npcName}.
 Current Situation: {CurrentSituation}
@@ -448,8 +464,6 @@ Action:";
 
             Debug.Log($"[NPCAgent] Action Decided: {actionDescription}");
 
-            // 3. [STEP 2] 상태 변화 추론하기 (논문의 Generative Sandbox 핵심!)
-            // "내가 이 행동을 하면, 물건의 상태는 어떻게 변하는가?"
             string statePrompt = $@"
 Agent Action: {actionDescription}
 Object: {targetObject.objectName}
@@ -462,16 +476,13 @@ New State:";
             string newState = "";
             yield return llmClient.GetChatCompletion(statePrompt, (response) => {
                 newState = response.Trim();
-                // 따옴표나 불필요한 설명 제거
                 newState = newState.Replace("The object is now ", "").Replace("\"", "").Replace(".", "");
             }, temperature: 0.3f, maxTokens: 30);
 
             Debug.Log($"[NPCAgent] New State Inferred: {newState}");
 
-            // 4. 오브젝트 상태 업데이트 (실제 반영)
             targetObject.UpdateState(newState);
 
-            // 5. 기억 저장
             MemoryMgr.AddMemory(
                 MemoryType.Event,
                 $"{targetObject.objectName}에 대해 행동했다: '{actionDescription}'. 결과 상태: '{newState}'",
@@ -481,10 +492,7 @@ New State:";
 
             callback?.Invoke(true);
         }
-        
-        /// <summary>
-        /// 특정 타입의 오브젝트 찾아서 이동
-        /// </summary>
+
         public void FindAndMoveToObjectType(string type, Action<WorldObject> callback)
         {
             StartCoroutine(FindAndMoveToObjectTypeCoroutine(type, callback));
@@ -492,11 +500,9 @@ New State:";
 
         private IEnumerator FindAndMoveToObjectTypeCoroutine(string type, Action<WorldObject> callback)
         {
-            // Perception으로 주변 감지
             Perception.PerceiveEnvironment();
             yield return new WaitForSeconds(0.5f);
 
-            // 해당 타입 오브젝트 검색
             WorldObject target = Perception.FindNearestObjectOfType(type);
 
             if (target == null)
@@ -508,7 +514,6 @@ New State:";
 
             Debug.Log($"[NPCAgent] Found {target.objectName}, moving...");
 
-            // 이동
             bool success = Pathfinding.MoveToObject(target);
             if (!success)
             {
@@ -516,7 +521,6 @@ New State:";
                 yield break;
             }
 
-            // 이동 완료 대기
             while (Pathfinding.IsMoving)
             {
                 yield return null;
@@ -527,11 +531,108 @@ New State:";
 
         #endregion
 
+        #region npcInteraction
+
+        public void ReceiveMessageFromAgent(NPCAgent sender, string message)
+        {
+            Debug.Log($"[{npcName}] 듣기: {sender.Name} -> \"{message}\"");
+            MemoryMgr.AddMemory(MemoryType.Event, $"{sender.Name}가 나에게 말했다: \"{message}\"", 5, this);
+
+            if (!IsTalking)
+            {
+                StopCurrentAction();
+                IsTalking = true;
+            }
+
+            StartCoroutine(GenerateReply(sender, message));
+        }
+
+        private IEnumerator GenerateReply(NPCAgent partner, string partnerMessage)
+        {
+            if (partnerMessage.Contains("Bye") || partnerMessage.Contains("가볼게"))
+            {
+                EndConversation();
+                yield break;
+            }
+
+            string prompt = $@"
+You are {npcName}. You are talking to {partner.Name}.
+Your Persona: {persona}
+Partner's Persona: {partner.Persona}
+Current Context: {CurrentSituation}
+
+{partner.Name} said: ""{partnerMessage}""
+
+Reply to {partner.Name}. 
+If you want to end the conversation, include ""Bye"".
+Keep it short (1 sentence).
+
+Reply:";
+
+            string reply = "";
+            yield return llmClient.GetChatCompletion(prompt, (res) => reply = res.Trim(), 0.7f, 100);
+
+            if (chatBubble != null)
+            {
+                chatBubble.ShowMessage(reply, isToPlayer: false);
+            }
+
+            Debug.Log($"[{npcName}] 말하기: \"{reply}\"");
+            partner.ReceiveMessageFromAgent(this, reply);
+
+            MemoryMgr.AddMemory(MemoryType.Event, $"나는 {partner.Name}에게 말했다: \"{reply}\"", 5, this);
+        }
+
+        public void EndConversation()
+        {
+            IsTalking = false;
+            Debug.Log($"[{npcName}] 대화 종료.");
+        }
+
+        private IEnumerator InitiateConversation(NPCAgent target)
+        {
+            IsTalking = true;
+            StopCurrentAction();
+            target.StopCurrentAction();
+
+            string prompt = $@"
+You decide to talk to {target.Name}.
+Your Persona: {persona}
+Target's Persona: {target.Persona}
+
+What is your first sentence to start the conversation?
+(e.g., Hello, How are you?, Did you see the news?)
+
+Sentence:";
+
+            string firstMsg = "";
+            yield return llmClient.GetChatCompletion(prompt, (res) => firstMsg = res.Trim(), 0.7f, 100);
+
+            Debug.Log($"[{npcName}] 대화 시작: \"{firstMsg}\"");
+
+            if (chatBubble != null)
+            {
+                chatBubble.ShowMessage(firstMsg, isToPlayer: false);
+            }
+
+            MemoryMgr.AddMemory(MemoryType.Event, $"{target.Name}에게 말을 걸었다: \"{firstMsg}\"", 5, this);
+
+            target.ReceiveMessageFromAgent(this, firstMsg);
+        }
+
+        public void StopCurrentAction()
+        {
+            StopAllCoroutines();
+            // Pathfinding System에 Stop 기능이 있다고 가정 (없으면 에러날 수 있으니 확인 필요)
+            if (Pathfinding != null) Pathfinding.StopAllCoroutines();
+            isDecomposing = false;
+            Planner.CurrentSubQueue.Clear();
+        }
+
+        #endregion
+
         #region Environment Modification
 
-        /// <summary>
-        /// 환경 변경이 필요한지 판단
-        /// </summary>
         public void EvaluateEnvironmentChange(string context, Action<EnvironmentChangeDecision> callback)
         {
             StartCoroutine(EvaluateEnvironmentChangeCoroutine(context, callback));
@@ -563,30 +664,14 @@ New State:";
 
             yield return llmClient.GetChatCompletion(prompt, (response) =>
             {
-                // 응답 파싱
                 string[] lines = response.Split('\n');
                 foreach (string line in lines)
                 {
-                    if (line.Contains("필요 여부:"))
-                    {
-                        decision.isNeeded = line.Contains("예");
-                    }
-                    else if (line.Contains("오브젝트:"))
-                    {
-                        decision.objectName = line.Split(':')[1].Trim();
-                    }
-                    else if (line.Contains("이유:"))
-                    {
-                        decision.reason = line.Split(':')[1].Trim();
-                    }
-                    else if (line.Contains("위치 힌트:"))
-                    {
-                        decision.positionHint = line.Split(':')[1].Trim();
-                    }
-                    else if (line.Contains("프롬프트:"))
-                    {
-                        decision.imagePrompt = line.Split(':')[1].Trim();
-                    }
+                    if (line.Contains("필요 여부:")) decision.isNeeded = line.Contains("예");
+                    else if (line.Contains("오브젝트:")) decision.objectName = line.Split(':')[1].Trim();
+                    else if (line.Contains("이유:")) decision.reason = line.Split(':')[1].Trim();
+                    else if (line.Contains("위치 힌트:")) decision.positionHint = line.Split(':')[1].Trim();
+                    else if (line.Contains("프롬프트:")) decision.imagePrompt = line.Split(':')[1].Trim();
                 }
 
                 Debug.Log($"[NPCAgent] Environment change decision: {decision}");
@@ -597,9 +682,6 @@ New State:";
         #endregion
     }
 
-    /// <summary>
-    /// 환경 변경 결정 데이터
-    /// </summary>
     [Serializable]
     public class EnvironmentChangeDecision
     {

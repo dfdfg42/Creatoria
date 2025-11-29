@@ -41,6 +41,7 @@ namespace NPCSimulation.Core
             if (Time.time - lastDetectionTime >= detectionInterval)
             {
                 PerceiveEnvironment();
+
                 lastDetectionTime = Time.time;
             }
         }
@@ -142,6 +143,27 @@ namespace NPCSimulation.Core
             return objectsOfType.OrderBy(o => Vector3.Distance(transform.position, o.transform.position)).First();
         }
 
+        // PerceptionSystem.cs 추가
+        public NPCAgent FindNearestAgent(float range = 10f)
+        {
+            var allAgents = FindObjectsOfType<NPCAgent>();
+            NPCAgent nearest = null;
+            float minDst = range;
+
+            foreach (var agent in allAgents)
+            {
+                if (agent == GetComponent<NPCAgent>()) continue; // 나 자신은 제외
+
+                float dst = Vector3.Distance(transform.position, agent.transform.position);
+                if (dst < minDst)
+                {
+                    minDst = dst;
+                    nearest = agent;
+                }
+            }
+            return nearest;
+        }
+
         /// <summary>
         /// 이름으로 오브젝트 검색
         /// </summary>
@@ -191,6 +213,9 @@ namespace NPCSimulation.Core
         /// 감지된 에이전트 목록 반환
         /// </summary>
         public List<NPCAgent> GetDetectedAgents() => detectedAgents;
+
+
+
 
         /// <summary>
         /// 공간 기억 요약

@@ -164,6 +164,7 @@ namespace NPCSimulation.Core
             currentPathIndex = 0;
         }
 
+
         /// <summary>
         /// 현재 이동 중인지
         /// </summary>

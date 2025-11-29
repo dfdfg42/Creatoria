@@ -364,7 +364,7 @@ namespace NPCSimulation.Core
         {
             int currentHour = currentTime.Hour;
 
-            //Debug.Log($"[AutonomousPlanner] 현재 시간 {currentHour}시에 해당하는 활동 검색 중... (총 {DailySchedule.Count}개 일정)");
+            Debug.Log($"[AutonomousPlanner] 현재 시간 {currentHour}시에 해당하는 활동 검색 중... (총 {DailySchedule.Count}개 일정)");
 
             foreach (var plan in DailySchedule)
             {
@@ -383,12 +383,12 @@ namespace NPCSimulation.Core
 
                 if (isInRange)
                 {
-                    //Debug.Log($"[AutonomousPlanner] ✅ 찾음! {plan}");
+                    Debug.Log($"[AutonomousPlanner] ✅ 찾음! {plan}");
                     return plan;
                 }
             }
 
-            //Debug.LogWarning($"[AutonomousPlanner] ⚠️ {currentHour}시에 해당하는 활동을 찾지 못했습니다.");
+            Debug.LogWarning($"[AutonomousPlanner] ⚠️ {currentHour}시에 해당하는 활동을 찾지 못했습니다.");
             return null;
         }
 

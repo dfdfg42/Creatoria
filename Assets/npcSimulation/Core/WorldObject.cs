@@ -1,81 +1,178 @@
 ﻿using UnityEngine;
+using TMPro; // [필수] TextMeshPro
+using System.Collections;
+using NPCSimulation.Core;
 
-namespace NPCSimulation.Core
+public class WorldObject : MonoBehaviour
 {
-    [RequireComponent(typeof(Collider2D))]
-    public class WorldObject : MonoBehaviour
+    [Header("Basic Info")]
+    public string objectName = "Object";
+    public string objectType = "Furniture";
+    public string objectState = "Default";
+
+    [Header("Proximity Settings")]
+    public float infoShowDistance = 3.0f; // 이 거리 안에 들어오면 정보 표시
+    private Transform playerTransform;
+
+    [Header("Interaction")]
+    public float interactionRange = 1.5f;
+    public bool isVisible = true;
+
+    // [UI Settings - 인스펙터에서 연결]
+    [Header("UI References")]
+    public TextMeshPro popupText;    // 상태 변화 알림용 (노란색)
+    public TextMeshPro infoText;     // 마우스 오버 정보용 (흰색)
+
+    [Header("UI Config")]
+    public float popupDuration = 2.0f;
+    public Vector3 popupOffset = new Vector3(0, 1.0f, 0);
+
+    private Coroutine popupCoroutine;
+    private Vector3 originalPopupPos;
+
+    private void Start()
     {
-        [Header("Object Info")]
-        public string objectName = "New Object";
-        public string objectType = "Generic";
-
-        [Header("State (Generative)")]
-        [TextArea(3, 10)]
-        [Tooltip("오브젝트의 현재 상태를 묘사하는 자연어 문장")]
-        public string objectState = "idle"; // 예: "brewing coffee", "turned off"
-        [Header("Interaction")]
-        public bool isInteractable = true;
-        public float interactionRange = 1.5f;
-
-        // [복구] 시스템에서 필요한 필수 변수
-        public bool isVisible = true;
-
-        private void OnValidate()
+        // 시작 시 UI 숨기기 및 위치 저장
+        if (popupText != null)
         {
-            if (!string.IsNullOrEmpty(objectName) && gameObject.name != objectName)
+            // 🔵 부모를 이 오브젝트로 고정
+            popupText.transform.SetParent(transform, false);
+
+            // 🔵 부모 기준 위쪽으로 올려두기 (popupOffset 사용)
+            popupText.transform.localPosition = popupOffset;
+
+            popupText.gameObject.SetActive(false);
+            originalPopupPos = popupText.transform.localPosition;
+        }
+
+        if (infoText != null)
+        {
+            // 🔵 infoText도 부모를 이 오브젝트로 고정
+            infoText.transform.SetParent(transform, false);
+
+            // 🔵 같은 위치 쓰고 싶으면 popupOffset 재사용, 따로 하고 싶으면 다른 offset 변수 만들어도 됨
+            infoText.transform.localPosition = popupOffset;
+
+            infoText.gameObject.SetActive(false);
+        }
+
+        var player = FindObjectOfType<PlayerStats>();
+        if (player != null) playerTransform = player.transform;
+    }
+
+    private void Update()
+    {
+        // [추가] 플레이어와의 거리 체크하여 UI 표시
+        if (playerTransform != null && infoText != null)
+        {
+            float dist = Vector3.Distance(transform.position, playerTransform.position);
+
+            // 마우스가 올라가 있지 않을 때만 거리 기반 작동 (마우스 오버가 우선순위)
+            bool isMouseOver = false; // 실제로는 OnMouseEnter에서 플래그 관리 필요할 수 있음
+
+            if (dist <= infoShowDistance)
             {
-                gameObject.name = objectName;
+                // 가까이 있으면 켜기
+                if (!infoText.gameObject.activeSelf)
+                {
+                    infoText.gameObject.SetActive(true);
+                    UpdateInfoText(); // 텍스트 갱신
+                }
+            }
+            else
+            {
+                // 멀어지면 끄기 (단, 팝업 텍스트나 마우스 오버 상태가 아닐 때)
+                if (infoText.gameObject.activeSelf)
+                {
+                    // 여기서는 간단히 끄지만, 마우스 오버 로직과 겹치면 플래그 관리 필요
+                    infoText.gameObject.SetActive(false);
+                }
             }
         }
+    }
 
-        private void Start()
+    /// <summary>
+    /// 외부(NPC)에서 상태를 변경할 때 호출
+    /// </summary>
+    public void UpdateState(string newState)
+    {
+        if (objectState == newState) return;
+
+        objectState = newState;
+        Debug.Log($"[WorldObject] {objectName} state updated to: {objectState}");
+
+        // 1. 상태 변화 알림 띄우기
+        if (popupText != null)
         {
-            // 시작 시 크기 자동 조절
-            RefreshVisuals();
+            if (popupCoroutine != null) StopCoroutine(popupCoroutine);
+            popupCoroutine = StartCoroutine(ShowPopupRoutine(newState));
         }
 
-        /// <summary>
-        /// AI에게 보여줄 전체 설명 가져오기
-        /// </summary>
-        public string GetDescription()
+        // 2. 정보창 갱신 (켜져 있다면)
+        if (infoText != null && infoText.gameObject.activeSelf)
         {
-            return $"{objectName} ({objectType}) is currently {objectState}";
+            UpdateInfoText();
         }
 
-        /// <summary>
-        /// LLM이 생성한 새로운 상태로 업데이트
-        /// </summary>
-        public void UpdateState(string newStateDescription)
+        RefreshVisuals();
+    }
+
+    private IEnumerator ShowPopupRoutine(string text)
+    {
+        popupText.gameObject.SetActive(true);
+        popupText.text = text;
+        popupText.color = Color.yellow; // 강조색
+
+        // 위치 초기화 후 시작
+        popupText.transform.localPosition = originalPopupPos;
+
+        float timer = 0f;
+        while (timer < popupDuration)
         {
-            string oldState = objectState;
-            objectState = newStateDescription;
-            Debug.Log($"[WorldObject] {objectName} State Updated: '{oldState}' -> '{newStateDescription}'");
+            timer += Time.deltaTime;
+            // 위로 둥실 떠오르는 효과
+            popupText.transform.position += Vector3.up * Time.deltaTime * 0.5f;
+            yield return null;
         }
 
-        /// <summary>
-        /// [복구] 스프라이트 변경 시 콜라이더 크기 재설정
-        /// </summary>
-        public void RefreshVisuals()
+        popupText.gameObject.SetActive(false);
+    }
+
+    private void UpdateInfoText()
+    {
+        if (infoText != null)
         {
-            SpriteRenderer sr = GetComponent<SpriteRenderer>();
-            BoxCollider2D col = GetComponent<BoxCollider2D>();
-
-            if (sr != null && sr.sprite != null && col != null)
-            {
-                if (sr.drawMode == SpriteDrawMode.Simple)
-                    col.size = sr.sprite.bounds.size;
-                else
-                    col.size = sr.size;
-
-                col.offset = Vector2.zero;
-            }
+            infoText.text = $"{objectName}\n<size=70%>({objectState})</size>";
         }
+    }
 
-        private void OnDrawGizmos()
+    // --- 마우스 이벤트 ---
+
+    private void OnMouseEnter()
+    {
+        // UI에 가려져 있으면 무시
+        if (UnityEngine.EventSystems.EventSystem.current != null &&
+            UnityEngine.EventSystems.EventSystem.current.IsPointerOverGameObject()) return;
+
+        if (infoText != null)
         {
-            if (!isInteractable) return;
-            Gizmos.color = new Color(0f, 1f, 0f, 0.3f);
-            Gizmos.DrawWireSphere(transform.position, interactionRange);
+            infoText.gameObject.SetActive(true);
+            UpdateInfoText();
         }
+    }
+
+    private void OnMouseExit()
+    {
+        if (infoText != null)
+        {
+            infoText.gameObject.SetActive(false);
+        }
+    }
+
+    public void RefreshVisuals() { }
+
+    public string GetDescription()
+    {
+        return $"{objectName} is currently {objectState}.";
     }
 }
